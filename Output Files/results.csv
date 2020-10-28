@@ -1,0 +1,2347 @@
+,_id,Team,Final,Season,Week
+0,5f993e2bd6f3f1cd63a4cc57,Oakland (12-4),14,2016,18
+1,5f993e2bd6f3f1cd63a4cc58,Houston (9-7),27,2016,18
+2,5f993e2bd6f3f1cd63a4cc59,Detroit (9-7),6,2016,18
+3,5f993e2bd6f3f1cd63a4cc5a,Seattle (10-5-1),26,2016,18
+4,5f993e2bd6f3f1cd63a4cc5b,Miami (10-6),12,2016,18
+5,5f993e2bd6f3f1cd63a4cc5c,Pittsburgh (11-5),30,2016,18
+6,5f993e2bd6f3f1cd63a4cc5d,NY Giants (11-5),13,2016,18
+7,5f993e2bd6f3f1cd63a4cc5e,Green Bay (10-6),38,2016,18
+8,5f993e2cd6f3f1cd63a4cc60,Seattle (10-5-1),20,2016,19
+9,5f993e2cd6f3f1cd63a4cc61,Atlanta (11-5),36,2016,19
+10,5f993e2cd6f3f1cd63a4cc62,Houston (9-7),16,2016,19
+11,5f993e2cd6f3f1cd63a4cc63,New England (14-2),34,2016,19
+12,5f993e2cd6f3f1cd63a4cc64,Green Bay (10-6),34,2016,19
+13,5f993e2cd6f3f1cd63a4cc65,Dallas (13-3),31,2016,19
+14,5f993e2cd6f3f1cd63a4cc66,Pittsburgh (11-5),18,2016,19
+15,5f993e2cd6f3f1cd63a4cc67,Kansas City (12-4),16,2016,19
+16,5f993e2cd6f3f1cd63a4cc69,Green Bay (10-6),21,2016,20
+17,5f993e2cd6f3f1cd63a4cc6a,Atlanta (11-5),44,2016,20
+18,5f993e2cd6f3f1cd63a4cc6b,Pittsburgh (11-5),17,2016,20
+19,5f993e2cd6f3f1cd63a4cc6c,New England (14-2),36,2016,20
+20,5f993e2dd6f3f1cd63a4cc6e,New England (14-2),34,2016,21
+21,5f993e2dd6f3f1cd63a4cc6f,Atlanta (11-5),28,2016,21
+22,5f993e2dd6f3f1cd63a4cc71,Tennessee (9-7),22,2017,18
+23,5f993e2dd6f3f1cd63a4cc72,Kansas City (10-6),21,2017,18
+24,5f993e2dd6f3f1cd63a4cc73,Atlanta (10-6),26,2017,18
+25,5f993e2dd6f3f1cd63a4cc74,LA Rams (11-5),13,2017,18
+26,5f993e2dd6f3f1cd63a4cc75,Buffalo (9-7),3,2017,18
+27,5f993e2dd6f3f1cd63a4cc76,Jacksonville (10-6),10,2017,18
+28,5f993e2dd6f3f1cd63a4cc77,Carolina (11-5),26,2017,18
+29,5f993e2dd6f3f1cd63a4cc78,New Orleans (11-5),31,2017,18
+30,5f993e2ed6f3f1cd63a4cc7a,Atlanta (10-6),10,2017,19
+31,5f993e2ed6f3f1cd63a4cc7b,Philadelphia (13-3),15,2017,19
+32,5f993e2ed6f3f1cd63a4cc7c,Tennessee (9-7),14,2017,19
+33,5f993e2ed6f3f1cd63a4cc7d,New England (13-3),35,2017,19
+34,5f993e2ed6f3f1cd63a4cc7e,Jacksonville (10-6),45,2017,19
+35,5f993e2ed6f3f1cd63a4cc7f,Pittsburgh (13-3),42,2017,19
+36,5f993e2ed6f3f1cd63a4cc80,New Orleans (11-5),24,2017,19
+37,5f993e2ed6f3f1cd63a4cc81,Minnesota (13-3),29,2017,19
+38,5f993e2ed6f3f1cd63a4cc83,Jacksonville (10-6),20,2017,20
+39,5f993e2ed6f3f1cd63a4cc84,New England (13-3),24,2017,20
+40,5f993e2ed6f3f1cd63a4cc85,Minnesota (13-3),7,2017,20
+41,5f993e2ed6f3f1cd63a4cc86,Philadelphia (13-3),38,2017,20
+42,5f993e2fd6f3f1cd63a4cc88,Philadelphia (13-3),41,2017,21
+43,5f993e2fd6f3f1cd63a4cc89,New England (13-3),33,2017,21
+44,5f993e2fd6f3f1cd63a4cc8b,Indianapolis (10-6),21,2018,18
+45,5f993e2fd6f3f1cd63a4cc8c,Houston (11-5),7,2018,18
+46,5f993e2fd6f3f1cd63a4cc8d,Seattle (10-6),22,2018,18
+47,5f993e2fd6f3f1cd63a4cc8e,Dallas (10-6),24,2018,18
+48,5f993e2fd6f3f1cd63a4cc8f,LA Chargers (12-4),23,2018,18
+49,5f993e2fd6f3f1cd63a4cc90,Baltimore (10-6),17,2018,18
+50,5f993e2fd6f3f1cd63a4cc91,Philadelphia (9-7),16,2018,18
+51,5f993e2fd6f3f1cd63a4cc92,Chicago (12-4),15,2018,18
+52,5f993e30d6f3f1cd63a4cc94,Indianapolis (10-6),13,2018,19
+53,5f993e30d6f3f1cd63a4cc95,Kansas City (12-4),31,2018,19
+54,5f993e30d6f3f1cd63a4cc96,Dallas (10-6),22,2018,19
+55,5f993e30d6f3f1cd63a4cc97,LA Rams (13-3),30,2018,19
+56,5f993e30d6f3f1cd63a4cc98,LA Chargers (12-4),28,2018,19
+57,5f993e30d6f3f1cd63a4cc99,New England (11-5),41,2018,19
+58,5f993e30d6f3f1cd63a4cc9a,Philadelphia (9-7),14,2018,19
+59,5f993e30d6f3f1cd63a4cc9b,New Orleans (13-3),20,2018,19
+60,5f993e31d6f3f1cd63a4cc9d,LA Rams (13-3),26,2018,20
+61,5f993e31d6f3f1cd63a4cc9e,New Orleans (13-3),23,2018,20
+62,5f993e31d6f3f1cd63a4cc9f,New England (11-5),37,2018,20
+63,5f993e31d6f3f1cd63a4cca0,Kansas City (12-4),31,2018,20
+64,5f993e31d6f3f1cd63a4cca2,New England (11-5),13,2018,21
+65,5f993e31d6f3f1cd63a4cca3,LA Rams (13-3),3,2018,21
+66,5f993e32d6f3f1cd63a4cca5,Buffalo (10-6),19,2019,18
+67,5f993e32d6f3f1cd63a4cca6,Houston (10-6),22,2019,18
+68,5f993e32d6f3f1cd63a4cca7,Tennessee (9-7),20,2019,18
+69,5f993e32d6f3f1cd63a4cca8,New England (12-4),13,2019,18
+70,5f993e32d6f3f1cd63a4cca9,Minnesota (10-6),26,2019,18
+71,5f993e32d6f3f1cd63a4ccaa,New Orleans (13-3),20,2019,18
+72,5f993e32d6f3f1cd63a4ccab,Seattle (11-5),17,2019,18
+73,5f993e32d6f3f1cd63a4ccac,Philadelphia (9-7),9,2019,18
+74,5f993e32d6f3f1cd63a4ccae,Minnesota (10-6),10,2019,19
+75,5f993e32d6f3f1cd63a4ccaf,San Francisco (13-3),27,2019,19
+76,5f993e32d6f3f1cd63a4ccb0,Tennessee (9-7),28,2019,19
+77,5f993e32d6f3f1cd63a4ccb1,Baltimore (14-2),12,2019,19
+78,5f993e32d6f3f1cd63a4ccb2,Houston (10-6),31,2019,19
+79,5f993e32d6f3f1cd63a4ccb3,Kansas City (12-4),51,2019,19
+80,5f993e32d6f3f1cd63a4ccb4,Seattle (11-5),23,2019,19
+81,5f993e32d6f3f1cd63a4ccb5,Green Bay (13-3),28,2019,19
+82,5f993e33d6f3f1cd63a4ccb7,Tennessee (9-7),24,2019,20
+83,5f993e33d6f3f1cd63a4ccb8,Kansas City (12-4),35,2019,20
+84,5f993e33d6f3f1cd63a4ccb9,Green Bay (13-3),20,2019,20
+85,5f993e33d6f3f1cd63a4ccba,San Francisco (13-3),37,2019,20
+86,5f993e33d6f3f1cd63a4ccbc,San Francisco (13-3),20,2019,21
+87,5f993e33d6f3f1cd63a4ccbd,Kansas City (12-4),31,2019,21
+88,5f993e472aa4ba0deeabca68,Carolina (0-1),20,2016,1
+89,5f993e472aa4ba0deeabca69,Denver (1-0),21,2016,1
+90,5f993e472aa4ba0deeabca6a,Tampa Bay (1-0),31,2016,1
+91,5f993e472aa4ba0deeabca6b,Atlanta (0-1),24,2016,1
+92,5f993e472aa4ba0deeabca6c,Minnesota (1-0),25,2016,1
+93,5f993e472aa4ba0deeabca6d,Tennessee (0-1),16,2016,1
+94,5f993e472aa4ba0deeabca6e,Cleveland (0-1),10,2016,1
+95,5f993e472aa4ba0deeabca6f,Philadelphia (1-0),29,2016,1
+96,5f993e472aa4ba0deeabca70,Cincinnati (1-0),23,2016,1
+97,5f993e472aa4ba0deeabca71,NY Jets (0-1),22,2016,1
+98,5f993e472aa4ba0deeabca72,Oakland (1-0),35,2016,1
+99,5f993e472aa4ba0deeabca73,New Orleans (0-1),34,2016,1
+100,5f993e472aa4ba0deeabca74,San Diego (0-1),27,2016,1
+101,5f993e472aa4ba0deeabca75,Kansas City (1-0),33,2016,1
+102,5f993e472aa4ba0deeabca76,Buffalo (0-1),7,2016,1
+103,5f993e472aa4ba0deeabca77,Baltimore (1-0),13,2016,1
+104,5f993e472aa4ba0deeabca78,Chicago (0-1),14,2016,1
+105,5f993e472aa4ba0deeabca79,Houston (1-0),23,2016,1
+106,5f993e472aa4ba0deeabca7a,Green Bay (1-0),27,2016,1
+107,5f993e472aa4ba0deeabca7b,Jacksonville (0-1),23,2016,1
+108,5f993e472aa4ba0deeabca7c,Miami (0-1),10,2016,1
+109,5f993e472aa4ba0deeabca7d,Seattle (1-0),12,2016,1
+110,5f993e472aa4ba0deeabca7e,NY Giants (1-0),20,2016,1
+111,5f993e472aa4ba0deeabca7f,Dallas (0-1),19,2016,1
+112,5f993e472aa4ba0deeabca80,Detroit (1-0),39,2016,1
+113,5f993e472aa4ba0deeabca81,Indianapolis (0-1),35,2016,1
+114,5f993e472aa4ba0deeabca82,New England (1-0),23,2016,1
+115,5f993e472aa4ba0deeabca83,Arizona (0-1),21,2016,1
+116,5f993e472aa4ba0deeabca84,Pittsburgh (1-0),38,2016,1
+117,5f993e472aa4ba0deeabca85,Washington (0-1),16,2016,1
+118,5f993e472aa4ba0deeabca86,Los Angeles (0-1),0,2016,1
+119,5f993e472aa4ba0deeabca87,San Francisco (1-0),28,2016,1
+120,5f993e482aa4ba0deeabca89,NY Jets (1-1),37,2016,2
+121,5f993e482aa4ba0deeabca8a,Buffalo (0-2),31,2016,2
+122,5f993e482aa4ba0deeabca8b,San Francisco (1-1),27,2016,2
+123,5f993e482aa4ba0deeabca8c,Carolina (1-1),46,2016,2
+124,5f993e482aa4ba0deeabca8d,Dallas (1-1),27,2016,2
+125,5f993e482aa4ba0deeabca8e,Washington (0-2),23,2016,2
+126,5f993e482aa4ba0deeabca8f,Cincinnati (1-1),16,2016,2
+127,5f993e482aa4ba0deeabca90,Pittsburgh (2-0),24,2016,2
+128,5f993e482aa4ba0deeabca91,New Orleans (0-2),13,2016,2
+129,5f993e482aa4ba0deeabca92,NY Giants (2-0),16,2016,2
+130,5f993e482aa4ba0deeabca93,Miami (0-2),24,2016,2
+131,5f993e482aa4ba0deeabca94,New England (2-0),31,2016,2
+132,5f993e482aa4ba0deeabca95,Kansas City (1-1),12,2016,2
+133,5f993e482aa4ba0deeabca96,Houston (2-0),19,2016,2
+134,5f993e482aa4ba0deeabca97,Tennessee (1-1),16,2016,2
+135,5f993e482aa4ba0deeabca98,Detroit (1-1),15,2016,2
+136,5f993e482aa4ba0deeabca99,Baltimore (2-0),25,2016,2
+137,5f993e482aa4ba0deeabca9a,Cleveland (0-2),20,2016,2
+138,5f993e482aa4ba0deeabca9b,Tampa Bay (1-1),7,2016,2
+139,5f993e482aa4ba0deeabca9c,Arizona (1-1),40,2016,2
+140,5f993e482aa4ba0deeabca9d,Seattle (1-1),3,2016,2
+141,5f993e482aa4ba0deeabca9e,Los Angeles (1-1),9,2016,2
+142,5f993e482aa4ba0deeabca9f,Jacksonville (0-2),14,2016,2
+143,5f993e482aa4ba0deeabcaa0,San Diego (1-1),38,2016,2
+144,5f993e482aa4ba0deeabcaa1,Atlanta (1-1),35,2016,2
+145,5f993e482aa4ba0deeabcaa2,Oakland (1-1),28,2016,2
+146,5f993e482aa4ba0deeabcaa3,Indianapolis (0-2),20,2016,2
+147,5f993e482aa4ba0deeabcaa4,Denver (2-0),34,2016,2
+148,5f993e482aa4ba0deeabcaa5,Green Bay (1-1),14,2016,2
+149,5f993e482aa4ba0deeabcaa6,Minnesota (2-0),17,2016,2
+150,5f993e482aa4ba0deeabcaa7,Philadelphia (2-0),29,2016,2
+151,5f993e482aa4ba0deeabcaa8,Chicago (0-2),14,2016,2
+152,5f993e482aa4ba0deeabcaaa,Houston (2-1),0,2016,3
+153,5f993e482aa4ba0deeabcaab,New England (3-0),27,2016,3
+154,5f993e482aa4ba0deeabcaac,Arizona (1-2),18,2016,3
+155,5f993e482aa4ba0deeabcaad,Buffalo (1-2),33,2016,3
+156,5f993e482aa4ba0deeabcaae,Oakland (2-1),17,2016,3
+157,5f993e482aa4ba0deeabcaaf,Tennessee (1-2),10,2016,3
+158,5f993e482aa4ba0deeabcab0,Washington (1-2),29,2016,3
+159,5f993e482aa4ba0deeabcab1,NY Giants (2-1),27,2016,3
+160,5f993e482aa4ba0deeabcab2,Cleveland (0-3),24,2016,3
+161,5f993e482aa4ba0deeabcab3,Miami (1-2),30,2016,3
+162,5f993e482aa4ba0deeabcab4,Baltimore (3-0),19,2016,3
+163,5f993e482aa4ba0deeabcab5,Jacksonville (0-3),17,2016,3
+164,5f993e482aa4ba0deeabcab6,Detroit (1-2),27,2016,3
+165,5f993e482aa4ba0deeabcab7,Green Bay (2-1),34,2016,3
+166,5f993e482aa4ba0deeabcab8,Denver (3-0),29,2016,3
+167,5f993e482aa4ba0deeabcab9,Cincinnati (1-2),17,2016,3
+168,5f993e482aa4ba0deeabcaba,Minnesota (3-0),22,2016,3
+169,5f993e482aa4ba0deeabcabb,Carolina (1-2),10,2016,3
+170,5f993e482aa4ba0deeabcabc,Los Angeles (2-1),37,2016,3
+171,5f993e482aa4ba0deeabcabd,Tampa Bay (1-2),32,2016,3
+172,5f993e482aa4ba0deeabcabe,San Francisco (1-2),18,2016,3
+173,5f993e482aa4ba0deeabcabf,Seattle (2-1),37,2016,3
+174,5f993e482aa4ba0deeabcac0,NY Jets (1-2),3,2016,3
+175,5f993e482aa4ba0deeabcac1,Kansas City (2-1),24,2016,3
+176,5f993e482aa4ba0deeabcac2,San Diego (1-2),22,2016,3
+177,5f993e482aa4ba0deeabcac3,Indianapolis (1-2),26,2016,3
+178,5f993e482aa4ba0deeabcac4,Pittsburgh (2-1),3,2016,3
+179,5f993e482aa4ba0deeabcac5,Philadelphia (3-0),34,2016,3
+180,5f993e482aa4ba0deeabcac6,Chicago (0-3),17,2016,3
+181,5f993e482aa4ba0deeabcac7,Dallas (2-1),31,2016,3
+182,5f993e482aa4ba0deeabcac8,Atlanta (2-1),45,2016,3
+183,5f993e482aa4ba0deeabcac9,New Orleans (0-3),32,2016,3
+184,5f993e492aa4ba0deeabcacb,Miami (1-3),7,2016,4
+185,5f993e492aa4ba0deeabcacc,Cincinnati (2-2),22,2016,4
+186,5f993e492aa4ba0deeabcacd,Indianapolis (1-3),27,2016,4
+187,5f993e492aa4ba0deeabcace,Jacksonville (1-3),30,2016,4
+188,5f993e492aa4ba0deeabcacf,Tennessee (1-3),20,2016,4
+189,5f993e492aa4ba0deeabcad0,Houston (3-1),27,2016,4
+190,5f993e492aa4ba0deeabcad1,Cleveland (0-4),20,2016,4
+191,5f993e492aa4ba0deeabcad2,Washington (2-2),31,2016,4
+192,5f993e492aa4ba0deeabcad3,Seattle (3-1),27,2016,4
+193,5f993e492aa4ba0deeabcad4,NY Jets (1-3),17,2016,4
+194,5f993e492aa4ba0deeabcad5,Buffalo (2-2),16,2016,4
+195,5f993e492aa4ba0deeabcad6,New England (3-1),0,2016,4
+196,5f993e492aa4ba0deeabcad7,Carolina (1-3),33,2016,4
+197,5f993e492aa4ba0deeabcad8,Atlanta (3-1),48,2016,4
+198,5f993e492aa4ba0deeabcad9,Oakland (3-1),28,2016,4
+199,5f993e492aa4ba0deeabcada,Baltimore (3-1),27,2016,4
+200,5f993e492aa4ba0deeabcadb,Detroit (1-3),14,2016,4
+201,5f993e492aa4ba0deeabcadc,Chicago (1-3),17,2016,4
+202,5f993e492aa4ba0deeabcadd,Denver (4-0),27,2016,4
+203,5f993e492aa4ba0deeabcade,Tampa Bay (1-3),7,2016,4
+204,5f993e492aa4ba0deeabcadf,Los Angeles (3-1),17,2016,4
+205,5f993e492aa4ba0deeabcae0,Arizona (1-3),13,2016,4
+206,5f993e492aa4ba0deeabcae1,New Orleans (1-3),35,2016,4
+207,5f993e492aa4ba0deeabcae2,San Diego (1-3),34,2016,4
+208,5f993e492aa4ba0deeabcae3,Dallas (3-1),24,2016,4
+209,5f993e492aa4ba0deeabcae4,San Francisco (1-3),17,2016,4
+210,5f993e492aa4ba0deeabcae5,Kansas City (2-2),14,2016,4
+211,5f993e492aa4ba0deeabcae6,Pittsburgh (3-1),43,2016,4
+212,5f993e492aa4ba0deeabcae7,NY Giants (2-2),10,2016,4
+213,5f993e492aa4ba0deeabcae8,Minnesota (4-0),24,2016,4
+214,5f993e4a2aa4ba0deeabcaea,Arizona (2-3),33,2016,5
+215,5f993e4a2aa4ba0deeabcaeb,San Francisco (1-4),21,2016,5
+216,5f993e4a2aa4ba0deeabcaec,New England (4-1),33,2016,5
+217,5f993e4a2aa4ba0deeabcaed,Cleveland (0-5),13,2016,5
+218,5f993e4a2aa4ba0deeabcaee,Philadelphia (3-1),23,2016,5
+219,5f993e4a2aa4ba0deeabcaef,Detroit (2-3),24,2016,5
+220,5f993e4a2aa4ba0deeabcaf0,Chicago (1-4),23,2016,5
+221,5f993e4a2aa4ba0deeabcaf1,Indianapolis (2-3),29,2016,5
+222,5f993e4a2aa4ba0deeabcaf2,Tennessee (2-3),30,2016,5
+223,5f993e4a2aa4ba0deeabcaf3,Miami (1-4),17,2016,5
+224,5f993e4a2aa4ba0deeabcaf4,Washington (3-2),16,2016,5
+225,5f993e4a2aa4ba0deeabcaf5,Baltimore (3-2),10,2016,5
+226,5f993e4a2aa4ba0deeabcaf6,Houston (3-2),13,2016,5
+227,5f993e4a2aa4ba0deeabcaf7,Minnesota (5-0),31,2016,5
+228,5f993e4a2aa4ba0deeabcaf8,NY Jets (1-4),13,2016,5
+229,5f993e4a2aa4ba0deeabcaf9,Pittsburgh (4-1),31,2016,5
+230,5f993e4a2aa4ba0deeabcafa,Atlanta (4-1),23,2016,5
+231,5f993e4a2aa4ba0deeabcafb,Denver (4-1),16,2016,5
+232,5f993e4a2aa4ba0deeabcafc,Cincinnati (2-3),14,2016,5
+233,5f993e4a2aa4ba0deeabcafd,Dallas (4-1),28,2016,5
+234,5f993e4a2aa4ba0deeabcafe,Buffalo (3-2),30,2016,5
+235,5f993e4a2aa4ba0deeabcaff,Los Angeles (3-2),19,2016,5
+236,5f993e4a2aa4ba0deeabcb00,San Diego (1-4),31,2016,5
+237,5f993e4a2aa4ba0deeabcb01,Oakland (4-1),34,2016,5
+238,5f993e4a2aa4ba0deeabcb02,NY Giants (2-3),16,2016,5
+239,5f993e4a2aa4ba0deeabcb03,Green Bay (3-1),23,2016,5
+240,5f993e4a2aa4ba0deeabcb04,Tampa Bay (2-3),17,2016,5
+241,5f993e4a2aa4ba0deeabcb05,Carolina (1-4),14,2016,5
+242,5f993e4b2aa4ba0deeabcb07,Denver (4-2),13,2016,6
+243,5f993e4b2aa4ba0deeabcb08,San Diego (2-4),21,2016,6
+244,5f993e4b2aa4ba0deeabcb09,San Francisco (1-5),16,2016,6
+245,5f993e4b2aa4ba0deeabcb0a,Buffalo (4-2),45,2016,6
+246,5f993e4b2aa4ba0deeabcb0b,Philadelphia (3-2),20,2016,6
+247,5f993e4b2aa4ba0deeabcb0c,Washington (4-2),27,2016,6
+248,5f993e4b2aa4ba0deeabcb0d,Cleveland (0-6),26,2016,6
+249,5f993e4b2aa4ba0deeabcb0e,Tennessee (3-3),28,2016,6
+250,5f993e4b2aa4ba0deeabcb0f,Baltimore (3-3),23,2016,6
+251,5f993e4b2aa4ba0deeabcb10,NY Giants (3-3),27,2016,6
+252,5f993e4b2aa4ba0deeabcb11,Carolina (1-5),38,2016,6
+253,5f993e4b2aa4ba0deeabcb12,New Orleans (2-3),41,2016,6
+254,5f993e4b2aa4ba0deeabcb13,Jacksonville (2-3),17,2016,6
+255,5f993e4b2aa4ba0deeabcb14,Chicago (1-5),16,2016,6
+256,5f993e4b2aa4ba0deeabcb15,Los Angeles (3-3),28,2016,6
+257,5f993e4b2aa4ba0deeabcb16,Detroit (3-3),31,2016,6
+258,5f993e4b2aa4ba0deeabcb17,Pittsburgh (4-2),15,2016,6
+259,5f993e4b2aa4ba0deeabcb18,Miami (2-4),30,2016,6
+260,5f993e4b2aa4ba0deeabcb19,Cincinnati (2-4),17,2016,6
+261,5f993e4b2aa4ba0deeabcb1a,New England (5-1),35,2016,6
+262,5f993e4b2aa4ba0deeabcb1b,Kansas City (3-2),26,2016,6
+263,5f993e4b2aa4ba0deeabcb1c,Oakland (4-2),10,2016,6
+264,5f993e4b2aa4ba0deeabcb1d,Atlanta (4-2),24,2016,6
+265,5f993e4b2aa4ba0deeabcb1e,Seattle (4-1),26,2016,6
+266,5f993e4b2aa4ba0deeabcb1f,Dallas (5-1),30,2016,6
+267,5f993e4b2aa4ba0deeabcb20,Green Bay (3-2),16,2016,6
+268,5f993e4b2aa4ba0deeabcb21,Indianapolis (2-4),23,2016,6
+269,5f993e4b2aa4ba0deeabcb22,Houston (4-2),26,2016,6
+270,5f993e4b2aa4ba0deeabcb23,NY Jets (1-5),3,2016,6
+271,5f993e4b2aa4ba0deeabcb24,Arizona (3-3),28,2016,6
+272,5f993e4b2aa4ba0deeabcb26,Chicago (1-6),10,2016,7
+273,5f993e4b2aa4ba0deeabcb27,Green Bay (4-2),26,2016,7
+274,5f993e4b2aa4ba0deeabcb28,NY Giants (4-3),17,2016,7
+275,5f993e4b2aa4ba0deeabcb29,Los Angeles (3-4),10,2016,7
+276,5f993e4b2aa4ba0deeabcb2a,New Orleans (2-4),21,2016,7
+277,5f993e4b2aa4ba0deeabcb2b,Kansas City (4-2),27,2016,7
+278,5f993e4b2aa4ba0deeabcb2c,Indianapolis (3-4),34,2016,7
+279,5f993e4b2aa4ba0deeabcb2d,Tennessee (3-4),26,2016,7
+280,5f993e4b2aa4ba0deeabcb2e,Minnesota (5-1),10,2016,7
+281,5f993e4b2aa4ba0deeabcb2f,Philadelphia (4-2),21,2016,7
+282,5f993e4b2aa4ba0deeabcb30,Cleveland (0-7),17,2016,7
+283,5f993e4b2aa4ba0deeabcb31,Cincinnati (3-4),31,2016,7
+284,5f993e4b2aa4ba0deeabcb32,Washington (4-3),17,2016,7
+285,5f993e4b2aa4ba0deeabcb33,Detroit (4-3),20,2016,7
+286,5f993e4b2aa4ba0deeabcb34,Oakland (5-2),33,2016,7
+287,5f993e4b2aa4ba0deeabcb35,Jacksonville (2-4),16,2016,7
+288,5f993e4b2aa4ba0deeabcb36,Buffalo (4-3),25,2016,7
+289,5f993e4b2aa4ba0deeabcb37,Miami (3-4),28,2016,7
+290,5f993e4b2aa4ba0deeabcb38,Baltimore (3-4),16,2016,7
+291,5f993e4b2aa4ba0deeabcb39,NY Jets (2-5),24,2016,7
+292,5f993e4b2aa4ba0deeabcb3a,Tampa Bay (3-3),34,2016,7
+293,5f993e4b2aa4ba0deeabcb3b,San Francisco (1-6),17,2016,7
+294,5f993e4b2aa4ba0deeabcb3c,San Diego (3-4),33,2016,7
+295,5f993e4b2aa4ba0deeabcb3d,Atlanta (4-3),30,2016,7
+296,5f993e4b2aa4ba0deeabcb3e,New England (6-1),27,2016,7
+297,5f993e4b2aa4ba0deeabcb3f,Pittsburgh (4-3),16,2016,7
+298,5f993e4b2aa4ba0deeabcb40,Seattle (4-1-1),6,2016,7
+299,5f993e4b2aa4ba0deeabcb41,Arizona (3-3-1),6,2016,7
+300,5f993e4b2aa4ba0deeabcb42,Houston (4-3),9,2016,7
+301,5f993e4b2aa4ba0deeabcb43,Denver (5-2),27,2016,7
+302,5f993e4c2aa4ba0deeabcb45,Jacksonville (2-5),22,2016,8
+303,5f993e4c2aa4ba0deeabcb46,Tennessee (4-4),36,2016,8
+304,5f993e4c2aa4ba0deeabcb47,Washington (4-3-1),27,2016,8
+305,5f993e4c2aa4ba0deeabcb48,Cincinnati (3-4-1),27,2016,8
+306,5f993e4c2aa4ba0deeabcb49,Kansas City (5-2),30,2016,8
+307,5f993e4c2aa4ba0deeabcb4a,Indianapolis (3-5),14,2016,8
+308,5f993e4c2aa4ba0deeabcb4b,Oakland (6-2),30,2016,8
+309,5f993e4c2aa4ba0deeabcb4c,Tampa Bay (3-4),24,2016,8
+310,5f993e4c2aa4ba0deeabcb4d,Seattle (4-2-1),20,2016,8
+311,5f993e4c2aa4ba0deeabcb4e,New Orleans (3-4),25,2016,8
+312,5f993e4c2aa4ba0deeabcb4f,Detroit (4-4),13,2016,8
+313,5f993e4c2aa4ba0deeabcb50,Houston (5-3),20,2016,8
+314,5f993e4c2aa4ba0deeabcb51,NY Jets (3-5),31,2016,8
+315,5f993e4c2aa4ba0deeabcb52,Cleveland (0-8),28,2016,8
+316,5f993e4c2aa4ba0deeabcb53,New England (7-1),41,2016,8
+317,5f993e4c2aa4ba0deeabcb54,Buffalo (4-4),25,2016,8
+318,5f993e4c2aa4ba0deeabcb55,Arizona (3-4-1),20,2016,8
+319,5f993e4c2aa4ba0deeabcb56,Carolina (2-5),30,2016,8
+320,5f993e4c2aa4ba0deeabcb57,San Diego (3-5),19,2016,8
+321,5f993e4c2aa4ba0deeabcb58,Denver (6-2),27,2016,8
+322,5f993e4c2aa4ba0deeabcb59,Green Bay (4-3),32,2016,8
+323,5f993e4c2aa4ba0deeabcb5a,Atlanta (5-3),33,2016,8
+324,5f993e4c2aa4ba0deeabcb5b,Philadelphia (4-3),23,2016,8
+325,5f993e4c2aa4ba0deeabcb5c,Dallas (6-1),29,2016,8
+326,5f993e4c2aa4ba0deeabcb5d,Minnesota (5-2),10,2016,8
+327,5f993e4c2aa4ba0deeabcb5e,Chicago (2-6),20,2016,8
+328,5f993e4c2aa4ba0deeabcb60,Atlanta (6-3),43,2016,9
+329,5f993e4c2aa4ba0deeabcb61,Tampa Bay (3-5),28,2016,9
+330,5f993e4c2aa4ba0deeabcb62,Detroit (5-4),22,2016,9
+331,5f993e4c2aa4ba0deeabcb63,Minnesota (5-3),16,2016,9
+332,5f993e4c2aa4ba0deeabcb64,Philadelphia (4-4),23,2016,9
+333,5f993e4c2aa4ba0deeabcb65,NY Giants (5-3),28,2016,9
+334,5f993e4c2aa4ba0deeabcb66,NY Jets (3-6),23,2016,9
+335,5f993e4c2aa4ba0deeabcb67,Miami (4-4),27,2016,9
+336,5f993e4c2aa4ba0deeabcb68,Jacksonville (2-6),14,2016,9
+337,5f993e4c2aa4ba0deeabcb69,Kansas City (6-2),19,2016,9
+338,5f993e4c2aa4ba0deeabcb6a,Dallas (7-1),35,2016,9
+339,5f993e4c2aa4ba0deeabcb6b,Cleveland (0-9),10,2016,9
+340,5f993e4c2aa4ba0deeabcb6c,Pittsburgh (4-4),14,2016,9
+341,5f993e4c2aa4ba0deeabcb6d,Baltimore (4-4),21,2016,9
+342,5f993e4c2aa4ba0deeabcb6e,New Orleans (4-4),41,2016,9
+343,5f993e4c2aa4ba0deeabcb6f,San Francisco (1-7),23,2016,9
+344,5f993e4c2aa4ba0deeabcb70,Carolina (3-5),13,2016,9
+345,5f993e4c2aa4ba0deeabcb71,Los Angeles (3-5),10,2016,9
+346,5f993e4c2aa4ba0deeabcb72,Indianapolis (4-5),31,2016,9
+347,5f993e4c2aa4ba0deeabcb73,Green Bay (4-4),26,2016,9
+348,5f993e4c2aa4ba0deeabcb74,Tennessee (4-5),35,2016,9
+349,5f993e4c2aa4ba0deeabcb75,San Diego (4-5),43,2016,9
+350,5f993e4c2aa4ba0deeabcb76,Denver (6-3),20,2016,9
+351,5f993e4c2aa4ba0deeabcb77,Oakland (7-2),30,2016,9
+352,5f993e4c2aa4ba0deeabcb78,Buffalo (4-5),25,2016,9
+353,5f993e4c2aa4ba0deeabcb79,Seattle (5-2-1),31,2016,9
+354,5f993e4d2aa4ba0deeabcb7b,Cleveland (0-10),7,2016,10
+355,5f993e4d2aa4ba0deeabcb7c,Baltimore (5-4),28,2016,10
+356,5f993e4d2aa4ba0deeabcb7d,Houston (6-3),24,2016,10
+357,5f993e4d2aa4ba0deeabcb7e,Jacksonville (2-7),21,2016,10
+358,5f993e4d2aa4ba0deeabcb7f,Denver (7-3),25,2016,10
+359,5f993e4d2aa4ba0deeabcb80,New Orleans (4-5),23,2016,10
+360,5f993e4d2aa4ba0deeabcb81,Los Angeles (4-5),9,2016,10
+361,5f993e4d2aa4ba0deeabcb82,NY Jets (3-7),6,2016,10
+362,5f993e4d2aa4ba0deeabcb83,Atlanta (6-4),15,2016,10
+363,5f993e4d2aa4ba0deeabcb84,Philadelphia (5-4),24,2016,10
+364,5f993e4d2aa4ba0deeabcb85,Kansas City (7-2),20,2016,10
+365,5f993e4d2aa4ba0deeabcb86,Carolina (3-6),17,2016,10
+366,5f993e4d2aa4ba0deeabcb87,Chicago (2-7),10,2016,10
+367,5f993e4d2aa4ba0deeabcb88,Tampa Bay (4-5),36,2016,10
+368,5f993e4d2aa4ba0deeabcb89,Minnesota (5-4),20,2016,10
+369,5f993e4d2aa4ba0deeabcb8a,Washington (5-3-1),26,2016,10
+370,5f993e4d2aa4ba0deeabcb8b,Green Bay (4-5),25,2016,10
+371,5f993e4d2aa4ba0deeabcb8c,Tennessee (5-5),47,2016,10
+372,5f993e4d2aa4ba0deeabcb8d,Miami (5-4),31,2016,10
+373,5f993e4d2aa4ba0deeabcb8e,San Diego (4-6),24,2016,10
+374,5f993e4d2aa4ba0deeabcb8f,San Francisco (1-8),20,2016,10
+375,5f993e4d2aa4ba0deeabcb90,Arizona (4-4-1),23,2016,10
+376,5f993e4d2aa4ba0deeabcb91,Dallas (8-1),35,2016,10
+377,5f993e4d2aa4ba0deeabcb92,Pittsburgh (4-5),30,2016,10
+378,5f993e4d2aa4ba0deeabcb93,Seattle (6-2-1),31,2016,10
+379,5f993e4d2aa4ba0deeabcb94,New England (7-2),24,2016,10
+380,5f993e4d2aa4ba0deeabcb95,Cincinnati (3-5-1),20,2016,10
+381,5f993e4d2aa4ba0deeabcb96,NY Giants (6-3),21,2016,10
+382,5f993e4e2aa4ba0deeabcb98,New Orleans (4-6),20,2016,11
+383,5f993e4e2aa4ba0deeabcb99,Carolina (4-6),23,2016,11
+384,5f993e4e2aa4ba0deeabcb9a,Pittsburgh (5-5),24,2016,11
+385,5f993e4e2aa4ba0deeabcb9b,Cleveland (0-11),9,2016,11
+386,5f993e4e2aa4ba0deeabcb9c,Baltimore (5-5),17,2016,11
+387,5f993e4e2aa4ba0deeabcb9d,Dallas (9-1),27,2016,11
+388,5f993e4e2aa4ba0deeabcb9e,Jacksonville (2-8),19,2016,11
+389,5f993e4e2aa4ba0deeabcb9f,Detroit (6-4),26,2016,11
+390,5f993e4e2aa4ba0deeabcba0,Tennessee (5-6),17,2016,11
+391,5f993e4e2aa4ba0deeabcba1,Indianapolis (5-5),24,2016,11
+392,5f993e4e2aa4ba0deeabcba2,Buffalo (5-5),16,2016,11
+393,5f993e4e2aa4ba0deeabcba3,Cincinnati (3-6-1),12,2016,11
+394,5f993e4e2aa4ba0deeabcba4,Tampa Bay (5-5),19,2016,11
+395,5f993e4e2aa4ba0deeabcba5,Kansas City (7-3),17,2016,11
+396,5f993e4e2aa4ba0deeabcba6,Chicago (2-8),16,2016,11
+397,5f993e4e2aa4ba0deeabcba7,NY Giants (7-3),22,2016,11
+398,5f993e4e2aa4ba0deeabcba8,Arizona (4-5-1),24,2016,11
+399,5f993e4e2aa4ba0deeabcba9,Minnesota (6-4),30,2016,11
+400,5f993e4e2aa4ba0deeabcbaa,Miami (6-4),14,2016,11
+401,5f993e4e2aa4ba0deeabcbab,Los Angeles (4-6),10,2016,11
+402,5f993e4e2aa4ba0deeabcbac,New England (8-2),30,2016,11
+403,5f993e4e2aa4ba0deeabcbad,San Francisco (1-9),17,2016,11
+404,5f993e4e2aa4ba0deeabcbae,Philadelphia (5-5),15,2016,11
+405,5f993e4e2aa4ba0deeabcbaf,Seattle (7-2-1),26,2016,11
+406,5f993e4e2aa4ba0deeabcbb0,Green Bay (4-6),24,2016,11
+407,5f993e4e2aa4ba0deeabcbb1,Washington (6-3-1),42,2016,11
+408,5f993e4e2aa4ba0deeabcbb2,Houston (6-4),20,2016,11
+409,5f993e4e2aa4ba0deeabcbb3,Oakland (8-2),27,2016,11
+410,5f993e4e2aa4ba0deeabcbb5,Minnesota (6-5),13,2016,12
+411,5f993e4e2aa4ba0deeabcbb6,Detroit (7-4),16,2016,12
+412,5f993e4e2aa4ba0deeabcbb7,Washington (6-4-1),26,2016,12
+413,5f993e4e2aa4ba0deeabcbb8,Dallas (10-1),31,2016,12
+414,5f993e4e2aa4ba0deeabcbb9,Pittsburgh (6-5),28,2016,12
+415,5f993e4e2aa4ba0deeabcbba,Indianapolis (5-6),7,2016,12
+416,5f993e4e2aa4ba0deeabcbbb,Tennessee (6-6),27,2016,12
+417,5f993e4e2aa4ba0deeabcbbc,Chicago (2-9),21,2016,12
+418,5f993e4e2aa4ba0deeabcbbd,Jacksonville (2-9),21,2016,12
+419,5f993e4e2aa4ba0deeabcbbe,Buffalo (6-5),28,2016,12
+420,5f993e4e2aa4ba0deeabcbbf,Cincinnati (3-7-1),14,2016,12
+421,5f993e4e2aa4ba0deeabcbc0,Baltimore (6-5),19,2016,12
+422,5f993e4e2aa4ba0deeabcbc1,Arizona (4-6-1),19,2016,12
+423,5f993e4e2aa4ba0deeabcbc2,Atlanta (7-4),38,2016,12
+424,5f993e4e2aa4ba0deeabcbc3,NY Giants (8-3),27,2016,12
+425,5f993e4e2aa4ba0deeabcbc4,Cleveland (0-12),13,2016,12
+426,5f993e4e2aa4ba0deeabcbc5,Los Angeles (4-7),21,2016,12
+427,5f993e4e2aa4ba0deeabcbc6,New Orleans (5-6),49,2016,12
+428,5f993e4e2aa4ba0deeabcbc7,San Francisco (1-10),24,2016,12
+429,5f993e4e2aa4ba0deeabcbc8,Miami (7-4),31,2016,12
+430,5f993e4e2aa4ba0deeabcbc9,San Diego (5-6),21,2016,12
+431,5f993e4e2aa4ba0deeabcbca,Houston (6-5),13,2016,12
+432,5f993e4e2aa4ba0deeabcbcb,Seattle (7-3-1),5,2016,12
+433,5f993e4e2aa4ba0deeabcbcc,Tampa Bay (6-5),14,2016,12
+434,5f993e4e2aa4ba0deeabcbcd,Carolina (4-7),32,2016,12
+435,5f993e4e2aa4ba0deeabcbce,Oakland (9-2),35,2016,12
+436,5f993e4e2aa4ba0deeabcbcf,New England (9-2),22,2016,12
+437,5f993e4e2aa4ba0deeabcbd0,NY Jets (3-8),17,2016,12
+438,5f993e4e2aa4ba0deeabcbd1,Kansas City (8-3),30,2016,12
+439,5f993e4e2aa4ba0deeabcbd2,Denver (7-4),27,2016,12
+440,5f993e4e2aa4ba0deeabcbd3,Green Bay (5-6),27,2016,12
+441,5f993e4e2aa4ba0deeabcbd4,Philadelphia (5-6),13,2016,12
+442,5f993e4f2aa4ba0deeabcbd6,Dallas (11-1),17,2016,13
+443,5f993e4f2aa4ba0deeabcbd7,Minnesota (6-6),15,2016,13
+444,5f993e4f2aa4ba0deeabcbd8,Kansas City (9-3),29,2016,13
+445,5f993e4f2aa4ba0deeabcbd9,Atlanta (7-5),28,2016,13
+446,5f993e4f2aa4ba0deeabcbda,Detroit (8-4),28,2016,13
+447,5f993e4f2aa4ba0deeabcbdb,New Orleans (5-7),13,2016,13
+448,5f993e4f2aa4ba0deeabcbdc,Los Angeles (4-8),10,2016,13
+449,5f993e4f2aa4ba0deeabcbdd,New England (10-2),26,2016,13
+450,5f993e4f2aa4ba0deeabcbde,Denver (8-4),20,2016,13
+451,5f993e4f2aa4ba0deeabcbdf,Jacksonville (2-10),10,2016,13
+452,5f993e4f2aa4ba0deeabcbe0,Houston (6-6),13,2016,13
+453,5f993e4f2aa4ba0deeabcbe1,Green Bay (6-6),21,2016,13
+454,5f993e4f2aa4ba0deeabcbe2,Philadelphia (5-7),14,2016,13
+455,5f993e4f2aa4ba0deeabcbe3,Cincinnati (4-7-1),32,2016,13
+456,5f993e4f2aa4ba0deeabcbe4,Miami (7-5),6,2016,13
+457,5f993e4f2aa4ba0deeabcbe5,Baltimore (7-5),38,2016,13
+458,5f993e4f2aa4ba0deeabcbe6,San Francisco (1-11),6,2016,13
+459,5f993e4f2aa4ba0deeabcbe7,Chicago (3-9),26,2016,13
+460,5f993e4f2aa4ba0deeabcbe8,Buffalo (6-6),24,2016,13
+461,5f993e4f2aa4ba0deeabcbe9,Oakland (10-2),38,2016,13
+462,5f993e4f2aa4ba0deeabcbea,NY Giants (8-4),14,2016,13
+463,5f993e4f2aa4ba0deeabcbeb,Pittsburgh (7-5),24,2016,13
+464,5f993e4f2aa4ba0deeabcbec,Washington (6-5-1),23,2016,13
+465,5f993e4f2aa4ba0deeabcbed,Arizona (5-6-1),31,2016,13
+466,5f993e4f2aa4ba0deeabcbee,Tampa Bay (7-5),28,2016,13
+467,5f993e4f2aa4ba0deeabcbef,San Diego (5-7),21,2016,13
+468,5f993e4f2aa4ba0deeabcbf0,Carolina (4-8),7,2016,13
+469,5f993e4f2aa4ba0deeabcbf1,Seattle (8-3-1),40,2016,13
+470,5f993e4f2aa4ba0deeabcbf2,Indianapolis (6-6),41,2016,13
+471,5f993e4f2aa4ba0deeabcbf3,NY Jets (3-9),10,2016,13
+472,5f993e502aa4ba0deeabcbf5,Oakland (10-3),13,2016,14
+473,5f993e502aa4ba0deeabcbf6,Kansas City (10-3),21,2016,14
+474,5f993e502aa4ba0deeabcbf7,Pittsburgh (8-5),27,2016,14
+475,5f993e502aa4ba0deeabcbf8,Buffalo (6-7),20,2016,14
+476,5f993e502aa4ba0deeabcbf9,Denver (8-5),10,2016,14
+477,5f993e502aa4ba0deeabcbfa,Tennessee (7-6),13,2016,14
+478,5f993e502aa4ba0deeabcbfb,Washington (7-5-1),27,2016,14
+479,5f993e502aa4ba0deeabcbfc,Philadelphia (5-8),22,2016,14
+480,5f993e502aa4ba0deeabcbfd,Arizona (5-7-1),23,2016,14
+481,5f993e502aa4ba0deeabcbfe,Miami (8-5),26,2016,14
+482,5f993e502aa4ba0deeabcbff,San Diego (5-8),16,2016,14
+483,5f993e502aa4ba0deeabcc00,Carolina (5-8),28,2016,14
+484,5f993e502aa4ba0deeabcc01,Cincinnati (5-7-1),23,2016,14
+485,5f993e502aa4ba0deeabcc02,Cleveland (0-13),10,2016,14
+486,5f993e502aa4ba0deeabcc03,Chicago (3-10),17,2016,14
+487,5f993e502aa4ba0deeabcc04,Detroit (9-4),20,2016,14
+488,5f993e502aa4ba0deeabcc05,Houston (7-6),22,2016,14
+489,5f993e502aa4ba0deeabcc06,Indianapolis (6-7),17,2016,14
+490,5f993e502aa4ba0deeabcc07,Minnesota (7-6),25,2016,14
+491,5f993e502aa4ba0deeabcc08,Jacksonville (2-11),16,2016,14
+492,5f993e502aa4ba0deeabcc09,NY Jets (4-9),23,2016,14
+493,5f993e502aa4ba0deeabcc0a,San Francisco (1-12),17,2016,14
+494,5f993e502aa4ba0deeabcc0b,New Orleans (5-8),11,2016,14
+495,5f993e502aa4ba0deeabcc0c,Tampa Bay (8-5),16,2016,14
+496,5f993e502aa4ba0deeabcc0d,Atlanta (8-5),42,2016,14
+497,5f993e502aa4ba0deeabcc0e,Los Angeles (4-9),14,2016,14
+498,5f993e502aa4ba0deeabcc0f,Seattle (8-4-1),10,2016,14
+499,5f993e502aa4ba0deeabcc10,Green Bay (7-6),38,2016,14
+500,5f993e502aa4ba0deeabcc11,Dallas (11-2),7,2016,14
+501,5f993e502aa4ba0deeabcc12,NY Giants (9-4),10,2016,14
+502,5f993e502aa4ba0deeabcc13,Baltimore (7-6),23,2016,14
+503,5f993e502aa4ba0deeabcc14,New England (11-2),30,2016,14
+504,5f993e512aa4ba0deeabcc16,Los Angeles (4-10),3,2016,15
+505,5f993e512aa4ba0deeabcc17,Seattle (9-4-1),24,2016,15
+506,5f993e512aa4ba0deeabcc18,Miami (9-5),34,2016,15
+507,5f993e512aa4ba0deeabcc19,NY Jets (4-10),13,2016,15
+508,5f993e512aa4ba0deeabcc1a,Green Bay (8-6),30,2016,15
+509,5f993e512aa4ba0deeabcc1b,Chicago (3-11),27,2016,15
+510,5f993e512aa4ba0deeabcc1c,Jacksonville (2-12),20,2016,15
+511,5f993e512aa4ba0deeabcc1d,Houston (8-6),21,2016,15
+512,5f993e512aa4ba0deeabcc1e,Cleveland (0-14),13,2016,15
+513,5f993e512aa4ba0deeabcc1f,Buffalo (7-7),33,2016,15
+514,5f993e512aa4ba0deeabcc20,Philadelphia (5-9),26,2016,15
+515,5f993e512aa4ba0deeabcc21,Baltimore (8-6),27,2016,15
+516,5f993e512aa4ba0deeabcc22,Tennessee (8-6),19,2016,15
+517,5f993e512aa4ba0deeabcc23,Kansas City (10-4),17,2016,15
+518,5f993e512aa4ba0deeabcc24,Detroit (9-5),6,2016,15
+519,5f993e512aa4ba0deeabcc25,NY Giants (10-4),17,2016,15
+520,5f993e512aa4ba0deeabcc26,Indianapolis (7-7),34,2016,15
+521,5f993e512aa4ba0deeabcc27,Minnesota (7-7),6,2016,15
+522,5f993e512aa4ba0deeabcc28,Pittsburgh (9-5),24,2016,15
+523,5f993e512aa4ba0deeabcc29,Cincinnati (5-8-1),20,2016,15
+524,5f993e512aa4ba0deeabcc2a,New Orleans (6-8),48,2016,15
+525,5f993e512aa4ba0deeabcc2b,Arizona (5-8-1),41,2016,15
+526,5f993e512aa4ba0deeabcc2c,San Francisco (1-13),13,2016,15
+527,5f993e512aa4ba0deeabcc2d,Atlanta (9-5),41,2016,15
+528,5f993e512aa4ba0deeabcc2e,New England (12-2),16,2016,15
+529,5f993e512aa4ba0deeabcc2f,Denver (8-6),3,2016,15
+530,5f993e512aa4ba0deeabcc30,Oakland (11-3),19,2016,15
+531,5f993e512aa4ba0deeabcc31,San Diego (5-9),16,2016,15
+532,5f993e512aa4ba0deeabcc32,Tampa Bay (8-6),20,2016,15
+533,5f993e512aa4ba0deeabcc33,Dallas (12-2),26,2016,15
+534,5f993e512aa4ba0deeabcc34,Carolina (6-8),26,2016,15
+535,5f993e512aa4ba0deeabcc35,Washington (7-6-1),15,2016,15
+536,5f993e522aa4ba0deeabcc37,NY Giants (10-5),19,2016,16
+537,5f993e522aa4ba0deeabcc38,Philadelphia (6-9),24,2016,16
+538,5f993e522aa4ba0deeabcc39,Miami (10-5),34,2016,16
+539,5f993e522aa4ba0deeabcc3a,Buffalo (7-8),31,2016,16
+540,5f993e522aa4ba0deeabcc3b,NY Jets (4-11),3,2016,16
+541,5f993e522aa4ba0deeabcc3c,New England (13-2),41,2016,16
+542,5f993e522aa4ba0deeabcc3d,Tennessee (8-7),17,2016,16
+543,5f993e522aa4ba0deeabcc3e,Jacksonville (3-12),38,2016,16
+544,5f993e522aa4ba0deeabcc3f,Minnesota (7-8),25,2016,16
+545,5f993e522aa4ba0deeabcc40,Green Bay (9-6),38,2016,16
+546,5f993e522aa4ba0deeabcc41,San Diego (5-10),17,2016,16
+547,5f993e522aa4ba0deeabcc42,Cleveland (1-14),20,2016,16
+548,5f993e522aa4ba0deeabcc43,Washington (8-6-1),41,2016,16
+549,5f993e522aa4ba0deeabcc44,Chicago (3-12),21,2016,16
+550,5f993e522aa4ba0deeabcc45,Atlanta (10-5),33,2016,16
+551,5f993e522aa4ba0deeabcc46,Carolina (6-9),16,2016,16
+552,5f993e522aa4ba0deeabcc47,Indianapolis (7-8),25,2016,16
+553,5f993e522aa4ba0deeabcc48,Oakland (12-3),33,2016,16
+554,5f993e522aa4ba0deeabcc49,Tampa Bay (8-7),24,2016,16
+555,5f993e522aa4ba0deeabcc4a,New Orleans (7-8),31,2016,16
+556,5f993e522aa4ba0deeabcc4b,Arizona (6-8-1),34,2016,16
+557,5f993e522aa4ba0deeabcc4c,Seattle (9-5-1),31,2016,16
+558,5f993e522aa4ba0deeabcc4d,San Francisco (2-13),22,2016,16
+559,5f993e522aa4ba0deeabcc4e,Los Angeles (4-11),21,2016,16
+560,5f993e522aa4ba0deeabcc4f,Cincinnati (5-9-1),10,2016,16
+561,5f993e522aa4ba0deeabcc50,Houston (9-6),12,2016,16
+562,5f993e522aa4ba0deeabcc51,Baltimore (8-7),27,2016,16
+563,5f993e522aa4ba0deeabcc52,Pittsburgh (10-5),31,2016,16
+564,5f993e522aa4ba0deeabcc53,Denver (8-7),10,2016,16
+565,5f993e522aa4ba0deeabcc54,Kansas City (11-4),33,2016,16
+566,5f993e522aa4ba0deeabcc55,Detroit (9-6),21,2016,16
+567,5f993e522aa4ba0deeabcc56,Dallas (13-2),42,2016,16
+568,5f993e522aa4ba0deeabcc58,Baltimore (8-8),10,2016,17
+569,5f993e522aa4ba0deeabcc59,Cincinnati (6-9-1),27,2016,17
+570,5f993e522aa4ba0deeabcc5a,Houston (9-7),17,2016,17
+571,5f993e522aa4ba0deeabcc5b,Tennessee (9-7),24,2016,17
+572,5f993e522aa4ba0deeabcc5c,Carolina (6-10),16,2016,17
+573,5f993e522aa4ba0deeabcc5d,Tampa Bay (9-7),17,2016,17
+574,5f993e522aa4ba0deeabcc5e,Jacksonville (3-13),20,2016,17
+575,5f993e522aa4ba0deeabcc5f,Indianapolis (8-8),24,2016,17
+576,5f993e522aa4ba0deeabcc60,New England (14-2),35,2016,17
+577,5f993e522aa4ba0deeabcc61,Miami (10-6),14,2016,17
+578,5f993e522aa4ba0deeabcc62,Chicago (3-13),10,2016,17
+579,5f993e522aa4ba0deeabcc63,Minnesota (8-8),38,2016,17
+580,5f993e522aa4ba0deeabcc64,Buffalo (7-9),10,2016,17
+581,5f993e522aa4ba0deeabcc65,NY Jets (5-11),30,2016,17
+582,5f993e522aa4ba0deeabcc66,Dallas (13-3),13,2016,17
+583,5f993e522aa4ba0deeabcc67,Philadelphia (7-9),27,2016,17
+584,5f993e522aa4ba0deeabcc68,Cleveland (1-15),24,2016,17
+585,5f993e522aa4ba0deeabcc69,Pittsburgh (11-5),27,2016,17
+586,5f993e522aa4ba0deeabcc6a,New Orleans (7-9),32,2016,17
+587,5f993e522aa4ba0deeabcc6b,Atlanta (11-5),38,2016,17
+588,5f993e522aa4ba0deeabcc6c,NY Giants (11-5),19,2016,17
+589,5f993e522aa4ba0deeabcc6d,Washington (8-7-1),10,2016,17
+590,5f993e522aa4ba0deeabcc6e,Arizona (7-8-1),44,2016,17
+591,5f993e522aa4ba0deeabcc6f,Los Angeles (4-12),6,2016,17
+592,5f993e522aa4ba0deeabcc70,Oakland (12-4),6,2016,17
+593,5f993e522aa4ba0deeabcc71,Denver (9-7),24,2016,17
+594,5f993e522aa4ba0deeabcc72,Kansas City (12-4),37,2016,17
+595,5f993e522aa4ba0deeabcc73,San Diego (5-11),27,2016,17
+596,5f993e522aa4ba0deeabcc74,Seattle (10-5-1),25,2016,17
+597,5f993e522aa4ba0deeabcc75,San Francisco (2-14),23,2016,17
+598,5f993e522aa4ba0deeabcc76,Green Bay (10-6),31,2016,17
+599,5f993e522aa4ba0deeabcc77,Detroit (9-7),24,2016,17
+600,5f993e532aa4ba0deeabcc79,Kansas City (1-0),42,2017,1
+601,5f993e532aa4ba0deeabcc7a,New England (0-1),27,2017,1
+602,5f993e532aa4ba0deeabcc7b,Arizona (0-1),23,2017,1
+603,5f993e532aa4ba0deeabcc7c,Detroit (1-0),35,2017,1
+604,5f993e532aa4ba0deeabcc7d,Atlanta (1-0),23,2017,1
+605,5f993e532aa4ba0deeabcc7e,Chicago (0-1),17,2017,1
+606,5f993e532aa4ba0deeabcc7f,Baltimore (1-0),20,2017,1
+607,5f993e532aa4ba0deeabcc80,Cincinnati (0-1),0,2017,1
+608,5f993e532aa4ba0deeabcc81,NY Jets (0-1),12,2017,1
+609,5f993e532aa4ba0deeabcc82,Buffalo (1-0),21,2017,1
+610,5f993e532aa4ba0deeabcc83,Pittsburgh (1-0),21,2017,1
+611,5f993e532aa4ba0deeabcc84,Cleveland (0-1),18,2017,1
+612,5f993e532aa4ba0deeabcc85,Jacksonville (1-0),29,2017,1
+613,5f993e532aa4ba0deeabcc86,Houston (0-1),7,2017,1
+614,5f993e532aa4ba0deeabcc87,Oakland (1-0),26,2017,1
+615,5f993e532aa4ba0deeabcc88,Tennessee (0-1),16,2017,1
+616,5f993e532aa4ba0deeabcc89,Philadelphia (1-0),30,2017,1
+617,5f993e532aa4ba0deeabcc8a,Washington (0-1),17,2017,1
+618,5f993e532aa4ba0deeabcc8b,Indianapolis (0-1),9,2017,1
+619,5f993e532aa4ba0deeabcc8c,LA Rams (1-0),46,2017,1
+620,5f993e532aa4ba0deeabcc8d,Carolina (1-0),23,2017,1
+621,5f993e532aa4ba0deeabcc8e,San Francisco (0-1),3,2017,1
+622,5f993e532aa4ba0deeabcc8f,Seattle (0-1),9,2017,1
+623,5f993e532aa4ba0deeabcc90,Green Bay (1-0),17,2017,1
+624,5f993e532aa4ba0deeabcc91,NY Giants (0-1),3,2017,1
+625,5f993e532aa4ba0deeabcc92,Dallas (1-0),19,2017,1
+626,5f993e532aa4ba0deeabcc93,New Orleans (0-1),19,2017,1
+627,5f993e532aa4ba0deeabcc94,Minnesota (1-0),29,2017,1
+628,5f993e532aa4ba0deeabcc95,LA Chargers (0-1),21,2017,1
+629,5f993e532aa4ba0deeabcc96,Denver (1-0),24,2017,1
+630,5f993e542aa4ba0deeabcc98,Houston (1-1),13,2017,2
+631,5f993e542aa4ba0deeabcc99,Cincinnati (0-2),9,2017,2
+632,5f993e542aa4ba0deeabcc9a,Arizona (1-1),16,2017,2
+633,5f993e542aa4ba0deeabcc9b,Indianapolis (0-2),13,2017,2
+634,5f993e542aa4ba0deeabcc9c,Cleveland (0-2),10,2017,2
+635,5f993e542aa4ba0deeabcc9d,Baltimore (2-0),24,2017,2
+636,5f993e542aa4ba0deeabcc9e,Buffalo (1-1),3,2017,2
+637,5f993e542aa4ba0deeabcc9f,Carolina (2-0),9,2017,2
+638,5f993e542aa4ba0deeabcca0,Chicago (0-2),7,2017,2
+639,5f993e542aa4ba0deeabcca1,Tampa Bay (1-0),29,2017,2
+640,5f993e542aa4ba0deeabcca2,Tennessee (1-1),37,2017,2
+641,5f993e542aa4ba0deeabcca3,Jacksonville (1-1),16,2017,2
+642,5f993e542aa4ba0deeabcca4,Philadelphia (1-1),20,2017,2
+643,5f993e542aa4ba0deeabcca5,Kansas City (2-0),27,2017,2
+644,5f993e542aa4ba0deeabcca6,Minnesota (1-1),9,2017,2
+645,5f993e542aa4ba0deeabcca7,Pittsburgh (2-0),26,2017,2
+646,5f993e542aa4ba0deeabcca8,New England (1-1),36,2017,2
+647,5f993e542aa4ba0deeabcca9,New Orleans (0-2),20,2017,2
+648,5f993e542aa4ba0deeabccaa,Miami (1-0),19,2017,2
+649,5f993e542aa4ba0deeabccab,LA Chargers (0-2),17,2017,2
+650,5f993e542aa4ba0deeabccac,NY Jets (0-2),20,2017,2
+651,5f993e542aa4ba0deeabccad,Oakland (2-0),45,2017,2
+652,5f993e542aa4ba0deeabccae,Dallas (1-1),17,2017,2
+653,5f993e542aa4ba0deeabccaf,Denver (2-0),42,2017,2
+654,5f993e542aa4ba0deeabccb0,Washington (1-1),27,2017,2
+655,5f993e542aa4ba0deeabccb1,LA Rams (1-1),20,2017,2
+656,5f993e542aa4ba0deeabccb2,San Francisco (0-2),9,2017,2
+657,5f993e542aa4ba0deeabccb3,Seattle (1-1),12,2017,2
+658,5f993e542aa4ba0deeabccb4,Green Bay (1-1),23,2017,2
+659,5f993e542aa4ba0deeabccb5,Atlanta (2-0),34,2017,2
+660,5f993e542aa4ba0deeabccb6,Detroit (2-0),24,2017,2
+661,5f993e542aa4ba0deeabccb7,NY Giants (0-2),10,2017,2
+662,5f993e552aa4ba0deeabccb9,LA Rams (2-1),41,2017,3
+663,5f993e552aa4ba0deeabccba,San Francisco (0-3),39,2017,3
+664,5f993e552aa4ba0deeabccbb,Baltimore (2-1),7,2017,3
+665,5f993e552aa4ba0deeabccbc,Jacksonville (2-1),44,2017,3
+666,5f993e552aa4ba0deeabccbd,Atlanta (3-0),30,2017,3
+667,5f993e552aa4ba0deeabccbe,Detroit (2-1),26,2017,3
+668,5f993e552aa4ba0deeabccbf,Denver (2-1),16,2017,3
+669,5f993e552aa4ba0deeabccc0,Buffalo (2-1),26,2017,3
+670,5f993e552aa4ba0deeabccc1,New Orleans (1-2),34,2017,3
+671,5f993e552aa4ba0deeabccc2,Carolina (2-1),13,2017,3
+672,5f993e552aa4ba0deeabccc3,Pittsburgh (2-1),17,2017,3
+673,5f993e552aa4ba0deeabccc4,Chicago (1-2),23,2017,3
+674,5f993e552aa4ba0deeabccc5,Cleveland (0-3),28,2017,3
+675,5f993e552aa4ba0deeabccc6,Indianapolis (1-2),31,2017,3
+676,5f993e552aa4ba0deeabccc7,Houston (1-2),33,2017,3
+677,5f993e552aa4ba0deeabccc8,New England (2-1),36,2017,3
+678,5f993e552aa4ba0deeabccc9,Miami (1-1),6,2017,3
+679,5f993e552aa4ba0deeabccca,NY Jets (1-2),20,2017,3
+680,5f993e552aa4ba0deeabcccb,Tampa Bay (1-1),17,2017,3
+681,5f993e552aa4ba0deeabcccc,Minnesota (2-1),34,2017,3
+682,5f993e552aa4ba0deeabcccd,NY Giants (0-3),24,2017,3
+683,5f993e552aa4ba0deeabccce,Philadelphia (2-1),27,2017,3
+684,5f993e552aa4ba0deeabcccf,Seattle (1-2),27,2017,3
+685,5f993e552aa4ba0deeabccd0,Tennessee (2-1),33,2017,3
+686,5f993e552aa4ba0deeabccd1,Cincinnati (0-3),24,2017,3
+687,5f993e552aa4ba0deeabccd2,Green Bay (2-1),27,2017,3
+688,5f993e552aa4ba0deeabccd3,Kansas City (3-0),24,2017,3
+689,5f993e552aa4ba0deeabccd4,LA Chargers (0-3),10,2017,3
+690,5f993e552aa4ba0deeabccd5,Oakland (2-1),10,2017,3
+691,5f993e552aa4ba0deeabccd6,Washington (2-1),27,2017,3
+692,5f993e552aa4ba0deeabccd7,Dallas (2-1),28,2017,3
+693,5f993e552aa4ba0deeabccd8,Arizona (1-2),17,2017,3
+694,5f993e552aa4ba0deeabccda,Chicago (1-3),14,2017,4
+695,5f993e552aa4ba0deeabccdb,Green Bay (3-1),35,2017,4
+696,5f993e552aa4ba0deeabccdc,New Orleans (2-2),20,2017,4
+697,5f993e552aa4ba0deeabccdd,Miami (1-2),0,2017,4
+698,5f993e552aa4ba0deeabccde,Buffalo (3-1),23,2017,4
+699,5f993e552aa4ba0deeabccdf,Atlanta (3-1),17,2017,4
+700,5f993e552aa4ba0deeabcce0,Pittsburgh (3-1),26,2017,4
+701,5f993e552aa4ba0deeabcce1,Baltimore (2-2),9,2017,4
+702,5f993e552aa4ba0deeabcce2,Carolina (3-1),33,2017,4
+703,5f993e552aa4ba0deeabcce3,New England (2-2),30,2017,4
+704,5f993e552aa4ba0deeabcce4,Cincinnati (1-3),31,2017,4
+705,5f993e552aa4ba0deeabcce5,Cleveland (0-4),7,2017,4
+706,5f993e552aa4ba0deeabcce6,LA Rams (3-1),35,2017,4
+707,5f993e552aa4ba0deeabcce7,Dallas (2-2),30,2017,4
+708,5f993e552aa4ba0deeabcce8,Detroit (3-1),14,2017,4
+709,5f993e552aa4ba0deeabcce9,Minnesota (2-2),7,2017,4
+710,5f993e552aa4ba0deeabccea,Tennessee (2-2),14,2017,4
+711,5f993e552aa4ba0deeabcceb,Houston (2-2),57,2017,4
+712,5f993e552aa4ba0deeabccec,Jacksonville (2-2),20,2017,4
+713,5f993e552aa4ba0deeabcced,NY Jets (2-2),23,2017,4
+714,5f993e552aa4ba0deeabccee,San Francisco (0-4),15,2017,4
+715,5f993e552aa4ba0deeabccef,Arizona (2-2),18,2017,4
+716,5f993e552aa4ba0deeabccf0,Philadelphia (3-1),26,2017,4
+717,5f993e552aa4ba0deeabccf1,LA Chargers (0-4),24,2017,4
+718,5f993e552aa4ba0deeabccf2,NY Giants (0-4),23,2017,4
+719,5f993e552aa4ba0deeabccf3,Tampa Bay (2-1),25,2017,4
+720,5f993e552aa4ba0deeabccf4,Oakland (2-2),10,2017,4
+721,5f993e552aa4ba0deeabccf5,Denver (3-1),16,2017,4
+722,5f993e552aa4ba0deeabccf6,Indianapolis (1-3),18,2017,4
+723,5f993e552aa4ba0deeabccf7,Seattle (2-2),46,2017,4
+724,5f993e552aa4ba0deeabccf8,Washington (2-2),20,2017,4
+725,5f993e552aa4ba0deeabccf9,Kansas City (4-0),29,2017,4
+726,5f993e562aa4ba0deeabccfb,New England (3-2),19,2017,5
+727,5f993e562aa4ba0deeabccfc,Tampa Bay (2-2),14,2017,5
+728,5f993e562aa4ba0deeabccfd,Arizona (2-3),7,2017,5
+729,5f993e562aa4ba0deeabccfe,Philadelphia (4-1),34,2017,5
+730,5f993e562aa4ba0deeabccff,Buffalo (3-2),16,2017,5
+731,5f993e562aa4ba0deeabcd00,Cincinnati (2-3),20,2017,5
+732,5f993e562aa4ba0deeabcd01,Carolina (4-1),27,2017,5
+733,5f993e562aa4ba0deeabcd02,Detroit (3-2),24,2017,5
+734,5f993e562aa4ba0deeabcd03,NY Jets (3-2),17,2017,5
+735,5f993e562aa4ba0deeabcd04,Cleveland (0-5),14,2017,5
+736,5f993e562aa4ba0deeabcd05,San Francisco (0-5),23,2017,5
+737,5f993e562aa4ba0deeabcd06,Indianapolis (2-3),26,2017,5
+738,5f993e562aa4ba0deeabcd07,Jacksonville (3-2),30,2017,5
+739,5f993e562aa4ba0deeabcd08,Pittsburgh (3-2),9,2017,5
+740,5f993e562aa4ba0deeabcd09,LA Chargers (1-4),27,2017,5
+741,5f993e562aa4ba0deeabcd0a,NY Giants (0-5),22,2017,5
+742,5f993e562aa4ba0deeabcd0b,Tennessee (2-3),10,2017,5
+743,5f993e562aa4ba0deeabcd0c,Miami (2-2),16,2017,5
+744,5f993e562aa4ba0deeabcd0d,Baltimore (3-2),30,2017,5
+745,5f993e562aa4ba0deeabcd0e,Oakland (2-3),17,2017,5
+746,5f993e562aa4ba0deeabcd0f,Seattle (3-2),16,2017,5
+747,5f993e562aa4ba0deeabcd10,LA Rams (3-2),10,2017,5
+748,5f993e562aa4ba0deeabcd11,Green Bay (4-1),35,2017,5
+749,5f993e562aa4ba0deeabcd12,Dallas (2-3),31,2017,5
+750,5f993e562aa4ba0deeabcd13,Kansas City (5-0),42,2017,5
+751,5f993e562aa4ba0deeabcd14,Houston (2-3),34,2017,5
+752,5f993e562aa4ba0deeabcd15,Minnesota (3-2),20,2017,5
+753,5f993e562aa4ba0deeabcd16,Chicago (1-4),17,2017,5
+754,5f993e572aa4ba0deeabcd18,Philadelphia (5-1),28,2017,6
+755,5f993e572aa4ba0deeabcd19,Carolina (4-2),23,2017,6
+756,5f993e572aa4ba0deeabcd1a,Miami (3-2),20,2017,6
+757,5f993e572aa4ba0deeabcd1b,Atlanta (3-2),17,2017,6
+758,5f993e572aa4ba0deeabcd1c,Chicago (2-4),27,2017,6
+759,5f993e572aa4ba0deeabcd1d,Baltimore (3-3),24,2017,6
+760,5f993e572aa4ba0deeabcd1e,Cleveland (0-6),17,2017,6
+761,5f993e572aa4ba0deeabcd1f,Houston (3-3),33,2017,6
+762,5f993e572aa4ba0deeabcd20,Detroit (3-3),38,2017,6
+763,5f993e572aa4ba0deeabcd21,New Orleans (3-2),52,2017,6
+764,5f993e572aa4ba0deeabcd22,Green Bay (4-2),10,2017,6
+765,5f993e572aa4ba0deeabcd23,Minnesota (4-2),23,2017,6
+766,5f993e572aa4ba0deeabcd24,New England (4-2),24,2017,6
+767,5f993e572aa4ba0deeabcd25,NY Jets (3-3),17,2017,6
+768,5f993e572aa4ba0deeabcd26,San Francisco (0-6),24,2017,6
+769,5f993e572aa4ba0deeabcd27,Washington (3-2),26,2017,6
+770,5f993e572aa4ba0deeabcd28,Tampa Bay (2-3),33,2017,6
+771,5f993e572aa4ba0deeabcd29,Arizona (3-3),38,2017,6
+772,5f993e572aa4ba0deeabcd2a,LA Rams (4-2),27,2017,6
+773,5f993e572aa4ba0deeabcd2b,Jacksonville (3-3),17,2017,6
+774,5f993e572aa4ba0deeabcd2c,Pittsburgh (4-2),19,2017,6
+775,5f993e572aa4ba0deeabcd2d,Kansas City (5-1),13,2017,6
+776,5f993e572aa4ba0deeabcd2e,LA Chargers (2-4),17,2017,6
+777,5f993e572aa4ba0deeabcd2f,Oakland (2-4),16,2017,6
+778,5f993e572aa4ba0deeabcd30,NY Giants (1-5),23,2017,6
+779,5f993e572aa4ba0deeabcd31,Denver (3-2),10,2017,6
+780,5f993e572aa4ba0deeabcd32,Indianapolis (2-4),22,2017,6
+781,5f993e572aa4ba0deeabcd33,Tennessee (3-3),36,2017,6
+782,5f993e572aa4ba0deeabcd35,Kansas City (5-2),30,2017,7
+783,5f993e572aa4ba0deeabcd36,Oakland (3-4),31,2017,7
+784,5f993e572aa4ba0deeabcd37,Arizona (3-4),0,2017,7
+785,5f993e572aa4ba0deeabcd38,LA Rams (5-2),33,2017,7
+786,5f993e572aa4ba0deeabcd39,Baltimore (3-4),16,2017,7
+787,5f993e572aa4ba0deeabcd3a,Minnesota (5-2),24,2017,7
+788,5f993e572aa4ba0deeabcd3b,Tampa Bay (2-4),27,2017,7
+789,5f993e572aa4ba0deeabcd3c,Buffalo (4-2),30,2017,7
+790,5f993e572aa4ba0deeabcd3d,Carolina (4-3),3,2017,7
+791,5f993e572aa4ba0deeabcd3e,Chicago (3-4),17,2017,7
+792,5f993e572aa4ba0deeabcd3f,Tennessee (4-3),12,2017,7
+793,5f993e572aa4ba0deeabcd40,Cleveland (0-7),9,2017,7
+794,5f993e572aa4ba0deeabcd41,New Orleans (4-2),26,2017,7
+795,5f993e572aa4ba0deeabcd42,Green Bay (4-3),17,2017,7
+796,5f993e572aa4ba0deeabcd43,Jacksonville (4-3),27,2017,7
+797,5f993e572aa4ba0deeabcd44,Indianapolis (2-5),0,2017,7
+798,5f993e572aa4ba0deeabcd45,NY Jets (3-4),28,2017,7
+799,5f993e572aa4ba0deeabcd46,Miami (4-2),31,2017,7
+800,5f993e572aa4ba0deeabcd47,Dallas (3-3),40,2017,7
+801,5f993e572aa4ba0deeabcd48,San Francisco (0-7),10,2017,7
+802,5f993e572aa4ba0deeabcd49,Cincinnati (2-4),14,2017,7
+803,5f993e572aa4ba0deeabcd4a,Pittsburgh (5-2),29,2017,7
+804,5f993e572aa4ba0deeabcd4b,Denver (3-3),0,2017,7
+805,5f993e572aa4ba0deeabcd4c,LA Chargers (3-4),21,2017,7
+806,5f993e572aa4ba0deeabcd4d,Seattle (4-2),24,2017,7
+807,5f993e572aa4ba0deeabcd4e,NY Giants (1-6),7,2017,7
+808,5f993e572aa4ba0deeabcd4f,Atlanta (3-3),7,2017,7
+809,5f993e572aa4ba0deeabcd50,New England (5-2),23,2017,7
+810,5f993e572aa4ba0deeabcd51,Washington (3-3),24,2017,7
+811,5f993e572aa4ba0deeabcd52,Philadelphia (6-1),34,2017,7
+812,5f993e582aa4ba0deeabcd54,Miami (4-3),0,2017,8
+813,5f993e582aa4ba0deeabcd55,Baltimore (4-4),40,2017,8
+814,5f993e582aa4ba0deeabcd56,Minnesota (6-2),33,2017,8
+815,5f993e582aa4ba0deeabcd57,Cleveland (0-8),16,2017,8
+816,5f993e582aa4ba0deeabcd58,Atlanta (4-3),25,2017,8
+817,5f993e582aa4ba0deeabcd59,NY Jets (3-5),20,2017,8
+818,5f993e582aa4ba0deeabcd5a,Oakland (3-5),14,2017,8
+819,5f993e582aa4ba0deeabcd5b,Buffalo (5-2),34,2017,8
+820,5f993e582aa4ba0deeabcd5c,Carolina (5-3),17,2017,8
+821,5f993e582aa4ba0deeabcd5d,Tampa Bay (2-5),3,2017,8
+822,5f993e582aa4ba0deeabcd5e,Chicago (3-5),12,2017,8
+823,5f993e582aa4ba0deeabcd5f,New Orleans (5-2),20,2017,8
+824,5f993e582aa4ba0deeabcd60,Indianapolis (2-6),23,2017,8
+825,5f993e582aa4ba0deeabcd61,Cincinnati (3-4),24,2017,8
+826,5f993e582aa4ba0deeabcd62,LA Chargers (3-5),13,2017,8
+827,5f993e582aa4ba0deeabcd63,New England (6-2),21,2017,8
+828,5f993e582aa4ba0deeabcd64,San Francisco (0-8),10,2017,8
+829,5f993e582aa4ba0deeabcd65,Philadelphia (7-1),33,2017,8
+830,5f993e582aa4ba0deeabcd66,Houston (3-4),38,2017,8
+831,5f993e582aa4ba0deeabcd67,Seattle (5-2),41,2017,8
+832,5f993e582aa4ba0deeabcd68,Dallas (4-3),33,2017,8
+833,5f993e582aa4ba0deeabcd69,Washington (3-4),19,2017,8
+834,5f993e582aa4ba0deeabcd6a,Pittsburgh (6-2),20,2017,8
+835,5f993e582aa4ba0deeabcd6b,Detroit (3-4),15,2017,8
+836,5f993e582aa4ba0deeabcd6c,Denver (3-4),19,2017,8
+837,5f993e582aa4ba0deeabcd6d,Kansas City (6-2),29,2017,8
+838,5f993e582aa4ba0deeabcd6f,Buffalo (5-3),21,2017,9
+839,5f993e582aa4ba0deeabcd70,NY Jets (4-5),34,2017,9
+840,5f993e582aa4ba0deeabcd71,Atlanta (4-4),17,2017,9
+841,5f993e582aa4ba0deeabcd72,Carolina (6-3),20,2017,9
+842,5f993e582aa4ba0deeabcd73,Baltimore (4-5),20,2017,9
+843,5f993e582aa4ba0deeabcd74,Tennessee (5-3),23,2017,9
+844,5f993e582aa4ba0deeabcd75,Cincinnati (3-5),7,2017,9
+845,5f993e582aa4ba0deeabcd76,Jacksonville (5-3),23,2017,9
+846,5f993e582aa4ba0deeabcd77,Denver (3-5),23,2017,9
+847,5f993e582aa4ba0deeabcd78,Philadelphia (8-1),51,2017,9
+848,5f993e582aa4ba0deeabcd79,Indianapolis (3-6),20,2017,9
+849,5f993e582aa4ba0deeabcd7a,Houston (3-5),14,2017,9
+850,5f993e582aa4ba0deeabcd7b,LA Rams (6-2),51,2017,9
+851,5f993e582aa4ba0deeabcd7c,NY Giants (1-7),17,2017,9
+852,5f993e592aa4ba0deeabcd7d,Tampa Bay (2-6),10,2017,9
+853,5f993e592aa4ba0deeabcd7e,New Orleans (6-2),30,2017,9
+854,5f993e592aa4ba0deeabcd7f,Arizona (4-4),20,2017,9
+855,5f993e592aa4ba0deeabcd80,San Francisco (0-9),10,2017,9
+856,5f993e592aa4ba0deeabcd81,Washington (4-4),17,2017,9
+857,5f993e592aa4ba0deeabcd82,Seattle (5-3),14,2017,9
+858,5f993e592aa4ba0deeabcd83,Kansas City (6-3),17,2017,9
+859,5f993e592aa4ba0deeabcd84,Dallas (5-3),28,2017,9
+860,5f993e592aa4ba0deeabcd85,Oakland (4-5),27,2017,9
+861,5f993e592aa4ba0deeabcd86,Miami (4-4),24,2017,9
+862,5f993e592aa4ba0deeabcd87,Detroit (4-4),30,2017,9
+863,5f993e592aa4ba0deeabcd88,Green Bay (4-4),17,2017,9
+864,5f993e592aa4ba0deeabcd8a,Seattle (6-3),22,2017,10
+865,5f993e592aa4ba0deeabcd8b,Arizona (4-5),16,2017,10
+866,5f993e592aa4ba0deeabcd8c,New Orleans (7-2),47,2017,10
+867,5f993e592aa4ba0deeabcd8d,Buffalo (5-4),10,2017,10
+868,5f993e592aa4ba0deeabcd8e,Green Bay (5-4),23,2017,10
+869,5f993e592aa4ba0deeabcd8f,Chicago (3-6),16,2017,10
+870,5f993e592aa4ba0deeabcd90,Cincinnati (3-6),20,2017,10
+871,5f993e592aa4ba0deeabcd91,Tennessee (6-3),24,2017,10
+872,5f993e592aa4ba0deeabcd92,Cleveland (0-9),24,2017,10
+873,5f993e592aa4ba0deeabcd93,Detroit (5-4),38,2017,10
+874,5f993e592aa4ba0deeabcd94,Pittsburgh (7-2),20,2017,10
+875,5f993e592aa4ba0deeabcd95,Indianapolis (3-7),17,2017,10
+876,5f993e592aa4ba0deeabcd96,LA Chargers (3-6),17,2017,10
+877,5f993e592aa4ba0deeabcd97,Jacksonville (6-3),20,2017,10
+878,5f993e592aa4ba0deeabcd98,Minnesota (7-2),38,2017,10
+879,5f993e592aa4ba0deeabcd99,Washington (4-5),30,2017,10
+880,5f993e592aa4ba0deeabcd9a,NY Jets (4-6),10,2017,10
+881,5f993e592aa4ba0deeabcd9b,Tampa Bay (3-6),15,2017,10
+882,5f993e592aa4ba0deeabcd9c,Houston (3-6),7,2017,10
+883,5f993e592aa4ba0deeabcd9d,LA Rams (7-2),33,2017,10
+884,5f993e592aa4ba0deeabcd9e,Dallas (5-4),7,2017,10
+885,5f993e592aa4ba0deeabcd9f,Atlanta (5-4),27,2017,10
+886,5f993e592aa4ba0deeabcda0,NY Giants (1-8),21,2017,10
+887,5f993e592aa4ba0deeabcda1,San Francisco (1-9),31,2017,10
+888,5f993e592aa4ba0deeabcda2,New England (7-2),41,2017,10
+889,5f993e592aa4ba0deeabcda3,Denver (3-6),16,2017,10
+890,5f993e592aa4ba0deeabcda4,Miami (4-5),21,2017,10
+891,5f993e592aa4ba0deeabcda5,Carolina (7-3),45,2017,10
+892,5f993e5a2aa4ba0deeabcda7,Tennessee (6-4),17,2017,11
+893,5f993e5a2aa4ba0deeabcda8,Pittsburgh (8-2),40,2017,11
+894,5f993e5a2aa4ba0deeabcda9,Tampa Bay (4-6),30,2017,11
+895,5f993e5a2aa4ba0deeabcdaa,Miami (4-6),20,2017,11
+896,5f993e5a2aa4ba0deeabcdab,Arizona (4-6),21,2017,11
+897,5f993e5a2aa4ba0deeabcdac,Houston (4-6),31,2017,11
+898,5f993e5a2aa4ba0deeabcdad,Baltimore (5-5),23,2017,11
+899,5f993e5a2aa4ba0deeabcdae,Green Bay (5-5),0,2017,11
+900,5f993e5a2aa4ba0deeabcdaf,Detroit (6-4),27,2017,11
+901,5f993e5a2aa4ba0deeabcdb0,Chicago (3-7),24,2017,11
+902,5f993e5a2aa4ba0deeabcdb1,Jacksonville (7-3),19,2017,11
+903,5f993e5a2aa4ba0deeabcdb2,Cleveland (0-10),7,2017,11
+904,5f993e5a2aa4ba0deeabcdb3,Kansas City (6-4),9,2017,11
+905,5f993e5a2aa4ba0deeabcdb4,NY Giants (2-8),12,2017,11
+906,5f993e5a2aa4ba0deeabcdb5,LA Rams (7-3),7,2017,11
+907,5f993e5a2aa4ba0deeabcdb6,Minnesota (8-2),24,2017,11
+908,5f993e5a2aa4ba0deeabcdb7,Washington (4-6),31,2017,11
+909,5f993e5a2aa4ba0deeabcdb8,New Orleans (8-2),34,2017,11
+910,5f993e5a2aa4ba0deeabcdb9,Buffalo (5-5),24,2017,11
+911,5f993e5a2aa4ba0deeabcdba,LA Chargers (4-6),54,2017,11
+912,5f993e5a2aa4ba0deeabcdbb,Cincinnati (4-6),20,2017,11
+913,5f993e5a2aa4ba0deeabcdbc,Denver (3-7),17,2017,11
+914,5f993e5a2aa4ba0deeabcdbd,New England (8-2),33,2017,11
+915,5f993e5a2aa4ba0deeabcdbe,Oakland (4-6),8,2017,11
+916,5f993e5a2aa4ba0deeabcdbf,Philadelphia (9-1),37,2017,11
+917,5f993e5a2aa4ba0deeabcdc0,Dallas (5-5),9,2017,11
+918,5f993e5a2aa4ba0deeabcdc1,Atlanta (6-4),34,2017,11
+919,5f993e5a2aa4ba0deeabcdc2,Seattle (6-4),31,2017,11
+920,5f993e5b2aa4ba0deeabcdc4,Minnesota (9-2),30,2017,12
+921,5f993e5b2aa4ba0deeabcdc5,Detroit (6-5),23,2017,12
+922,5f993e5b2aa4ba0deeabcdc6,LA Chargers (5-6),28,2017,12
+923,5f993e5b2aa4ba0deeabcdc7,Dallas (5-6),6,2017,12
+924,5f993e5b2aa4ba0deeabcdc8,NY Giants (2-9),10,2017,12
+925,5f993e5b2aa4ba0deeabcdc9,Washington (5-6),20,2017,12
+926,5f993e5b2aa4ba0deeabcdca,Tampa Bay (4-7),20,2017,12
+927,5f993e5b2aa4ba0deeabcdcb,Atlanta (7-4),34,2017,12
+928,5f993e5b2aa4ba0deeabcdcc,Buffalo (6-5),16,2017,12
+929,5f993e5b2aa4ba0deeabcdcd,Kansas City (6-5),10,2017,12
+930,5f993e5b2aa4ba0deeabcdce,Carolina (8-3),35,2017,12
+931,5f993e5b2aa4ba0deeabcdcf,NY Jets (4-7),27,2017,12
+932,5f993e5b2aa4ba0deeabcdd0,Chicago (3-8),3,2017,12
+933,5f993e5b2aa4ba0deeabcdd1,Philadelphia (10-1),31,2017,12
+934,5f993e5b2aa4ba0deeabcdd2,Cleveland (0-11),16,2017,12
+935,5f993e5b2aa4ba0deeabcdd3,Cincinnati (5-6),30,2017,12
+936,5f993e5b2aa4ba0deeabcdd4,Tennessee (7-4),20,2017,12
+937,5f993e5b2aa4ba0deeabcdd5,Indianapolis (3-8),16,2017,12
+938,5f993e5b2aa4ba0deeabcdd6,Miami (4-7),17,2017,12
+939,5f993e5b2aa4ba0deeabcdd7,New England (9-2),35,2017,12
+940,5f993e5b2aa4ba0deeabcdd8,Seattle (7-4),24,2017,12
+941,5f993e5b2aa4ba0deeabcdd9,San Francisco (1-10),13,2017,12
+942,5f993e5b2aa4ba0deeabcdda,Jacksonville (7-4),24,2017,12
+943,5f993e5b2aa4ba0deeabcddb,Arizona (5-6),27,2017,12
+944,5f993e5b2aa4ba0deeabcddc,Denver (3-8),14,2017,12
+945,5f993e5b2aa4ba0deeabcddd,Oakland (5-6),21,2017,12
+946,5f993e5b2aa4ba0deeabcdde,New Orleans (8-3),20,2017,12
+947,5f993e5b2aa4ba0deeabcddf,LA Rams (8-3),26,2017,12
+948,5f993e5b2aa4ba0deeabcde0,Green Bay (5-6),28,2017,12
+949,5f993e5b2aa4ba0deeabcde1,Pittsburgh (9-2),31,2017,12
+950,5f993e5b2aa4ba0deeabcde2,Houston (4-7),16,2017,12
+951,5f993e5b2aa4ba0deeabcde3,Baltimore (6-5),23,2017,12
+952,5f993e5b2aa4ba0deeabcde5,Washington (5-7),14,2017,13
+953,5f993e5b2aa4ba0deeabcde6,Dallas (6-6),38,2017,13
+954,5f993e5b2aa4ba0deeabcde7,Minnesota (10-2),14,2017,13
+955,5f993e5b2aa4ba0deeabcde8,Atlanta (7-5),9,2017,13
+956,5f993e5b2aa4ba0deeabcde9,Detroit (6-6),20,2017,13
+957,5f993e5b2aa4ba0deeabcdea,Baltimore (7-5),44,2017,13
+958,5f993e5b2aa4ba0deeabcdeb,New England (10-2),23,2017,13
+959,5f993e5b2aa4ba0deeabcdec,Buffalo (6-6),3,2017,13
+960,5f993e5b2aa4ba0deeabcded,San Francisco (2-10),15,2017,13
+961,5f993e5b2aa4ba0deeabcdee,Chicago (3-9),14,2017,13
+962,5f993e5b2aa4ba0deeabcdef,Denver (3-9),9,2017,13
+963,5f993e5b2aa4ba0deeabcdf0,Miami (5-7),35,2017,13
+964,5f993e5b2aa4ba0deeabcdf1,Tampa Bay (4-8),20,2017,13
+965,5f993e5b2aa4ba0deeabcdf2,Green Bay (6-6),26,2017,13
+966,5f993e5b2aa4ba0deeabcdf3,Houston (4-8),13,2017,13
+967,5f993e5b2aa4ba0deeabcdf4,Tennessee (8-4),24,2017,13
+968,5f993e5b2aa4ba0deeabcdf5,Indianapolis (3-9),10,2017,13
+969,5f993e5b2aa4ba0deeabcdf6,Jacksonville (8-4),30,2017,13
+970,5f993e5b2aa4ba0deeabcdf7,Kansas City (6-6),31,2017,13
+971,5f993e5b2aa4ba0deeabcdf8,NY Jets (5-7),38,2017,13
+972,5f993e5b2aa4ba0deeabcdf9,Cleveland (0-12),10,2017,13
+973,5f993e5b2aa4ba0deeabcdfa,LA Chargers (6-6),19,2017,13
+974,5f993e5b2aa4ba0deeabcdfb,LA Rams (9-3),32,2017,13
+975,5f993e5b2aa4ba0deeabcdfc,Arizona (5-7),16,2017,13
+976,5f993e5b2aa4ba0deeabcdfd,Carolina (8-4),21,2017,13
+977,5f993e5b2aa4ba0deeabcdfe,New Orleans (9-3),31,2017,13
+978,5f993e5b2aa4ba0deeabcdff,NY Giants (2-10),17,2017,13
+979,5f993e5b2aa4ba0deeabce00,Oakland (6-6),24,2017,13
+980,5f993e5b2aa4ba0deeabce01,Philadelphia (10-2),10,2017,13
+981,5f993e5b2aa4ba0deeabce02,Seattle (8-4),24,2017,13
+982,5f993e5b2aa4ba0deeabce03,Pittsburgh (10-2),23,2017,13
+983,5f993e5b2aa4ba0deeabce04,Cincinnati (5-7),20,2017,13
+984,5f993e5c2aa4ba0deeabce06,New Orleans (9-4),17,2017,14
+985,5f993e5c2aa4ba0deeabce07,Atlanta (8-5),20,2017,14
+986,5f993e5c2aa4ba0deeabce08,Indianapolis (3-10),7,2017,14
+987,5f993e5c2aa4ba0deeabce09,Buffalo (7-6),13,2017,14
+988,5f993e5c2aa4ba0deeabce0a,Minnesota (10-3),24,2017,14
+989,5f993e5c2aa4ba0deeabce0b,Carolina (9-4),31,2017,14
+990,5f993e5c2aa4ba0deeabce0c,Chicago (4-9),33,2017,14
+991,5f993e5c2aa4ba0deeabce0d,Cincinnati (5-8),7,2017,14
+992,5f993e5c2aa4ba0deeabce0e,Green Bay (7-6),27,2017,14
+993,5f993e5c2aa4ba0deeabce0f,Cleveland (0-13),21,2017,14
+994,5f993e5c2aa4ba0deeabce10,Dallas (7-6),30,2017,14
+995,5f993e5c2aa4ba0deeabce11,NY Giants (2-11),10,2017,14
+996,5f993e5c2aa4ba0deeabce12,Detroit (7-6),24,2017,14
+997,5f993e5c2aa4ba0deeabce13,Tampa Bay (4-9),21,2017,14
+998,5f993e5c2aa4ba0deeabce14,San Francisco (3-10),26,2017,14
+999,5f993e5c2aa4ba0deeabce15,Houston (4-9),16,2017,14
+1000,5f993e5c2aa4ba0deeabce16,Oakland (6-7),15,2017,14
+1001,5f993e5c2aa4ba0deeabce17,Kansas City (7-6),26,2017,14
+1002,5f993e5c2aa4ba0deeabce18,Tennessee (8-5),7,2017,14
+1003,5f993e5c2aa4ba0deeabce19,Arizona (6-7),12,2017,14
+1004,5f993e5c2aa4ba0deeabce1a,NY Jets (5-8),0,2017,14
+1005,5f993e5c2aa4ba0deeabce1b,Denver (4-9),23,2017,14
+1006,5f993e5c2aa4ba0deeabce1c,Washington (5-8),13,2017,14
+1007,5f993e5c2aa4ba0deeabce1d,LA Chargers (7-6),30,2017,14
+1008,5f993e5c2aa4ba0deeabce1e,Seattle (8-5),24,2017,14
+1009,5f993e5c2aa4ba0deeabce1f,Jacksonville (9-4),30,2017,14
+1010,5f993e5c2aa4ba0deeabce20,Philadelphia (11-2),43,2017,14
+1011,5f993e5c2aa4ba0deeabce21,LA Rams (9-4),35,2017,14
+1012,5f993e5c2aa4ba0deeabce22,Baltimore (7-6),38,2017,14
+1013,5f993e5c2aa4ba0deeabce23,Pittsburgh (11-2),39,2017,14
+1014,5f993e5c2aa4ba0deeabce24,New England (10-3),20,2017,14
+1015,5f993e5c2aa4ba0deeabce25,Miami (6-7),27,2017,14
+1016,5f993e5d2aa4ba0deeabce27,Denver (5-9),25,2017,15
+1017,5f993e5d2aa4ba0deeabce28,Indianapolis (3-11),13,2017,15
+1018,5f993e5d2aa4ba0deeabce29,Chicago (4-10),10,2017,15
+1019,5f993e5d2aa4ba0deeabce2a,Detroit (8-6),20,2017,15
+1020,5f993e5d2aa4ba0deeabce2b,LA Chargers (7-7),13,2017,15
+1021,5f993e5d2aa4ba0deeabce2c,Kansas City (8-6),30,2017,15
+1022,5f993e5d2aa4ba0deeabce2d,Arizona (6-8),15,2017,15
+1023,5f993e5d2aa4ba0deeabce2e,Washington (6-8),20,2017,15
+1024,5f993e5d2aa4ba0deeabce2f,Baltimore (8-6),27,2017,15
+1025,5f993e5d2aa4ba0deeabce30,Cleveland (0-14),10,2017,15
+1026,5f993e5d2aa4ba0deeabce31,Miami (6-8),16,2017,15
+1027,5f993e5d2aa4ba0deeabce32,Buffalo (8-6),24,2017,15
+1028,5f993e5d2aa4ba0deeabce33,Green Bay (7-7),24,2017,15
+1029,5f993e5d2aa4ba0deeabce34,Carolina (10-4),31,2017,15
+1030,5f993e5d2aa4ba0deeabce35,Cincinnati (5-9),7,2017,15
+1031,5f993e5d2aa4ba0deeabce36,Minnesota (11-3),34,2017,15
+1032,5f993e5d2aa4ba0deeabce37,Houston (4-10),7,2017,15
+1033,5f993e5d2aa4ba0deeabce38,Jacksonville (10-4),45,2017,15
+1034,5f993e5d2aa4ba0deeabce39,NY Jets (5-9),19,2017,15
+1035,5f993e5d2aa4ba0deeabce3a,New Orleans (10-4),31,2017,15
+1036,5f993e5d2aa4ba0deeabce3b,Philadelphia (12-2),34,2017,15
+1037,5f993e5d2aa4ba0deeabce3c,NY Giants (2-12),29,2017,15
+1038,5f993e5d2aa4ba0deeabce3d,LA Rams (10-4),42,2017,15
+1039,5f993e5d2aa4ba0deeabce3e,Seattle (8-6),7,2017,15
+1040,5f993e5d2aa4ba0deeabce3f,New England (11-3),27,2017,15
+1041,5f993e5d2aa4ba0deeabce40,Pittsburgh (11-3),24,2017,15
+1042,5f993e5d2aa4ba0deeabce41,Tennessee (8-6),23,2017,15
+1043,5f993e5d2aa4ba0deeabce42,San Francisco (4-10),25,2017,15
+1044,5f993e5d2aa4ba0deeabce43,Dallas (8-6),20,2017,15
+1045,5f993e5d2aa4ba0deeabce44,Oakland (6-8),17,2017,15
+1046,5f993e5d2aa4ba0deeabce45,Atlanta (9-5),24,2017,15
+1047,5f993e5d2aa4ba0deeabce46,Tampa Bay (4-10),21,2017,15
+1048,5f993e5d2aa4ba0deeabce48,Indianapolis (3-12),16,2017,16
+1049,5f993e5d2aa4ba0deeabce49,Baltimore (9-6),23,2017,16
+1050,5f993e5d2aa4ba0deeabce4a,Minnesota (12-3),16,2017,16
+1051,5f993e5d2aa4ba0deeabce4b,Green Bay (7-8),0,2017,16
+1052,5f993e5d2aa4ba0deeabce4c,Atlanta (9-6),13,2017,16
+1053,5f993e5d2aa4ba0deeabce4d,New Orleans (11-4),23,2017,16
+1054,5f993e5d2aa4ba0deeabce4e,Buffalo (8-7),16,2017,16
+1055,5f993e5d2aa4ba0deeabce4f,New England (12-3),37,2017,16
+1056,5f993e5d2aa4ba0deeabce50,Tampa Bay (4-11),19,2017,16
+1057,5f993e5d2aa4ba0deeabce51,Carolina (11-4),22,2017,16
+1058,5f993e5d2aa4ba0deeabce52,Cleveland (0-15),3,2017,16
+1059,5f993e5d2aa4ba0deeabce53,Chicago (5-10),20,2017,16
+1060,5f993e5d2aa4ba0deeabce54,Detroit (8-7),17,2017,16
+1061,5f993e5d2aa4ba0deeabce55,Cincinnati (6-9),26,2017,16
+1062,5f993e5d2aa4ba0deeabce56,Denver (5-10),11,2017,16
+1063,5f993e5d2aa4ba0deeabce57,Washington (7-8),27,2017,16
+1064,5f993e5d2aa4ba0deeabce58,Miami (6-9),13,2017,16
+1065,5f993e5d2aa4ba0deeabce59,Kansas City (9-6),29,2017,16
+1066,5f993e5d2aa4ba0deeabce5a,LA Chargers (8-7),14,2017,16
+1067,5f993e5d2aa4ba0deeabce5b,NY Jets (5-10),7,2017,16
+1068,5f993e5d2aa4ba0deeabce5c,LA Rams (11-4),27,2017,16
+1069,5f993e5d2aa4ba0deeabce5d,Tennessee (8-7),23,2017,16
+1070,5f993e5d2aa4ba0deeabce5e,Jacksonville (10-5),33,2017,16
+1071,5f993e5d2aa4ba0deeabce5f,San Francisco (5-10),44,2017,16
+1072,5f993e5d2aa4ba0deeabce60,NY Giants (2-13),0,2017,16
+1073,5f993e5d2aa4ba0deeabce61,Arizona (7-8),23,2017,16
+1074,5f993e5d2aa4ba0deeabce62,Seattle (9-6),21,2017,16
+1075,5f993e5d2aa4ba0deeabce63,Dallas (8-7),12,2017,16
+1076,5f993e5d2aa4ba0deeabce64,Pittsburgh (12-3),34,2017,16
+1077,5f993e5d2aa4ba0deeabce65,Houston (4-11),6,2017,16
+1078,5f993e5d2aa4ba0deeabce66,Oakland (6-9),10,2017,16
+1079,5f993e5d2aa4ba0deeabce67,Philadelphia (13-2),19,2017,16
+1080,5f993e5e2aa4ba0deeabce69,Chicago (5-11),10,2017,17
+1081,5f993e5e2aa4ba0deeabce6a,Minnesota (13-3),23,2017,17
+1082,5f993e5e2aa4ba0deeabce6b,Cleveland (0-16),24,2017,17
+1083,5f993e5e2aa4ba0deeabce6c,Pittsburgh (13-3),28,2017,17
+1084,5f993e5e2aa4ba0deeabce6d,Dallas (9-7),6,2017,17
+1085,5f993e5e2aa4ba0deeabce6e,Philadelphia (13-3),0,2017,17
+1086,5f993e5e2aa4ba0deeabce6f,Green Bay (7-9),11,2017,17
+1087,5f993e5e2aa4ba0deeabce70,Detroit (9-7),35,2017,17
+1088,5f993e5e2aa4ba0deeabce71,Houston (4-12),13,2017,17
+1089,5f993e5e2aa4ba0deeabce72,Indianapolis (4-12),22,2017,17
+1090,5f993e5e2aa4ba0deeabce73,NY Jets (5-11),6,2017,17
+1091,5f993e5e2aa4ba0deeabce74,New England (13-3),26,2017,17
+1092,5f993e5e2aa4ba0deeabce75,Washington (7-9),10,2017,17
+1093,5f993e5e2aa4ba0deeabce76,NY Giants (3-13),18,2017,17
+1094,5f993e5e2aa4ba0deeabce77,Arizona (8-8),26,2017,17
+1095,5f993e5e2aa4ba0deeabce78,Seattle (9-7),24,2017,17
+1096,5f993e5e2aa4ba0deeabce79,Carolina (11-5),10,2017,17
+1097,5f993e5e2aa4ba0deeabce7a,Atlanta (10-6),22,2017,17
+1098,5f993e5e2aa4ba0deeabce7b,Cincinnati (7-9),31,2017,17
+1099,5f993e5e2aa4ba0deeabce7c,Baltimore (9-7),27,2017,17
+1100,5f993e5e2aa4ba0deeabce7d,Buffalo (9-7),22,2017,17
+1101,5f993e5e2aa4ba0deeabce7e,Miami (6-10),16,2017,17
+1102,5f993e5e2aa4ba0deeabce7f,Kansas City (10-6),27,2017,17
+1103,5f993e5e2aa4ba0deeabce80,Denver (5-11),24,2017,17
+1104,5f993e5e2aa4ba0deeabce81,Jacksonville (10-6),10,2017,17
+1105,5f993e5e2aa4ba0deeabce82,Tennessee (9-7),15,2017,17
+1106,5f993e5e2aa4ba0deeabce83,Oakland (6-10),10,2017,17
+1107,5f993e5e2aa4ba0deeabce84,LA Chargers (9-7),30,2017,17
+1108,5f993e5e2aa4ba0deeabce85,San Francisco (6-10),34,2017,17
+1109,5f993e5e2aa4ba0deeabce86,LA Rams (11-5),13,2017,17
+1110,5f993e5e2aa4ba0deeabce87,New Orleans (11-5),24,2017,17
+1111,5f993e5e2aa4ba0deeabce88,Tampa Bay (5-11),31,2017,17
+1112,5f993e5f2aa4ba0deeabce8a,Atlanta (0-1),12,2018,1
+1113,5f993e5f2aa4ba0deeabce8b,Philadelphia (1-0),18,2018,1
+1114,5f993e5f2aa4ba0deeabce8c,Buffalo (0-1),3,2018,1
+1115,5f993e5f2aa4ba0deeabce8d,Baltimore (1-0),47,2018,1
+1116,5f993e5f2aa4ba0deeabce8e,Cincinnati (1-0),34,2018,1
+1117,5f993e5f2aa4ba0deeabce8f,Indianapolis (0-1),23,2018,1
+1118,5f993e5f2aa4ba0deeabce90,Pittsburgh (0-0-1),21,2018,1
+1119,5f993e5f2aa4ba0deeabce91,Cleveland (0-0-1),21,2018,1
+1120,5f993e5f2aa4ba0deeabce92,Houston (0-1),20,2018,1
+1121,5f993e5f2aa4ba0deeabce93,New England (1-0),27,2018,1
+1122,5f993e5f2aa4ba0deeabce94,Jacksonville (1-0),20,2018,1
+1123,5f993e5f2aa4ba0deeabce95,NY Giants (0-1),15,2018,1
+1124,5f993e5f2aa4ba0deeabce96,Tennessee (0-1),20,2018,1
+1125,5f993e5f2aa4ba0deeabce97,Miami (1-0),27,2018,1
+1126,5f993e5f2aa4ba0deeabce98,San Francisco (0-1),16,2018,1
+1127,5f993e5f2aa4ba0deeabce99,Minnesota (1-0),24,2018,1
+1128,5f993e5f2aa4ba0deeabce9a,Tampa Bay (1-0),48,2018,1
+1129,5f993e5f2aa4ba0deeabce9b,New Orleans (0-1),40,2018,1
+1130,5f993e5f2aa4ba0deeabce9c,Kansas City (1-0),38,2018,1
+1131,5f993e5f2aa4ba0deeabce9d,LA Chargers (0-1),28,2018,1
+1132,5f993e5f2aa4ba0deeabce9e,Washington (1-0),24,2018,1
+1133,5f993e5f2aa4ba0deeabce9f,Arizona (0-1),6,2018,1
+1134,5f993e5f2aa4ba0deeabcea0,Dallas (0-1),8,2018,1
+1135,5f993e5f2aa4ba0deeabcea1,Carolina (1-0),16,2018,1
+1136,5f993e5f2aa4ba0deeabcea2,Seattle (0-1),24,2018,1
+1137,5f993e5f2aa4ba0deeabcea3,Denver (1-0),27,2018,1
+1138,5f993e5f2aa4ba0deeabcea4,Chicago (0-1),23,2018,1
+1139,5f993e5f2aa4ba0deeabcea5,Green Bay (1-0),24,2018,1
+1140,5f993e5f2aa4ba0deeabcea6,NY Jets (1-0),48,2018,1
+1141,5f993e5f2aa4ba0deeabcea7,Detroit (0-1),17,2018,1
+1142,5f993e5f2aa4ba0deeabcea8,LA Rams (1-0),33,2018,1
+1143,5f993e5f2aa4ba0deeabcea9,Oakland (0-1),13,2018,1
+1144,5f993e5f2aa4ba0deeabceab,Baltimore (1-1),23,2018,2
+1145,5f993e5f2aa4ba0deeabceac,Cincinnati (2-0),34,2018,2
+1146,5f993e5f2aa4ba0deeabcead,Carolina (1-1),24,2018,2
+1147,5f993e5f2aa4ba0deeabceae,Atlanta (1-1),31,2018,2
+1148,5f993e5f2aa4ba0deeabceaf,LA Chargers (1-1),31,2018,2
+1149,5f993e5f2aa4ba0deeabceb0,Buffalo (0-2),20,2018,2
+1150,5f993e5f2aa4ba0deeabceb1,Cleveland (0-1-1),18,2018,2
+1151,5f993e5f2aa4ba0deeabceb2,New Orleans (1-1),21,2018,2
+1152,5f993e5f2aa4ba0deeabceb3,Minnesota (1-0-1),29,2018,2
+1153,5f993e5f2aa4ba0deeabceb4,Green Bay (1-0-1),29,2018,2
+1154,5f993e5f2aa4ba0deeabceb5,Houston (0-2),17,2018,2
+1155,5f993e5f2aa4ba0deeabceb6,Tennessee (1-1),20,2018,2
+1156,5f993e5f2aa4ba0deeabceb7,Indianapolis (1-1),21,2018,2
+1157,5f993e5f2aa4ba0deeabceb8,Washington (1-1),9,2018,2
+1158,5f993e5f2aa4ba0deeabceb9,Kansas City (2-0),42,2018,2
+1159,5f993e5f2aa4ba0deeabceba,Pittsburgh (0-1-1),37,2018,2
+1160,5f993e5f2aa4ba0deeabcebb,Miami (2-0),20,2018,2
+1161,5f993e5f2aa4ba0deeabcebc,NY Jets (1-1),12,2018,2
+1162,5f993e5f2aa4ba0deeabcebd,Philadelphia (1-1),21,2018,2
+1163,5f993e5f2aa4ba0deeabcebe,Tampa Bay (2-0),27,2018,2
+1164,5f993e5f2aa4ba0deeabcebf,Arizona (0-2),0,2018,2
+1165,5f993e5f2aa4ba0deeabcec0,LA Rams (2-0),34,2018,2
+1166,5f993e5f2aa4ba0deeabcec1,Detroit (0-2),27,2018,2
+1167,5f993e5f2aa4ba0deeabcec2,San Francisco (1-1),30,2018,2
+1168,5f993e5f2aa4ba0deeabcec3,Oakland (0-2),19,2018,2
+1169,5f993e5f2aa4ba0deeabcec4,Denver (2-0),20,2018,2
+1170,5f993e5f2aa4ba0deeabcec5,New England (1-1),20,2018,2
+1171,5f993e5f2aa4ba0deeabcec6,Jacksonville (2-0),31,2018,2
+1172,5f993e5f2aa4ba0deeabcec7,NY Giants (0-2),13,2018,2
+1173,5f993e5f2aa4ba0deeabcec8,Dallas (1-1),20,2018,2
+1174,5f993e5f2aa4ba0deeabcec9,Seattle (0-2),17,2018,2
+1175,5f993e5f2aa4ba0deeabceca,Chicago (1-1),24,2018,2
+1176,5f993e602aa4ba0deeabcecc,NY Jets (1-2),17,2018,3
+1177,5f993e602aa4ba0deeabcecd,Cleveland (1-1-1),21,2018,3
+1178,5f993e602aa4ba0deeabcece,New Orleans (2-1),43,2018,3
+1179,5f993e602aa4ba0deeabcecf,Atlanta (1-2),37,2018,3
+1180,5f993e602aa4ba0deeabced0,Denver (2-1),14,2018,3
+1181,5f993e602aa4ba0deeabced1,Baltimore (2-1),27,2018,3
+1182,5f993e602aa4ba0deeabced2,Buffalo (1-2),27,2018,3
+1183,5f993e602aa4ba0deeabced3,Minnesota (1-1-1),6,2018,3
+1184,5f993e602aa4ba0deeabced4,Cincinnati (2-1),21,2018,3
+1185,5f993e602aa4ba0deeabced5,Carolina (2-1),31,2018,3
+1186,5f993e602aa4ba0deeabced6,Green Bay (1-1-1),17,2018,3
+1187,5f993e602aa4ba0deeabced7,Washington (2-1),31,2018,3
+1188,5f993e602aa4ba0deeabced8,NY Giants (1-2),27,2018,3
+1189,5f993e602aa4ba0deeabced9,Houston (0-3),22,2018,3
+1190,5f993e602aa4ba0deeabceda,Indianapolis (1-2),16,2018,3
+1191,5f993e602aa4ba0deeabcedb,Philadelphia (2-1),20,2018,3
+1192,5f993e602aa4ba0deeabcedc,Tennessee (2-1),9,2018,3
+1193,5f993e602aa4ba0deeabcedd,Jacksonville (2-1),6,2018,3
+1194,5f993e602aa4ba0deeabcede,San Francisco (1-2),27,2018,3
+1195,5f993e602aa4ba0deeabcedf,Kansas City (3-0),38,2018,3
+1196,5f993e602aa4ba0deeabcee0,Oakland (0-3),20,2018,3
+1197,5f993e602aa4ba0deeabcee1,Miami (3-0),28,2018,3
+1198,5f993e602aa4ba0deeabcee2,LA Chargers (1-2),23,2018,3
+1199,5f993e602aa4ba0deeabcee3,LA Rams (3-0),35,2018,3
+1200,5f993e602aa4ba0deeabcee4,Chicago (2-1),16,2018,3
+1201,5f993e602aa4ba0deeabcee5,Arizona (0-3),14,2018,3
+1202,5f993e602aa4ba0deeabcee6,Dallas (1-2),13,2018,3
+1203,5f993e602aa4ba0deeabcee7,Seattle (1-2),24,2018,3
+1204,5f993e602aa4ba0deeabcee8,New England (1-2),10,2018,3
+1205,5f993e602aa4ba0deeabcee9,Detroit (1-2),26,2018,3
+1206,5f993e602aa4ba0deeabceea,Pittsburgh (1-1-1),30,2018,3
+1207,5f993e602aa4ba0deeabceeb,Tampa Bay (2-1),27,2018,3
+1208,5f993e612aa4ba0deeabceed,Minnesota (1-2-1),31,2018,4
+1209,5f993e612aa4ba0deeabceee,LA Rams (4-0),38,2018,4
+1210,5f993e612aa4ba0deeabceef,Cincinnati (3-1),37,2018,4
+1211,5f993e612aa4ba0deeabcef0,Atlanta (1-3),36,2018,4
+1212,5f993e612aa4ba0deeabcef1,Buffalo (1-3),0,2018,4
+1213,5f993e612aa4ba0deeabcef2,Green Bay (2-1-1),22,2018,4
+1214,5f993e612aa4ba0deeabcef3,Tampa Bay (2-2),10,2018,4
+1215,5f993e612aa4ba0deeabcef4,Chicago (3-1),48,2018,4
+1216,5f993e612aa4ba0deeabcef5,Detroit (1-3),24,2018,4
+1217,5f993e612aa4ba0deeabcef6,Dallas (2-2),26,2018,4
+1218,5f993e612aa4ba0deeabcef7,Houston (1-3),37,2018,4
+1219,5f993e612aa4ba0deeabcef8,Indianapolis (1-3),34,2018,4
+1220,5f993e612aa4ba0deeabcef9,NY Jets (1-3),12,2018,4
+1221,5f993e612aa4ba0deeabcefa,Jacksonville (3-1),31,2018,4
+1222,5f993e612aa4ba0deeabcefb,Miami (3-1),7,2018,4
+1223,5f993e612aa4ba0deeabcefc,New England (2-2),38,2018,4
+1224,5f993e612aa4ba0deeabcefd,Philadelphia (2-2),23,2018,4
+1225,5f993e612aa4ba0deeabcefe,Tennessee (3-1),26,2018,4
+1226,5f993e612aa4ba0deeabceff,Seattle (2-2),20,2018,4
+1227,5f993e612aa4ba0deeabcf00,Arizona (0-4),17,2018,4
+1228,5f993e612aa4ba0deeabcf01,Cleveland (1-2-1),42,2018,4
+1229,5f993e612aa4ba0deeabcf02,Oakland (1-3),45,2018,4
+1230,5f993e612aa4ba0deeabcf03,San Francisco (1-3),27,2018,4
+1231,5f993e612aa4ba0deeabcf04,LA Chargers (2-2),29,2018,4
+1232,5f993e612aa4ba0deeabcf05,New Orleans (3-1),33,2018,4
+1233,5f993e612aa4ba0deeabcf06,NY Giants (1-3),18,2018,4
+1234,5f993e612aa4ba0deeabcf07,Baltimore (3-1),26,2018,4
+1235,5f993e612aa4ba0deeabcf08,Pittsburgh (1-2-1),14,2018,4
+1236,5f993e612aa4ba0deeabcf09,Kansas City (4-0),27,2018,4
+1237,5f993e612aa4ba0deeabcf0a,Denver (2-2),23,2018,4
+1238,5f993e612aa4ba0deeabcf0c,Indianapolis (1-4),24,2018,5
+1239,5f993e612aa4ba0deeabcf0d,New England (3-2),38,2018,5
+1240,5f993e612aa4ba0deeabcf0e,Atlanta (1-4),17,2018,5
+1241,5f993e612aa4ba0deeabcf0f,Pittsburgh (2-2-1),41,2018,5
+1242,5f993e612aa4ba0deeabcf10,Baltimore (3-2),9,2018,5
+1243,5f993e612aa4ba0deeabcf11,Cleveland (2-2-1),12,2018,5
+1244,5f993e612aa4ba0deeabcf12,Tennessee (3-2),12,2018,5
+1245,5f993e612aa4ba0deeabcf13,Buffalo (2-3),13,2018,5
+1246,5f993e612aa4ba0deeabcf14,NY Giants (1-4),31,2018,5
+1247,5f993e612aa4ba0deeabcf15,Carolina (3-1),33,2018,5
+1248,5f993e612aa4ba0deeabcf16,Miami (3-2),17,2018,5
+1249,5f993e612aa4ba0deeabcf17,Cincinnati (4-1),27,2018,5
+1250,5f993e612aa4ba0deeabcf18,Denver (2-3),16,2018,5
+1251,5f993e612aa4ba0deeabcf19,NY Jets (2-3),34,2018,5
+1252,5f993e612aa4ba0deeabcf1a,Green Bay (2-2-1),23,2018,5
+1253,5f993e612aa4ba0deeabcf1b,Detroit (2-3),31,2018,5
+1254,5f993e612aa4ba0deeabcf1c,Jacksonville (3-2),14,2018,5
+1255,5f993e612aa4ba0deeabcf1d,Kansas City (5-0),30,2018,5
+1256,5f993e612aa4ba0deeabcf1e,Oakland (1-4),10,2018,5
+1257,5f993e612aa4ba0deeabcf1f,LA Chargers (3-2),26,2018,5
+1258,5f993e612aa4ba0deeabcf20,Arizona (1-4),28,2018,5
+1259,5f993e612aa4ba0deeabcf21,San Francisco (1-4),18,2018,5
+1260,5f993e612aa4ba0deeabcf22,LA Rams (5-0),33,2018,5
+1261,5f993e612aa4ba0deeabcf23,Seattle (2-3),31,2018,5
+1262,5f993e612aa4ba0deeabcf24,Minnesota (2-2-1),23,2018,5
+1263,5f993e612aa4ba0deeabcf25,Philadelphia (2-3),21,2018,5
+1264,5f993e612aa4ba0deeabcf26,Dallas (2-3),16,2018,5
+1265,5f993e612aa4ba0deeabcf27,Houston (2-3),19,2018,5
+1266,5f993e612aa4ba0deeabcf28,Washington (2-2),19,2018,5
+1267,5f993e612aa4ba0deeabcf29,New Orleans (4-1),43,2018,5
+1268,5f993e622aa4ba0deeabcf2b,Philadelphia (3-3),34,2018,6
+1269,5f993e622aa4ba0deeabcf2c,NY Giants (1-5),13,2018,6
+1270,5f993e622aa4ba0deeabcf2d,Arizona (1-5),17,2018,6
+1271,5f993e622aa4ba0deeabcf2e,Minnesota (3-2-1),27,2018,6
+1272,5f993e622aa4ba0deeabcf2f,Tampa Bay (2-3),29,2018,6
+1273,5f993e622aa4ba0deeabcf30,Atlanta (2-4),34,2018,6
+1274,5f993e622aa4ba0deeabcf31,Buffalo (2-4),13,2018,6
+1275,5f993e622aa4ba0deeabcf32,Houston (3-3),20,2018,6
+1276,5f993e622aa4ba0deeabcf33,Carolina (3-2),17,2018,6
+1277,5f993e622aa4ba0deeabcf34,Washington (3-2),23,2018,6
+1278,5f993e622aa4ba0deeabcf35,Chicago (3-2),28,2018,6
+1279,5f993e622aa4ba0deeabcf36,Miami (4-2),31,2018,6
+1280,5f993e622aa4ba0deeabcf37,Pittsburgh (3-2-1),28,2018,6
+1281,5f993e622aa4ba0deeabcf38,Cincinnati (4-2),21,2018,6
+1282,5f993e622aa4ba0deeabcf39,LA Chargers (4-2),38,2018,6
+1283,5f993e622aa4ba0deeabcf3a,Cleveland (2-3-1),14,2018,6
+1284,5f993e622aa4ba0deeabcf3b,Indianapolis (1-5),34,2018,6
+1285,5f993e622aa4ba0deeabcf3c,NY Jets (3-3),42,2018,6
+1286,5f993e622aa4ba0deeabcf3d,Seattle (3-3),27,2018,6
+1287,5f993e622aa4ba0deeabcf3e,Oakland (1-5),3,2018,6
+1288,5f993e622aa4ba0deeabcf3f,LA Rams (6-0),23,2018,6
+1289,5f993e622aa4ba0deeabcf40,Denver (2-4),20,2018,6
+1290,5f993e622aa4ba0deeabcf41,Baltimore (4-2),21,2018,6
+1291,5f993e622aa4ba0deeabcf42,Tennessee (3-3),0,2018,6
+1292,5f993e622aa4ba0deeabcf43,Jacksonville (3-3),7,2018,6
+1293,5f993e622aa4ba0deeabcf44,Dallas (3-3),40,2018,6
+1294,5f993e622aa4ba0deeabcf45,Kansas City (5-1),40,2018,6
+1295,5f993e622aa4ba0deeabcf46,New England (4-2),43,2018,6
+1296,5f993e622aa4ba0deeabcf47,San Francisco (1-5),30,2018,6
+1297,5f993e622aa4ba0deeabcf48,Green Bay (3-2-1),33,2018,6
+1298,5f993e632aa4ba0deeabcf4a,Denver (3-4),45,2018,7
+1299,5f993e632aa4ba0deeabcf4b,Arizona (1-6),10,2018,7
+1300,5f993e632aa4ba0deeabcf4c,Tennessee (3-4),19,2018,7
+1301,5f993e632aa4ba0deeabcf4d,LA Chargers (5-2),20,2018,7
+1302,5f993e632aa4ba0deeabcf4e,Buffalo (2-5),5,2018,7
+1303,5f993e632aa4ba0deeabcf4f,Indianapolis (2-5),37,2018,7
+1304,5f993e632aa4ba0deeabcf50,Carolina (4-2),21,2018,7
+1305,5f993e632aa4ba0deeabcf51,Philadelphia (3-4),17,2018,7
+1306,5f993e632aa4ba0deeabcf52,New England (5-2),38,2018,7
+1307,5f993e632aa4ba0deeabcf53,Chicago (3-3),31,2018,7
+1308,5f993e632aa4ba0deeabcf54,Cleveland (2-4-1),23,2018,7
+1309,5f993e632aa4ba0deeabcf55,Tampa Bay (3-3),26,2018,7
+1310,5f993e632aa4ba0deeabcf56,Detroit (3-3),32,2018,7
+1311,5f993e632aa4ba0deeabcf57,Miami (4-3),21,2018,7
+1312,5f993e632aa4ba0deeabcf58,Houston (4-3),20,2018,7
+1313,5f993e632aa4ba0deeabcf59,Jacksonville (3-4),7,2018,7
+1314,5f993e632aa4ba0deeabcf5a,Minnesota (4-2-1),37,2018,7
+1315,5f993e632aa4ba0deeabcf5b,NY Jets (3-4),17,2018,7
+1316,5f993e632aa4ba0deeabcf5c,New Orleans (5-1),24,2018,7
+1317,5f993e632aa4ba0deeabcf5d,Baltimore (4-3),23,2018,7
+1318,5f993e632aa4ba0deeabcf5e,Dallas (3-4),17,2018,7
+1319,5f993e632aa4ba0deeabcf5f,Washington (4-2),20,2018,7
+1320,5f993e632aa4ba0deeabcf60,LA Rams (7-0),39,2018,7
+1321,5f993e632aa4ba0deeabcf61,San Francisco (1-6),10,2018,7
+1322,5f993e632aa4ba0deeabcf62,Cincinnati (4-3),10,2018,7
+1323,5f993e632aa4ba0deeabcf63,Kansas City (6-1),45,2018,7
+1324,5f993e632aa4ba0deeabcf64,NY Giants (1-6),20,2018,7
+1325,5f993e632aa4ba0deeabcf65,Atlanta (3-4),23,2018,7
+1326,5f993e642aa4ba0deeabcf67,Miami (4-4),23,2018,8
+1327,5f993e642aa4ba0deeabcf68,Houston (5-3),42,2018,8
+1328,5f993e642aa4ba0deeabcf69,Philadelphia (4-4),24,2018,8
+1329,5f993e642aa4ba0deeabcf6a,Jacksonville (3-5),18,2018,8
+1330,5f993e642aa4ba0deeabcf6b,Baltimore (4-4),21,2018,8
+1331,5f993e642aa4ba0deeabcf6c,Carolina (5-2),36,2018,8
+1332,5f993e642aa4ba0deeabcf6d,NY Jets (3-5),10,2018,8
+1333,5f993e642aa4ba0deeabcf6e,Chicago (4-3),24,2018,8
+1334,5f993e642aa4ba0deeabcf6f,Tampa Bay (3-4),34,2018,8
+1335,5f993e642aa4ba0deeabcf70,Cincinnati (5-3),37,2018,8
+1336,5f993e642aa4ba0deeabcf71,Cleveland (2-5-1),18,2018,8
+1337,5f993e642aa4ba0deeabcf72,Pittsburgh (4-2-1),33,2018,8
+1338,5f993e642aa4ba0deeabcf73,Denver (3-5),23,2018,8
+1339,5f993e642aa4ba0deeabcf74,Kansas City (7-1),30,2018,8
+1340,5f993e642aa4ba0deeabcf75,Seattle (4-3),28,2018,8
+1341,5f993e642aa4ba0deeabcf76,Detroit (3-4),14,2018,8
+1342,5f993e642aa4ba0deeabcf77,Washington (5-2),20,2018,8
+1343,5f993e642aa4ba0deeabcf78,NY Giants (1-7),13,2018,8
+1344,5f993e642aa4ba0deeabcf79,Indianapolis (3-5),42,2018,8
+1345,5f993e642aa4ba0deeabcf7a,Oakland (1-6),28,2018,8
+1346,5f993e642aa4ba0deeabcf7b,San Francisco (1-7),15,2018,8
+1347,5f993e642aa4ba0deeabcf7c,Arizona (2-6),18,2018,8
+1348,5f993e642aa4ba0deeabcf7d,Green Bay (3-3-1),27,2018,8
+1349,5f993e642aa4ba0deeabcf7e,LA Rams (8-0),29,2018,8
+1350,5f993e642aa4ba0deeabcf7f,New Orleans (6-1),30,2018,8
+1351,5f993e642aa4ba0deeabcf80,Minnesota (4-3-1),20,2018,8
+1352,5f993e642aa4ba0deeabcf81,New England (6-2),25,2018,8
+1353,5f993e642aa4ba0deeabcf82,Buffalo (2-6),6,2018,8
+1354,5f993e642aa4ba0deeabcf84,Oakland (1-7),3,2018,9
+1355,5f993e642aa4ba0deeabcf85,San Francisco (2-7),34,2018,9
+1356,5f993e642aa4ba0deeabcf86,Atlanta (4-4),38,2018,9
+1357,5f993e642aa4ba0deeabcf87,Washington (5-3),14,2018,9
+1358,5f993e642aa4ba0deeabcf88,Pittsburgh (5-2-1),23,2018,9
+1359,5f993e642aa4ba0deeabcf89,Baltimore (4-5),16,2018,9
+1360,5f993e642aa4ba0deeabcf8a,Chicago (5-3),41,2018,9
+1361,5f993e642aa4ba0deeabcf8b,Buffalo (2-7),9,2018,9
+1362,5f993e642aa4ba0deeabcf8c,Tampa Bay (3-5),28,2018,9
+1363,5f993e642aa4ba0deeabcf8d,Carolina (6-2),42,2018,9
+1364,5f993e642aa4ba0deeabcf8e,Kansas City (8-1),37,2018,9
+1365,5f993e642aa4ba0deeabcf8f,Cleveland (2-6-1),21,2018,9
+1366,5f993e642aa4ba0deeabcf90,Detroit (3-5),9,2018,9
+1367,5f993e642aa4ba0deeabcf91,Minnesota (5-3-1),24,2018,9
+1368,5f993e642aa4ba0deeabcf92,NY Jets (3-6),6,2018,9
+1369,5f993e642aa4ba0deeabcf93,Miami (5-4),13,2018,9
+1370,5f993e642aa4ba0deeabcf94,Houston (6-3),19,2018,9
+1371,5f993e642aa4ba0deeabcf95,Denver (3-6),17,2018,9
+1372,5f993e642aa4ba0deeabcf96,LA Chargers (6-2),25,2018,9
+1373,5f993e642aa4ba0deeabcf97,Seattle (4-4),17,2018,9
+1374,5f993e642aa4ba0deeabcf98,LA Rams (8-1),35,2018,9
+1375,5f993e642aa4ba0deeabcf99,New Orleans (7-1),45,2018,9
+1376,5f993e642aa4ba0deeabcf9a,Green Bay (3-4-1),17,2018,9
+1377,5f993e642aa4ba0deeabcf9b,New England (7-2),31,2018,9
+1378,5f993e642aa4ba0deeabcf9c,Tennessee (4-4),28,2018,9
+1379,5f993e642aa4ba0deeabcf9d,Dallas (3-5),14,2018,9
+1380,5f993e652aa4ba0deeabcf9f,Carolina (6-3),21,2018,10
+1381,5f993e652aa4ba0deeabcfa0,Pittsburgh (6-2-1),52,2018,10
+1382,5f993e652aa4ba0deeabcfa1,Arizona (2-7),14,2018,10
+1383,5f993e652aa4ba0deeabcfa2,Kansas City (9-1),26,2018,10
+1384,5f993e652aa4ba0deeabcfa3,Atlanta (4-5),16,2018,10
+1385,5f993e652aa4ba0deeabcfa4,Cleveland (3-6-1),28,2018,10
+1386,5f993e652aa4ba0deeabcfa5,Buffalo (3-7),41,2018,10
+1387,5f993e652aa4ba0deeabcfa6,NY Jets (3-7),10,2018,10
+1388,5f993e652aa4ba0deeabcfa7,Detroit (3-6),22,2018,10
+1389,5f993e652aa4ba0deeabcfa8,Chicago (6-3),34,2018,10
+1390,5f993e652aa4ba0deeabcfa9,New Orleans (8-1),51,2018,10
+1391,5f993e652aa4ba0deeabcfaa,Cincinnati (5-4),14,2018,10
+1392,5f993e652aa4ba0deeabcfab,Jacksonville (3-6),26,2018,10
+1393,5f993e652aa4ba0deeabcfac,Indianapolis (4-5),29,2018,10
+1394,5f993e652aa4ba0deeabcfad,New England (7-3),10,2018,10
+1395,5f993e652aa4ba0deeabcfae,Tennessee (5-4),34,2018,10
+1396,5f993e652aa4ba0deeabcfaf,Washington (6-3),16,2018,10
+1397,5f993e652aa4ba0deeabcfb0,Tampa Bay (3-6),3,2018,10
+1398,5f993e652aa4ba0deeabcfb1,LA Chargers (7-2),20,2018,10
+1399,5f993e652aa4ba0deeabcfb2,Oakland (1-8),6,2018,10
+1400,5f993e652aa4ba0deeabcfb3,Miami (5-5),12,2018,10
+1401,5f993e652aa4ba0deeabcfb4,Green Bay (4-4-1),31,2018,10
+1402,5f993e652aa4ba0deeabcfb5,Seattle (4-5),31,2018,10
+1403,5f993e652aa4ba0deeabcfb6,LA Rams (9-1),36,2018,10
+1404,5f993e652aa4ba0deeabcfb7,Dallas (4-5),27,2018,10
+1405,5f993e652aa4ba0deeabcfb8,Philadelphia (4-5),20,2018,10
+1406,5f993e652aa4ba0deeabcfb9,NY Giants (2-7),27,2018,10
+1407,5f993e652aa4ba0deeabcfba,San Francisco (2-8),23,2018,10
+1408,5f993e662aa4ba0deeabcfbc,Green Bay (4-5-1),24,2018,11
+1409,5f993e662aa4ba0deeabcfbd,Seattle (5-5),27,2018,11
+1410,5f993e662aa4ba0deeabcfbe,Dallas (5-5),22,2018,11
+1411,5f993e662aa4ba0deeabcfbf,Atlanta (4-6),19,2018,11
+1412,5f993e662aa4ba0deeabcfc0,Cincinnati (5-5),21,2018,11
+1413,5f993e662aa4ba0deeabcfc1,Baltimore (5-5),24,2018,11
+1414,5f993e662aa4ba0deeabcfc2,Carolina (6-4),19,2018,11
+1415,5f993e662aa4ba0deeabcfc3,Detroit (4-6),20,2018,11
+1416,5f993e662aa4ba0deeabcfc4,Houston (7-3),23,2018,11
+1417,5f993e662aa4ba0deeabcfc5,Washington (6-4),21,2018,11
+1418,5f993e662aa4ba0deeabcfc6,Tennessee (5-5),10,2018,11
+1419,5f993e662aa4ba0deeabcfc7,Indianapolis (5-5),38,2018,11
+1420,5f993e662aa4ba0deeabcfc8,Pittsburgh (7-2-1),20,2018,11
+1421,5f993e662aa4ba0deeabcfc9,Jacksonville (3-7),16,2018,11
+1422,5f993e662aa4ba0deeabcfca,Tampa Bay (3-7),35,2018,11
+1423,5f993e662aa4ba0deeabcfcb,NY Giants (3-7),38,2018,11
+1424,5f993e662aa4ba0deeabcfcc,Oakland (2-8),23,2018,11
+1425,5f993e662aa4ba0deeabcfcd,Arizona (2-8),21,2018,11
+1426,5f993e662aa4ba0deeabcfce,Denver (4-6),23,2018,11
+1427,5f993e662aa4ba0deeabcfcf,LA Chargers (7-3),22,2018,11
+1428,5f993e662aa4ba0deeabcfd0,Philadelphia (4-6),7,2018,11
+1429,5f993e662aa4ba0deeabcfd1,New Orleans (9-1),48,2018,11
+1430,5f993e662aa4ba0deeabcfd2,Minnesota (5-4-1),20,2018,11
+1431,5f993e662aa4ba0deeabcfd3,Chicago (7-3),25,2018,11
+1432,5f993e662aa4ba0deeabcfd4,Kansas City (9-2),51,2018,11
+1433,5f993e662aa4ba0deeabcfd5,LA Rams (10-1),54,2018,11
+1434,5f993e672aa4ba0deeabcfd7,Chicago (8-3),23,2018,12
+1435,5f993e672aa4ba0deeabcfd8,Detroit (4-7),16,2018,12
+1436,5f993e672aa4ba0deeabcfd9,Washington (6-5),23,2018,12
+1437,5f993e672aa4ba0deeabcfda,Dallas (6-5),31,2018,12
+1438,5f993e672aa4ba0deeabcfdb,Atlanta (4-7),17,2018,12
+1439,5f993e672aa4ba0deeabcfdc,New Orleans (10-1),31,2018,12
+1440,5f993e672aa4ba0deeabcfdd,Oakland (2-9),17,2018,12
+1441,5f993e672aa4ba0deeabcfde,Baltimore (6-5),34,2018,12
+1442,5f993e672aa4ba0deeabcfdf,Jacksonville (3-8),21,2018,12
+1443,5f993e672aa4ba0deeabcfe0,Buffalo (4-7),24,2018,12
+1444,5f993e672aa4ba0deeabcfe1,Seattle (6-5),30,2018,12
+1445,5f993e672aa4ba0deeabcfe2,Carolina (6-5),27,2018,12
+1446,5f993e672aa4ba0deeabcfe3,Cleveland (4-6-1),35,2018,12
+1447,5f993e672aa4ba0deeabcfe4,Cincinnati (5-6),20,2018,12
+1448,5f993e672aa4ba0deeabcfe5,New England (8-3),27,2018,12
+1449,5f993e672aa4ba0deeabcfe6,NY Jets (3-8),13,2018,12
+1450,5f993e672aa4ba0deeabcfe7,NY Giants (3-8),22,2018,12
+1451,5f993e672aa4ba0deeabcfe8,Philadelphia (5-6),25,2018,12
+1452,5f993e672aa4ba0deeabcfe9,San Francisco (2-9),9,2018,12
+1453,5f993e672aa4ba0deeabcfea,Tampa Bay (4-7),27,2018,12
+1454,5f993e672aa4ba0deeabcfeb,Arizona (2-9),10,2018,12
+1455,5f993e672aa4ba0deeabcfec,LA Chargers (8-3),45,2018,12
+1456,5f993e672aa4ba0deeabcfed,Pittsburgh (7-3-1),17,2018,12
+1457,5f993e672aa4ba0deeabcfee,Denver (5-6),24,2018,12
+1458,5f993e672aa4ba0deeabcfef,Miami (5-6),24,2018,12
+1459,5f993e672aa4ba0deeabcff0,Indianapolis (6-5),27,2018,12
+1460,5f993e672aa4ba0deeabcff1,Green Bay (4-6-1),17,2018,12
+1461,5f993e672aa4ba0deeabcff2,Minnesota (6-4-1),24,2018,12
+1462,5f993e672aa4ba0deeabcff3,Tennessee (5-6),17,2018,12
+1463,5f993e672aa4ba0deeabcff4,Houston (8-3),34,2018,12
+1464,5f993e672aa4ba0deeabcff6,New Orleans (10-2),10,2018,13
+1465,5f993e672aa4ba0deeabcff7,Dallas (7-5),13,2018,13
+1466,5f993e672aa4ba0deeabcff8,Arizona (3-9),20,2018,13
+1467,5f993e672aa4ba0deeabcff9,Green Bay (4-7-1),17,2018,13
+1468,5f993e672aa4ba0deeabcffa,Baltimore (7-5),26,2018,13
+1469,5f993e672aa4ba0deeabcffb,Atlanta (4-8),16,2018,13
+1470,5f993e672aa4ba0deeabcffc,Buffalo (4-8),17,2018,13
+1471,5f993e672aa4ba0deeabcffd,Miami (6-6),21,2018,13
+1472,5f993e672aa4ba0deeabcffe,Carolina (6-6),17,2018,13
+1473,5f993e672aa4ba0deeabcfff,Tampa Bay (5-7),24,2018,13
+1474,5f993e672aa4ba0deeabd000,Chicago (8-4),27,2018,13
+1475,5f993e672aa4ba0deeabd001,NY Giants (4-8),30,2018,13
+1476,5f993e672aa4ba0deeabd002,Denver (6-6),24,2018,13
+1477,5f993e672aa4ba0deeabd003,Cincinnati (5-7),10,2018,13
+1478,5f993e672aa4ba0deeabd004,Cleveland (4-7-1),13,2018,13
+1479,5f993e672aa4ba0deeabd005,Houston (9-3),29,2018,13
+1480,5f993e672aa4ba0deeabd006,LA Rams (11-1),30,2018,13
+1481,5f993e672aa4ba0deeabd007,Detroit (4-8),16,2018,13
+1482,5f993e672aa4ba0deeabd008,Indianapolis (6-6),0,2018,13
+1483,5f993e672aa4ba0deeabd009,Jacksonville (4-8),6,2018,13
+1484,5f993e672aa4ba0deeabd00a,Kansas City (10-2),40,2018,13
+1485,5f993e672aa4ba0deeabd00b,Oakland (2-10),33,2018,13
+1486,5f993e672aa4ba0deeabd00c,NY Jets (3-9),22,2018,13
+1487,5f993e672aa4ba0deeabd00d,Tennessee (6-6),26,2018,13
+1488,5f993e672aa4ba0deeabd00e,Minnesota (6-5-1),10,2018,13
+1489,5f993e672aa4ba0deeabd00f,New England (9-3),24,2018,13
+1490,5f993e672aa4ba0deeabd010,San Francisco (2-10),16,2018,13
+1491,5f993e672aa4ba0deeabd011,Seattle (7-5),43,2018,13
+1492,5f993e672aa4ba0deeabd012,LA Chargers (9-3),33,2018,13
+1493,5f993e672aa4ba0deeabd013,Pittsburgh (7-4-1),30,2018,13
+1494,5f993e672aa4ba0deeabd014,Washington (6-6),13,2018,13
+1495,5f993e672aa4ba0deeabd015,Philadelphia (6-6),28,2018,13
+1496,5f993e682aa4ba0deeabd017,Jacksonville (4-9),9,2018,14
+1497,5f993e682aa4ba0deeabd018,Tennessee (7-6),30,2018,14
+1498,5f993e682aa4ba0deeabd019,Atlanta (4-9),20,2018,14
+1499,5f993e682aa4ba0deeabd01a,Green Bay (5-7-1),34,2018,14
+1500,5f993e682aa4ba0deeabd01b,Baltimore (7-6),24,2018,14
+1501,5f993e682aa4ba0deeabd01c,Kansas City (11-2),27,2018,14
+1502,5f993e682aa4ba0deeabd01d,NY Jets (4-9),27,2018,14
+1503,5f993e682aa4ba0deeabd01e,Buffalo (4-9),23,2018,14
+1504,5f993e682aa4ba0deeabd01f,Carolina (6-7),20,2018,14
+1505,5f993e682aa4ba0deeabd020,Cleveland (5-7-1),26,2018,14
+1506,5f993e682aa4ba0deeabd021,Indianapolis (7-6),24,2018,14
+1507,5f993e682aa4ba0deeabd022,Houston (9-4),21,2018,14
+1508,5f993e682aa4ba0deeabd023,New England (9-4),33,2018,14
+1509,5f993e682aa4ba0deeabd024,Miami (7-6),34,2018,14
+1510,5f993e682aa4ba0deeabd025,New Orleans (11-2),28,2018,14
+1511,5f993e682aa4ba0deeabd026,Tampa Bay (5-8),14,2018,14
+1512,5f993e682aa4ba0deeabd027,NY Giants (5-8),40,2018,14
+1513,5f993e682aa4ba0deeabd028,Washington (6-7),16,2018,14
+1514,5f993e682aa4ba0deeabd029,Cincinnati (5-8),21,2018,14
+1515,5f993e682aa4ba0deeabd02a,LA Chargers (10-3),26,2018,14
+1516,5f993e682aa4ba0deeabd02b,Denver (6-7),14,2018,14
+1517,5f993e682aa4ba0deeabd02c,San Francisco (3-10),20,2018,14
+1518,5f993e682aa4ba0deeabd02d,Detroit (5-8),17,2018,14
+1519,5f993e682aa4ba0deeabd02e,Arizona (3-10),3,2018,14
+1520,5f993e682aa4ba0deeabd02f,Philadelphia (6-7),23,2018,14
+1521,5f993e682aa4ba0deeabd030,Dallas (8-5),29,2018,14
+1522,5f993e682aa4ba0deeabd031,Pittsburgh (7-5-1),21,2018,14
+1523,5f993e682aa4ba0deeabd032,Oakland (3-10),24,2018,14
+1524,5f993e682aa4ba0deeabd033,LA Rams (11-2),6,2018,14
+1525,5f993e682aa4ba0deeabd034,Chicago (9-4),15,2018,14
+1526,5f993e682aa4ba0deeabd035,Minnesota (6-6-1),7,2018,14
+1527,5f993e682aa4ba0deeabd036,Seattle (8-5),21,2018,14
+1528,5f993e692aa4ba0deeabd038,LA Chargers (11-3),29,2018,15
+1529,5f993e692aa4ba0deeabd039,Kansas City (11-3),28,2018,15
+1530,5f993e692aa4ba0deeabd03a,Houston (10-4),29,2018,15
+1531,5f993e692aa4ba0deeabd03b,NY Jets (4-10),22,2018,15
+1532,5f993e692aa4ba0deeabd03c,Cleveland (6-7-1),17,2018,15
+1533,5f993e692aa4ba0deeabd03d,Denver (6-8),16,2018,15
+1534,5f993e692aa4ba0deeabd03e,Arizona (3-11),14,2018,15
+1535,5f993e692aa4ba0deeabd03f,Atlanta (5-9),40,2018,15
+1536,5f993e692aa4ba0deeabd040,Tampa Bay (5-9),12,2018,15
+1537,5f993e692aa4ba0deeabd041,Baltimore (8-6),20,2018,15
+1538,5f993e692aa4ba0deeabd042,Detroit (5-9),13,2018,15
+1539,5f993e692aa4ba0deeabd043,Buffalo (5-9),14,2018,15
+1540,5f993e692aa4ba0deeabd044,Green Bay (5-8-1),17,2018,15
+1541,5f993e692aa4ba0deeabd045,Chicago (10-4),24,2018,15
+1542,5f993e692aa4ba0deeabd046,Oakland (3-11),16,2018,15
+1543,5f993e692aa4ba0deeabd047,Cincinnati (6-8),30,2018,15
+1544,5f993e692aa4ba0deeabd048,Dallas (8-6),0,2018,15
+1545,5f993e692aa4ba0deeabd049,Indianapolis (8-6),23,2018,15
+1546,5f993e692aa4ba0deeabd04a,Washington (7-7),16,2018,15
+1547,5f993e692aa4ba0deeabd04b,Jacksonville (4-10),13,2018,15
+1548,5f993e692aa4ba0deeabd04c,Miami (7-7),17,2018,15
+1549,5f993e692aa4ba0deeabd04d,Minnesota (7-6-1),41,2018,15
+1550,5f993e692aa4ba0deeabd04e,Tennessee (8-6),17,2018,15
+1551,5f993e692aa4ba0deeabd04f,NY Giants (5-9),0,2018,15
+1552,5f993e692aa4ba0deeabd050,Seattle (8-6),23,2018,15
+1553,5f993e692aa4ba0deeabd051,San Francisco (4-10),26,2018,15
+1554,5f993e692aa4ba0deeabd052,New England (9-5),10,2018,15
+1555,5f993e692aa4ba0deeabd053,Pittsburgh (8-5-1),17,2018,15
+1556,5f993e692aa4ba0deeabd054,Philadelphia (7-7),30,2018,15
+1557,5f993e692aa4ba0deeabd055,LA Rams (11-3),23,2018,15
+1558,5f993e692aa4ba0deeabd056,New Orleans (12-2),12,2018,15
+1559,5f993e692aa4ba0deeabd057,Carolina (6-8),9,2018,15
+1560,5f993e692aa4ba0deeabd059,Washington (7-8),16,2018,16
+1561,5f993e692aa4ba0deeabd05a,Tennessee (9-6),25,2018,16
+1562,5f993e692aa4ba0deeabd05b,Baltimore (9-6),22,2018,16
+1563,5f993e692aa4ba0deeabd05c,LA Chargers (11-4),10,2018,16
+1564,5f993e692aa4ba0deeabd05d,Atlanta (6-9),24,2018,16
+1565,5f993e692aa4ba0deeabd05e,Carolina (6-9),10,2018,16
+1566,5f993e692aa4ba0deeabd05f,Buffalo (5-10),12,2018,16
+1567,5f993e692aa4ba0deeabd060,New England (10-5),24,2018,16
+1568,5f993e692aa4ba0deeabd061,Cincinnati (6-9),18,2018,16
+1569,5f993e692aa4ba0deeabd062,Cleveland (7-7-1),26,2018,16
+1570,5f993e692aa4ba0deeabd063,Tampa Bay (5-10),20,2018,16
+1571,5f993e692aa4ba0deeabd064,Dallas (9-6),27,2018,16
+1572,5f993e692aa4ba0deeabd065,Minnesota (8-6-1),27,2018,16
+1573,5f993e692aa4ba0deeabd066,Detroit (5-10),9,2018,16
+1574,5f993e692aa4ba0deeabd067,Green Bay (6-8-1),44,2018,16
+1575,5f993e692aa4ba0deeabd068,NY Jets (4-11),38,2018,16
+1576,5f993e692aa4ba0deeabd069,Houston (10-5),30,2018,16
+1577,5f993e692aa4ba0deeabd06a,Philadelphia (8-7),32,2018,16
+1578,5f993e692aa4ba0deeabd06b,NY Giants (5-10),27,2018,16
+1579,5f993e692aa4ba0deeabd06c,Indianapolis (9-6),28,2018,16
+1580,5f993e692aa4ba0deeabd06d,Jacksonville (5-10),17,2018,16
+1581,5f993e692aa4ba0deeabd06e,Miami (7-8),7,2018,16
+1582,5f993e692aa4ba0deeabd06f,LA Rams (12-3),31,2018,16
+1583,5f993e692aa4ba0deeabd070,Arizona (3-12),9,2018,16
+1584,5f993e692aa4ba0deeabd071,Chicago (11-4),14,2018,16
+1585,5f993e692aa4ba0deeabd072,San Francisco (4-11),9,2018,16
+1586,5f993e6a2aa4ba0deeabd073,Pittsburgh (8-6-1),28,2018,16
+1587,5f993e6a2aa4ba0deeabd074,New Orleans (13-2),31,2018,16
+1588,5f993e6a2aa4ba0deeabd075,Kansas City (11-4),31,2018,16
+1589,5f993e6a2aa4ba0deeabd076,Seattle (9-6),38,2018,16
+1590,5f993e6a2aa4ba0deeabd077,Denver (6-9),14,2018,16
+1591,5f993e6a2aa4ba0deeabd078,Oakland (4-11),27,2018,16
+1592,5f993e6a2aa4ba0deeabd07a,Atlanta (7-9),34,2018,17
+1593,5f993e6a2aa4ba0deeabd07b,Tampa Bay (5-11),32,2018,17
+1594,5f993e6a2aa4ba0deeabd07c,Miami (7-9),17,2018,17
+1595,5f993e6a2aa4ba0deeabd07d,Buffalo (6-10),42,2018,17
+1596,5f993e6a2aa4ba0deeabd07e,Carolina (7-9),33,2018,17
+1597,5f993e6a2aa4ba0deeabd07f,New Orleans (13-3),14,2018,17
+1598,5f993e6a2aa4ba0deeabd080,Dallas (10-6),36,2018,17
+1599,5f993e6a2aa4ba0deeabd081,NY Giants (5-11),35,2018,17
+1600,5f993e6a2aa4ba0deeabd082,Detroit (6-10),31,2018,17
+1601,5f993e6a2aa4ba0deeabd083,Green Bay (6-9-1),0,2018,17
+1602,5f993e6a2aa4ba0deeabd084,Jacksonville (5-11),3,2018,17
+1603,5f993e6a2aa4ba0deeabd085,Houston (11-5),20,2018,17
+1604,5f993e6a2aa4ba0deeabd086,NY Jets (4-12),3,2018,17
+1605,5f993e6a2aa4ba0deeabd087,New England (11-5),38,2018,17
+1606,5f993e6a2aa4ba0deeabd088,Arizona (3-13),24,2018,17
+1607,5f993e6a2aa4ba0deeabd089,Seattle (10-6),27,2018,17
+1608,5f993e6a2aa4ba0deeabd08a,Cleveland (7-8-1),24,2018,17
+1609,5f993e6a2aa4ba0deeabd08b,Baltimore (10-6),26,2018,17
+1610,5f993e6a2aa4ba0deeabd08c,Chicago (12-4),24,2018,17
+1611,5f993e6a2aa4ba0deeabd08d,Minnesota (8-7-1),10,2018,17
+1612,5f993e6a2aa4ba0deeabd08e,Cincinnati (6-10),13,2018,17
+1613,5f993e6a2aa4ba0deeabd08f,Pittsburgh (9-6-1),16,2018,17
+1614,5f993e6a2aa4ba0deeabd090,LA Chargers (12-4),23,2018,17
+1615,5f993e6a2aa4ba0deeabd091,Denver (6-10),9,2018,17
+1616,5f993e6a2aa4ba0deeabd092,Oakland (4-12),3,2018,17
+1617,5f993e6a2aa4ba0deeabd093,Kansas City (12-4),35,2018,17
+1618,5f993e6a2aa4ba0deeabd094,San Francisco (4-12),32,2018,17
+1619,5f993e6a2aa4ba0deeabd095,LA Rams (13-3),48,2018,17
+1620,5f993e6a2aa4ba0deeabd096,Philadelphia (9-7),24,2018,17
+1621,5f993e6a2aa4ba0deeabd097,Washington (7-9),0,2018,17
+1622,5f993e6a2aa4ba0deeabd098,Indianapolis (10-6),33,2018,17
+1623,5f993e6a2aa4ba0deeabd099,Tennessee (9-7),17,2018,17
+1624,5f993e6b2aa4ba0deeabd09b,Green Bay (1-0),10,2019,1
+1625,5f993e6b2aa4ba0deeabd09c,Chicago (0-1),3,2019,1
+1626,5f993e6b2aa4ba0deeabd09d,LA Rams (1-0),30,2019,1
+1627,5f993e6b2aa4ba0deeabd09e,Carolina (0-1),27,2019,1
+1628,5f993e6b2aa4ba0deeabd09f,Tennessee (1-0),43,2019,1
+1629,5f993e6b2aa4ba0deeabd0a0,Cleveland (0-1),13,2019,1
+1630,5f993e6b2aa4ba0deeabd0a1,Kansas City (1-0),40,2019,1
+1631,5f993e6b2aa4ba0deeabd0a2,Jacksonville (0-1),26,2019,1
+1632,5f993e6b2aa4ba0deeabd0a3,Baltimore (1-0),59,2019,1
+1633,5f993e6b2aa4ba0deeabd0a4,Miami (0-1),10,2019,1
+1634,5f993e6b2aa4ba0deeabd0a5,Atlanta (0-1),12,2019,1
+1635,5f993e6b2aa4ba0deeabd0a6,Minnesota (1-0),28,2019,1
+1636,5f993e6b2aa4ba0deeabd0a7,Buffalo (1-0),17,2019,1
+1637,5f993e6b2aa4ba0deeabd0a8,NY Jets (0-1),16,2019,1
+1638,5f993e6b2aa4ba0deeabd0a9,Washington (0-1),27,2019,1
+1639,5f993e6b2aa4ba0deeabd0aa,Philadelphia (1-0),32,2019,1
+1640,5f993e6b2aa4ba0deeabd0ab,Indianapolis (0-1),24,2019,1
+1641,5f993e6b2aa4ba0deeabd0ac,LA Chargers (1-0),30,2019,1
+1642,5f993e6b2aa4ba0deeabd0ad,Cincinnati (0-1),20,2019,1
+1643,5f993e6b2aa4ba0deeabd0ae,Seattle (1-0),21,2019,1
+1644,5f993e6b2aa4ba0deeabd0af,Detroit (0-0-1),27,2019,1
+1645,5f993e6b2aa4ba0deeabd0b0,Arizona (0-0-1),27,2019,1
+1646,5f993e6b2aa4ba0deeabd0b1,NY Giants (0-1),17,2019,1
+1647,5f993e6b2aa4ba0deeabd0b2,Dallas (1-0),35,2019,1
+1648,5f993e6b2aa4ba0deeabd0b3,San Francisco (1-0),31,2019,1
+1649,5f993e6b2aa4ba0deeabd0b4,Tampa Bay (0-1),17,2019,1
+1650,5f993e6b2aa4ba0deeabd0b5,Pittsburgh (0-1),3,2019,1
+1651,5f993e6b2aa4ba0deeabd0b6,New England (1-0),33,2019,1
+1652,5f993e6b2aa4ba0deeabd0b7,Houston (0-1),28,2019,1
+1653,5f993e6b2aa4ba0deeabd0b8,New Orleans (1-0),30,2019,1
+1654,5f993e6b2aa4ba0deeabd0b9,Denver (0-1),16,2019,1
+1655,5f993e6b2aa4ba0deeabd0ba,Oakland (1-0),24,2019,1
+1656,5f993e6c2aa4ba0deeabd0bc,Tampa Bay (1-1),20,2019,2
+1657,5f993e6c2aa4ba0deeabd0bd,Carolina (0-2),14,2019,2
+1658,5f993e6c2aa4ba0deeabd0be,Arizona (0-1-1),17,2019,2
+1659,5f993e6c2aa4ba0deeabd0bf,Baltimore (2-0),23,2019,2
+1660,5f993e6c2aa4ba0deeabd0c0,San Francisco (2-0),41,2019,2
+1661,5f993e6c2aa4ba0deeabd0c1,Cincinnati (0-2),17,2019,2
+1662,5f993e6c2aa4ba0deeabd0c2,LA Chargers (1-1),10,2019,2
+1663,5f993e6c2aa4ba0deeabd0c3,Detroit (1-0-1),13,2019,2
+1664,5f993e6c2aa4ba0deeabd0c4,Minnesota (1-1),16,2019,2
+1665,5f993e6c2aa4ba0deeabd0c5,Green Bay (2-0),21,2019,2
+1666,5f993e6c2aa4ba0deeabd0c6,Jacksonville (0-2),12,2019,2
+1667,5f993e6c2aa4ba0deeabd0c7,Houston (1-1),13,2019,2
+1668,5f993e6c2aa4ba0deeabd0c8,New England (2-0),43,2019,2
+1669,5f993e6c2aa4ba0deeabd0c9,Miami (0-2),0,2019,2
+1670,5f993e6c2aa4ba0deeabd0ca,Buffalo (2-0),28,2019,2
+1671,5f993e6c2aa4ba0deeabd0cb,NY Giants (0-2),14,2019,2
+1672,5f993e6c2aa4ba0deeabd0cc,Seattle (2-0),28,2019,2
+1673,5f993e6c2aa4ba0deeabd0cd,Pittsburgh (0-2),26,2019,2
+1674,5f993e6c2aa4ba0deeabd0ce,Indianapolis (1-1),19,2019,2
+1675,5f993e6c2aa4ba0deeabd0cf,Tennessee (1-1),17,2019,2
+1676,5f993e6c2aa4ba0deeabd0d0,Dallas (2-0),31,2019,2
+1677,5f993e6c2aa4ba0deeabd0d1,Washington (0-2),21,2019,2
+1678,5f993e6c2aa4ba0deeabd0d2,Kansas City (2-0),28,2019,2
+1679,5f993e6c2aa4ba0deeabd0d3,Oakland (1-1),10,2019,2
+1680,5f993e6c2aa4ba0deeabd0d4,Chicago (1-1),16,2019,2
+1681,5f993e6c2aa4ba0deeabd0d5,Denver (0-2),14,2019,2
+1682,5f993e6c2aa4ba0deeabd0d6,New Orleans (1-1),9,2019,2
+1683,5f993e6c2aa4ba0deeabd0d7,LA Rams (2-0),27,2019,2
+1684,5f993e6c2aa4ba0deeabd0d8,Philadelphia (1-1),20,2019,2
+1685,5f993e6c2aa4ba0deeabd0d9,Atlanta (1-1),24,2019,2
+1686,5f993e6c2aa4ba0deeabd0da,Cleveland (1-1),23,2019,2
+1687,5f993e6c2aa4ba0deeabd0db,NY Jets (0-2),3,2019,2
+1688,5f993e6c2aa4ba0deeabd0dd,Tennessee (1-2),7,2019,3
+1689,5f993e6c2aa4ba0deeabd0de,Jacksonville (1-2),20,2019,3
+1690,5f993e6c2aa4ba0deeabd0df,Cincinnati (0-3),17,2019,3
+1691,5f993e6c2aa4ba0deeabd0e0,Buffalo (3-0),21,2019,3
+1692,5f993e6c2aa4ba0deeabd0e1,Miami (0-3),6,2019,3
+1693,5f993e6c2aa4ba0deeabd0e2,Dallas (3-0),31,2019,3
+1694,5f993e6c2aa4ba0deeabd0e3,Denver (0-3),16,2019,3
+1695,5f993e6c2aa4ba0deeabd0e4,Green Bay (3-0),27,2019,3
+1696,5f993e6c2aa4ba0deeabd0e5,Atlanta (1-2),24,2019,3
+1697,5f993e6c2aa4ba0deeabd0e6,Indianapolis (2-1),27,2019,3
+1698,5f993e6c2aa4ba0deeabd0e7,Baltimore (2-1),28,2019,3
+1699,5f993e6c2aa4ba0deeabd0e8,Kansas City (3-0),33,2019,3
+1700,5f993e6c2aa4ba0deeabd0e9,Oakland (1-2),14,2019,3
+1701,5f993e6c2aa4ba0deeabd0ea,Minnesota (2-1),34,2019,3
+1702,5f993e6c2aa4ba0deeabd0eb,NY Jets (0-3),14,2019,3
+1703,5f993e6c2aa4ba0deeabd0ec,New England (3-0),30,2019,3
+1704,5f993e6c2aa4ba0deeabd0ed,Detroit (2-0-1),27,2019,3
+1705,5f993e6c2aa4ba0deeabd0ee,Philadelphia (1-2),24,2019,3
+1706,5f993e6c2aa4ba0deeabd0ef,Carolina (1-2),38,2019,3
+1707,5f993e6c2aa4ba0deeabd0f0,Arizona (0-2-1),20,2019,3
+1708,5f993e6c2aa4ba0deeabd0f1,NY Giants (1-2),32,2019,3
+1709,5f993e6c2aa4ba0deeabd0f2,Tampa Bay (1-2),31,2019,3
+1710,5f993e6c2aa4ba0deeabd0f3,Houston (2-1),27,2019,3
+1711,5f993e6c2aa4ba0deeabd0f4,LA Chargers (1-2),20,2019,3
+1712,5f993e6c2aa4ba0deeabd0f5,Pittsburgh (0-3),20,2019,3
+1713,5f993e6c2aa4ba0deeabd0f6,San Francisco (3-0),24,2019,3
+1714,5f993e6c2aa4ba0deeabd0f7,New Orleans (2-1),33,2019,3
+1715,5f993e6c2aa4ba0deeabd0f8,Seattle (2-1),27,2019,3
+1716,5f993e6c2aa4ba0deeabd0f9,LA Rams (3-0),20,2019,3
+1717,5f993e6c2aa4ba0deeabd0fa,Cleveland (1-2),13,2019,3
+1718,5f993e6c2aa4ba0deeabd0fb,Chicago (2-1),31,2019,3
+1719,5f993e6c2aa4ba0deeabd0fc,Washington (0-3),15,2019,3
+1720,5f993e6d2aa4ba0deeabd0fe,Philadelphia (2-2),34,2019,4
+1721,5f993e6d2aa4ba0deeabd0ff,Green Bay (3-1),27,2019,4
+1722,5f993e6d2aa4ba0deeabd100,Tennessee (2-2),24,2019,4
+1723,5f993e6d2aa4ba0deeabd101,Atlanta (1-3),10,2019,4
+1724,5f993e6d2aa4ba0deeabd102,Cleveland (2-2),40,2019,4
+1725,5f993e6d2aa4ba0deeabd103,Baltimore (2-2),25,2019,4
+1726,5f993e6d2aa4ba0deeabd104,New England (4-0),16,2019,4
+1727,5f993e6d2aa4ba0deeabd105,Buffalo (3-1),10,2019,4
+1728,5f993e6d2aa4ba0deeabd106,Kansas City (4-0),34,2019,4
+1729,5f993e6d2aa4ba0deeabd107,Detroit (2-1-1),30,2019,4
+1730,5f993e6d2aa4ba0deeabd108,Carolina (2-2),16,2019,4
+1731,5f993e6d2aa4ba0deeabd109,Houston (2-2),10,2019,4
+1732,5f993e6d2aa4ba0deeabd10a,Oakland (2-2),31,2019,4
+1733,5f993e6d2aa4ba0deeabd10b,Indianapolis (2-2),24,2019,4
+1734,5f993e6d2aa4ba0deeabd10c,LA Chargers (2-2),30,2019,4
+1735,5f993e6d2aa4ba0deeabd10d,Miami (0-4),10,2019,4
+1736,5f993e6d2aa4ba0deeabd10e,Washington (0-4),3,2019,4
+1737,5f993e6d2aa4ba0deeabd10f,NY Giants (2-2),24,2019,4
+1738,5f993e6d2aa4ba0deeabd110,Seattle (3-1),27,2019,4
+1739,5f993e6d2aa4ba0deeabd111,Arizona (0-3-1),10,2019,4
+1740,5f993e6d2aa4ba0deeabd112,Tampa Bay (2-2),55,2019,4
+1741,5f993e6d2aa4ba0deeabd113,LA Rams (3-1),40,2019,4
+1742,5f993e6d2aa4ba0deeabd114,Minnesota (2-2),6,2019,4
+1743,5f993e6d2aa4ba0deeabd115,Chicago (3-1),16,2019,4
+1744,5f993e6d2aa4ba0deeabd116,Jacksonville (2-2),26,2019,4
+1745,5f993e6d2aa4ba0deeabd117,Denver (0-4),24,2019,4
+1746,5f993e6d2aa4ba0deeabd118,Dallas (3-1),10,2019,4
+1747,5f993e6d2aa4ba0deeabd119,New Orleans (3-1),12,2019,4
+1748,5f993e6d2aa4ba0deeabd11a,Cincinnati (0-4),3,2019,4
+1749,5f993e6d2aa4ba0deeabd11b,Pittsburgh (1-3),27,2019,4
+1750,5f993e6e2aa4ba0deeabd11d,LA Rams (3-2),29,2019,5
+1751,5f993e6e2aa4ba0deeabd11e,Seattle (4-1),30,2019,5
+1752,5f993e6e2aa4ba0deeabd11f,Jacksonville (2-3),27,2019,5
+1753,5f993e6e2aa4ba0deeabd120,Carolina (3-2),34,2019,5
+1754,5f993e6e2aa4ba0deeabd121,Arizona (1-3-1),26,2019,5
+1755,5f993e6e2aa4ba0deeabd122,Cincinnati (0-5),23,2019,5
+1756,5f993e6e2aa4ba0deeabd123,Atlanta (1-4),32,2019,5
+1757,5f993e6e2aa4ba0deeabd124,Houston (3-2),53,2019,5
+1758,5f993e6e2aa4ba0deeabd125,Tampa Bay (2-3),24,2019,5
+1759,5f993e6e2aa4ba0deeabd126,New Orleans (4-1),31,2019,5
+1760,5f993e6e2aa4ba0deeabd127,Minnesota (3-2),28,2019,5
+1761,5f993e6e2aa4ba0deeabd128,NY Giants (2-3),10,2019,5
+1762,5f993e6e2aa4ba0deeabd129,NY Jets (0-4),6,2019,5
+1763,5f993e6e2aa4ba0deeabd12a,Philadelphia (3-2),31,2019,5
+1764,5f993e6e2aa4ba0deeabd12b,Baltimore (3-2),26,2019,5
+1765,5f993e6e2aa4ba0deeabd12c,Pittsburgh (1-4),23,2019,5
+1766,5f993e6e2aa4ba0deeabd12d,Buffalo (4-1),14,2019,5
+1767,5f993e6e2aa4ba0deeabd12e,Tennessee (2-3),7,2019,5
+1768,5f993e6e2aa4ba0deeabd12f,New England (5-0),33,2019,5
+1769,5f993e6e2aa4ba0deeabd130,Washington (0-5),7,2019,5
+1770,5f993e6e2aa4ba0deeabd131,Chicago (3-2),21,2019,5
+1771,5f993e6e2aa4ba0deeabd132,Oakland (3-2),24,2019,5
+1772,5f993e6e2aa4ba0deeabd133,Denver (1-4),20,2019,5
+1773,5f993e6e2aa4ba0deeabd134,LA Chargers (2-3),13,2019,5
+1774,5f993e6e2aa4ba0deeabd135,Green Bay (4-1),34,2019,5
+1775,5f993e6e2aa4ba0deeabd136,Dallas (3-2),24,2019,5
+1776,5f993e6e2aa4ba0deeabd137,Indianapolis (3-2),19,2019,5
+1777,5f993e6e2aa4ba0deeabd138,Kansas City (4-1),13,2019,5
+1778,5f993e6e2aa4ba0deeabd139,Cleveland (2-3),3,2019,5
+1779,5f993e6e2aa4ba0deeabd13a,San Francisco (4-0),31,2019,5
+1780,5f993e6e2aa4ba0deeabd13c,NY Giants (2-4),14,2019,6
+1781,5f993e6e2aa4ba0deeabd13d,New England (6-0),35,2019,6
+1782,5f993e6e2aa4ba0deeabd13e,Carolina (4-2),37,2019,6
+1783,5f993e6e2aa4ba0deeabd13f,Tampa Bay (2-4),26,2019,6
+1784,5f993e6e2aa4ba0deeabd140,Cincinnati (0-6),17,2019,6
+1785,5f993e6e2aa4ba0deeabd141,Baltimore (4-2),23,2019,6
+1786,5f993e6e2aa4ba0deeabd142,Seattle (5-1),32,2019,6
+1787,5f993e6e2aa4ba0deeabd143,Cleveland (2-4),28,2019,6
+1788,5f993e6e2aa4ba0deeabd144,New Orleans (5-1),13,2019,6
+1789,5f993e6e2aa4ba0deeabd145,Jacksonville (2-4),6,2019,6
+1790,5f993e6e2aa4ba0deeabd146,Houston (4-2),31,2019,6
+1791,5f993e6e2aa4ba0deeabd147,Kansas City (4-2),24,2019,6
+1792,5f993e6e2aa4ba0deeabd148,Washington (1-5),17,2019,6
+1793,5f993e6e2aa4ba0deeabd149,Miami (0-5),16,2019,6
+1794,5f993e6e2aa4ba0deeabd14a,Philadelphia (3-3),20,2019,6
+1795,5f993e6e2aa4ba0deeabd14b,Minnesota (4-2),38,2019,6
+1796,5f993e6e2aa4ba0deeabd14c,Atlanta (1-5),33,2019,6
+1797,5f993e6e2aa4ba0deeabd14d,Arizona (2-3-1),34,2019,6
+1798,5f993e6e2aa4ba0deeabd14e,San Francisco (5-0),20,2019,6
+1799,5f993e6e2aa4ba0deeabd14f,LA Rams (3-3),7,2019,6
+1800,5f993e6e2aa4ba0deeabd150,Tennessee (2-4),0,2019,6
+1801,5f993e6e2aa4ba0deeabd151,Denver (2-4),16,2019,6
+1802,5f993e6e2aa4ba0deeabd152,Dallas (3-3),22,2019,6
+1803,5f993e6e2aa4ba0deeabd153,NY Jets (1-4),24,2019,6
+1804,5f993e6e2aa4ba0deeabd154,Pittsburgh (2-4),24,2019,6
+1805,5f993e6e2aa4ba0deeabd155,LA Chargers (2-4),17,2019,6
+1806,5f993e6e2aa4ba0deeabd156,Detroit (2-2-1),22,2019,6
+1807,5f993e6e2aa4ba0deeabd157,Green Bay (5-1),23,2019,6
+1808,5f993e6f2aa4ba0deeabd159,Kansas City (5-2),30,2019,7
+1809,5f993e6f2aa4ba0deeabd15a,Denver (2-5),6,2019,7
+1810,5f993e6f2aa4ba0deeabd15b,LA Rams (4-3),37,2019,7
+1811,5f993e6f2aa4ba0deeabd15c,Atlanta (1-6),10,2019,7
+1812,5f993e6f2aa4ba0deeabd15d,Miami (0-6),21,2019,7
+1813,5f993e6f2aa4ba0deeabd15e,Buffalo (5-1),31,2019,7
+1814,5f993e6f2aa4ba0deeabd15f,Jacksonville (3-4),27,2019,7
+1815,5f993e6f2aa4ba0deeabd160,Cincinnati (0-7),17,2019,7
+1816,5f993e6f2aa4ba0deeabd161,Minnesota (5-2),42,2019,7
+1817,5f993e6f2aa4ba0deeabd162,Detroit (2-3-1),30,2019,7
+1818,5f993e6f2aa4ba0deeabd163,Oakland (3-3),24,2019,7
+1819,5f993e6f2aa4ba0deeabd164,Green Bay (6-1),42,2019,7
+1820,5f993e6f2aa4ba0deeabd165,Houston (4-3),23,2019,7
+1821,5f993e6f2aa4ba0deeabd166,Indianapolis (4-2),30,2019,7
+1822,5f993e6f2aa4ba0deeabd167,Arizona (3-3-1),27,2019,7
+1823,5f993e6f2aa4ba0deeabd168,NY Giants (2-5),21,2019,7
+1824,5f993e6f2aa4ba0deeabd169,San Francisco (6-0),9,2019,7
+1825,5f993e6f2aa4ba0deeabd16a,Washington (1-6),0,2019,7
+1826,5f993e6f2aa4ba0deeabd16b,LA Chargers (2-5),20,2019,7
+1827,5f993e6f2aa4ba0deeabd16c,Tennessee (3-4),23,2019,7
+1828,5f993e6f2aa4ba0deeabd16d,New Orleans (6-1),36,2019,7
+1829,5f993e6f2aa4ba0deeabd16e,Chicago (3-3),25,2019,7
+1830,5f993e6f2aa4ba0deeabd16f,Baltimore (5-2),30,2019,7
+1831,5f993e6f2aa4ba0deeabd170,Seattle (5-2),16,2019,7
+1832,5f993e6f2aa4ba0deeabd171,Philadelphia (3-4),10,2019,7
+1833,5f993e6f2aa4ba0deeabd172,Dallas (4-3),37,2019,7
+1834,5f993e6f2aa4ba0deeabd173,New England (7-0),33,2019,7
+1835,5f993e6f2aa4ba0deeabd174,NY Jets (1-5),0,2019,7
+1836,5f993e702aa4ba0deeabd176,Washington (1-7),9,2019,8
+1837,5f993e702aa4ba0deeabd177,Minnesota (6-2),19,2019,8
+1838,5f993e702aa4ba0deeabd178,Seattle (6-2),27,2019,8
+1839,5f993e702aa4ba0deeabd179,Atlanta (1-7),20,2019,8
+1840,5f993e702aa4ba0deeabd17a,Philadelphia (4-4),31,2019,8
+1841,5f993e702aa4ba0deeabd17b,Buffalo (5-2),13,2019,8
+1842,5f993e702aa4ba0deeabd17c,LA Chargers (3-5),17,2019,8
+1843,5f993e702aa4ba0deeabd17d,Chicago (3-4),16,2019,8
+1844,5f993e702aa4ba0deeabd17e,NY Giants (2-6),26,2019,8
+1845,5f993e702aa4ba0deeabd17f,Detroit (3-3-1),31,2019,8
+1846,5f993e702aa4ba0deeabd180,NY Jets (1-6),15,2019,8
+1847,5f993e702aa4ba0deeabd181,Jacksonville (4-4),29,2019,8
+1848,5f993e702aa4ba0deeabd182,Arizona (3-4-1),9,2019,8
+1849,5f993e702aa4ba0deeabd183,New Orleans (7-1),31,2019,8
+1850,5f993e702aa4ba0deeabd184,Tampa Bay (2-5),23,2019,8
+1851,5f993e702aa4ba0deeabd185,Tennessee (4-4),27,2019,8
+1852,5f993e702aa4ba0deeabd186,Denver (2-6),13,2019,8
+1853,5f993e702aa4ba0deeabd187,Indianapolis (5-2),15,2019,8
+1854,5f993e702aa4ba0deeabd188,Cincinnati (0-8),10,2019,8
+1855,5f993e702aa4ba0deeabd189,LA Rams (5-3),24,2019,8
+1856,5f993e702aa4ba0deeabd18a,Carolina (4-3),13,2019,8
+1857,5f993e702aa4ba0deeabd18b,San Francisco (7-0),51,2019,8
+1858,5f993e702aa4ba0deeabd18c,Oakland (3-4),24,2019,8
+1859,5f993e702aa4ba0deeabd18d,Houston (5-3),27,2019,8
+1860,5f993e702aa4ba0deeabd18e,Cleveland (2-5),13,2019,8
+1861,5f993e702aa4ba0deeabd18f,New England (8-0),27,2019,8
+1862,5f993e702aa4ba0deeabd190,Green Bay (7-1),31,2019,8
+1863,5f993e702aa4ba0deeabd191,Kansas City (5-3),24,2019,8
+1864,5f993e702aa4ba0deeabd192,Miami (0-7),14,2019,8
+1865,5f993e702aa4ba0deeabd193,Pittsburgh (3-4),27,2019,8
+1866,5f993e702aa4ba0deeabd195,San Francisco (8-0),28,2019,9
+1867,5f993e702aa4ba0deeabd196,Arizona (3-5-1),25,2019,9
+1868,5f993e702aa4ba0deeabd197,Houston (6-3),26,2019,9
+1869,5f993e702aa4ba0deeabd198,Jacksonville (4-5),3,2019,9
+1870,5f993e702aa4ba0deeabd199,Washington (1-8),9,2019,9
+1871,5f993e702aa4ba0deeabd19a,Buffalo (6-2),24,2019,9
+1872,5f993e702aa4ba0deeabd19b,Tennessee (4-5),20,2019,9
+1873,5f993e702aa4ba0deeabd19c,Carolina (5-3),30,2019,9
+1874,5f993e702aa4ba0deeabd19d,Minnesota (6-3),23,2019,9
+1875,5f993e702aa4ba0deeabd19e,Kansas City (6-3),26,2019,9
+1876,5f993e702aa4ba0deeabd19f,NY Jets (1-7),18,2019,9
+1877,5f993e702aa4ba0deeabd1a0,Miami (1-7),26,2019,9
+1878,5f993e702aa4ba0deeabd1a1,Chicago (3-5),14,2019,9
+1879,5f993e702aa4ba0deeabd1a2,Philadelphia (5-4),22,2019,9
+1880,5f993e702aa4ba0deeabd1a3,Indianapolis (5-3),24,2019,9
+1881,5f993e702aa4ba0deeabd1a4,Pittsburgh (4-4),26,2019,9
+1882,5f993e702aa4ba0deeabd1a5,Detroit (3-4-1),24,2019,9
+1883,5f993e702aa4ba0deeabd1a6,Oakland (4-4),31,2019,9
+1884,5f993e702aa4ba0deeabd1a7,Tampa Bay (2-6),34,2019,9
+1885,5f993e702aa4ba0deeabd1a8,Seattle (7-2),40,2019,9
+1886,5f993e702aa4ba0deeabd1a9,Cleveland (2-6),19,2019,9
+1887,5f993e702aa4ba0deeabd1aa,Denver (3-6),24,2019,9
+1888,5f993e702aa4ba0deeabd1ab,Green Bay (7-2),11,2019,9
+1889,5f993e702aa4ba0deeabd1ac,LA Chargers (4-5),26,2019,9
+1890,5f993e702aa4ba0deeabd1ad,New England (8-1),20,2019,9
+1891,5f993e702aa4ba0deeabd1ae,Baltimore (6-2),37,2019,9
+1892,5f993e702aa4ba0deeabd1af,Dallas (5-3),37,2019,9
+1893,5f993e702aa4ba0deeabd1b0,NY Giants (2-7),18,2019,9
+1894,5f993e712aa4ba0deeabd1b2,LA Chargers (4-6),24,2019,10
+1895,5f993e712aa4ba0deeabd1b3,Oakland (5-4),26,2019,10
+1896,5f993e712aa4ba0deeabd1b4,Detroit (3-5-1),13,2019,10
+1897,5f993e712aa4ba0deeabd1b5,Chicago (4-5),20,2019,10
+1898,5f993e712aa4ba0deeabd1b6,Baltimore (7-2),49,2019,10
+1899,5f993e712aa4ba0deeabd1b7,Cincinnati (0-9),13,2019,10
+1900,5f993e712aa4ba0deeabd1b8,Buffalo (6-3),16,2019,10
+1901,5f993e712aa4ba0deeabd1b9,Cleveland (3-6),19,2019,10
+1902,5f993e712aa4ba0deeabd1ba,Atlanta (2-7),26,2019,10
+1903,5f993e712aa4ba0deeabd1bb,New Orleans (7-2),9,2019,10
+1904,5f993e712aa4ba0deeabd1bc,NY Giants (2-8),27,2019,10
+1905,5f993e712aa4ba0deeabd1bd,NY Jets (2-7),34,2019,10
+1906,5f993e712aa4ba0deeabd1be,Arizona (3-6-1),27,2019,10
+1907,5f993e712aa4ba0deeabd1bf,Tampa Bay (3-6),30,2019,10
+1908,5f993e712aa4ba0deeabd1c0,Kansas City (6-4),32,2019,10
+1909,5f993e712aa4ba0deeabd1c1,Tennessee (5-5),35,2019,10
+1910,5f993e712aa4ba0deeabd1c2,Miami (2-7),16,2019,10
+1911,5f993e712aa4ba0deeabd1c3,Indianapolis (5-4),12,2019,10
+1912,5f993e712aa4ba0deeabd1c4,Carolina (5-4),16,2019,10
+1913,5f993e712aa4ba0deeabd1c5,Green Bay (8-2),24,2019,10
+1914,5f993e712aa4ba0deeabd1c6,LA Rams (5-4),12,2019,10
+1915,5f993e712aa4ba0deeabd1c7,Pittsburgh (5-4),17,2019,10
+1916,5f993e712aa4ba0deeabd1c8,Minnesota (7-3),28,2019,10
+1917,5f993e712aa4ba0deeabd1c9,Dallas (5-4),24,2019,10
+1918,5f993e712aa4ba0deeabd1ca,Seattle (8-2),27,2019,10
+1919,5f993e712aa4ba0deeabd1cb,San Francisco (8-1),24,2019,10
+1920,5f993e722aa4ba0deeabd1cd,Pittsburgh (5-5),7,2019,11
+1921,5f993e722aa4ba0deeabd1ce,Cleveland (4-6),21,2019,11
+1922,5f993e722aa4ba0deeabd1cf,Houston (6-4),7,2019,11
+1923,5f993e722aa4ba0deeabd1d0,Baltimore (8-2),41,2019,11
+1924,5f993e722aa4ba0deeabd1d1,Atlanta (3-7),29,2019,11
+1925,5f993e722aa4ba0deeabd1d2,Carolina (5-5),3,2019,11
+1926,5f993e722aa4ba0deeabd1d3,Dallas (6-4),35,2019,11
+1927,5f993e722aa4ba0deeabd1d4,Detroit (3-6-1),27,2019,11
+1928,5f993e722aa4ba0deeabd1d5,Jacksonville (4-6),13,2019,11
+1929,5f993e722aa4ba0deeabd1d6,Indianapolis (6-4),33,2019,11
+1930,5f993e722aa4ba0deeabd1d7,Buffalo (7-3),37,2019,11
+1931,5f993e722aa4ba0deeabd1d8,Miami (2-8),20,2019,11
+1932,5f993e722aa4ba0deeabd1d9,Denver (3-7),23,2019,11
+1933,5f993e722aa4ba0deeabd1da,Minnesota (8-3),27,2019,11
+1934,5f993e722aa4ba0deeabd1db,New Orleans (8-2),34,2019,11
+1935,5f993e722aa4ba0deeabd1dc,Tampa Bay (3-7),17,2019,11
+1936,5f993e722aa4ba0deeabd1dd,NY Jets (3-7),34,2019,11
+1937,5f993e722aa4ba0deeabd1de,Washington (1-9),17,2019,11
+1938,5f993e722aa4ba0deeabd1df,Arizona (3-7-1),26,2019,11
+1939,5f993e722aa4ba0deeabd1e0,San Francisco (9-1),36,2019,11
+1940,5f993e722aa4ba0deeabd1e1,Cincinnati (0-10),10,2019,11
+1941,5f993e722aa4ba0deeabd1e2,Oakland (6-4),17,2019,11
+1942,5f993e722aa4ba0deeabd1e3,New England (9-1),17,2019,11
+1943,5f993e722aa4ba0deeabd1e4,Philadelphia (5-5),10,2019,11
+1944,5f993e722aa4ba0deeabd1e5,Chicago (4-6),7,2019,11
+1945,5f993e722aa4ba0deeabd1e6,LA Rams (6-4),17,2019,11
+1946,5f993e722aa4ba0deeabd1e7,Kansas City (7-4),24,2019,11
+1947,5f993e722aa4ba0deeabd1e8,LA Chargers (4-7),17,2019,11
+1948,5f993e732aa4ba0deeabd1ea,Indianapolis (6-5),17,2019,12
+1949,5f993e732aa4ba0deeabd1eb,Houston (7-4),20,2019,12
+1950,5f993e732aa4ba0deeabd1ec,Tampa Bay (4-7),35,2019,12
+1951,5f993e732aa4ba0deeabd1ed,Atlanta (3-8),22,2019,12
+1952,5f993e732aa4ba0deeabd1ee,Denver (3-8),3,2019,12
+1953,5f993e732aa4ba0deeabd1ef,Buffalo (8-3),20,2019,12
+1954,5f993e732aa4ba0deeabd1f0,NY Giants (2-9),14,2019,12
+1955,5f993e732aa4ba0deeabd1f1,Chicago (5-6),19,2019,12
+1956,5f993e732aa4ba0deeabd1f2,Pittsburgh (6-5),16,2019,12
+1957,5f993e732aa4ba0deeabd1f3,Cincinnati (0-11),10,2019,12
+1958,5f993e732aa4ba0deeabd1f4,Miami (2-9),24,2019,12
+1959,5f993e732aa4ba0deeabd1f5,Cleveland (5-6),41,2019,12
+1960,5f993e732aa4ba0deeabd1f6,Carolina (5-6),31,2019,12
+1961,5f993e732aa4ba0deeabd1f7,New Orleans (9-2),34,2019,12
+1962,5f993e732aa4ba0deeabd1f8,Oakland (6-5),3,2019,12
+1963,5f993e732aa4ba0deeabd1f9,NY Jets (4-7),34,2019,12
+1964,5f993e732aa4ba0deeabd1fa,Detroit (3-7-1),16,2019,12
+1965,5f993e732aa4ba0deeabd1fb,Washington (2-9),19,2019,12
+1966,5f993e732aa4ba0deeabd1fc,Seattle (9-2),17,2019,12
+1967,5f993e732aa4ba0deeabd1fd,Philadelphia (5-6),9,2019,12
+1968,5f993e732aa4ba0deeabd1fe,Jacksonville (4-7),20,2019,12
+1969,5f993e732aa4ba0deeabd1ff,Tennessee (6-5),42,2019,12
+1970,5f993e732aa4ba0deeabd200,Dallas (6-5),9,2019,12
+1971,5f993e732aa4ba0deeabd201,New England (10-1),13,2019,12
+1972,5f993e732aa4ba0deeabd202,Green Bay (8-3),8,2019,12
+1973,5f993e732aa4ba0deeabd203,San Francisco (10-1),37,2019,12
+1974,5f993e732aa4ba0deeabd204,Baltimore (9-2),45,2019,12
+1975,5f993e732aa4ba0deeabd205,LA Rams (6-5),6,2019,12
+1976,5f993e732aa4ba0deeabd207,Chicago (6-6),24,2019,13
+1977,5f993e732aa4ba0deeabd208,Detroit (3-8-1),20,2019,13
+1978,5f993e732aa4ba0deeabd209,Buffalo (9-3),26,2019,13
+1979,5f993e732aa4ba0deeabd20a,Dallas (6-6),15,2019,13
+1980,5f993e732aa4ba0deeabd20b,New Orleans (10-2),26,2019,13
+1981,5f993e732aa4ba0deeabd20c,Atlanta (3-9),18,2019,13
+1982,5f993e732aa4ba0deeabd20d,San Francisco (10-2),17,2019,13
+1983,5f993e732aa4ba0deeabd20e,Baltimore (10-2),20,2019,13
+1984,5f993e732aa4ba0deeabd20f,Washington (3-9),29,2019,13
+1985,5f993e732aa4ba0deeabd210,Carolina (5-7),21,2019,13
+1986,5f993e732aa4ba0deeabd211,NY Jets (4-8),6,2019,13
+1987,5f993e732aa4ba0deeabd212,Cincinnati (1-11),22,2019,13
+1988,5f993e732aa4ba0deeabd213,Tennessee (7-5),31,2019,13
+1989,5f993e732aa4ba0deeabd214,Indianapolis (6-6),17,2019,13
+1990,5f993e732aa4ba0deeabd215,Tampa Bay (5-7),28,2019,13
+1991,5f993e732aa4ba0deeabd216,Jacksonville (4-8),11,2019,13
+1992,5f993e732aa4ba0deeabd217,Philadelphia (5-7),31,2019,13
+1993,5f993e732aa4ba0deeabd218,Miami (3-9),37,2019,13
+1994,5f993e732aa4ba0deeabd219,Green Bay (9-3),31,2019,13
+1995,5f993e732aa4ba0deeabd21a,NY Giants (2-10),13,2019,13
+1996,5f993e732aa4ba0deeabd21b,Cleveland (5-7),13,2019,13
+1997,5f993e732aa4ba0deeabd21c,Pittsburgh (7-5),20,2019,13
+1998,5f993e732aa4ba0deeabd21d,LA Rams (7-5),34,2019,13
+1999,5f993e732aa4ba0deeabd21e,Arizona (3-8-1),7,2019,13
+2000,5f993e732aa4ba0deeabd21f,Oakland (6-6),9,2019,13
+2001,5f993e732aa4ba0deeabd220,Kansas City (8-4),40,2019,13
+2002,5f993e732aa4ba0deeabd221,LA Chargers (4-8),20,2019,13
+2003,5f993e732aa4ba0deeabd222,Denver (4-8),23,2019,13
+2004,5f993e732aa4ba0deeabd223,New England (10-2),22,2019,13
+2005,5f993e732aa4ba0deeabd224,Houston (8-4),28,2019,13
+2006,5f993e732aa4ba0deeabd225,Minnesota (8-4),30,2019,13
+2007,5f993e732aa4ba0deeabd226,Seattle (10-2),37,2019,13
+2008,5f993e742aa4ba0deeabd228,Dallas (6-7),24,2019,14
+2009,5f993e742aa4ba0deeabd229,Chicago (7-6),31,2019,14
+2010,5f993e742aa4ba0deeabd22a,Carolina (5-8),20,2019,14
+2011,5f993e742aa4ba0deeabd22b,Atlanta (4-9),40,2019,14
+2012,5f993e742aa4ba0deeabd22c,Baltimore (11-2),24,2019,14
+2013,5f993e742aa4ba0deeabd22d,Buffalo (9-4),17,2019,14
+2014,5f993e742aa4ba0deeabd22e,Cincinnati (1-12),19,2019,14
+2015,5f993e742aa4ba0deeabd22f,Cleveland (6-7),27,2019,14
+2016,5f993e742aa4ba0deeabd230,Washington (3-10),15,2019,14
+2017,5f993e742aa4ba0deeabd231,Green Bay (10-3),20,2019,14
+2018,5f993e742aa4ba0deeabd232,Denver (5-8),38,2019,14
+2019,5f993e742aa4ba0deeabd233,Houston (8-5),24,2019,14
+2020,5f993e742aa4ba0deeabd234,Detroit (3-9-1),7,2019,14
+2021,5f993e742aa4ba0deeabd235,Minnesota (9-4),20,2019,14
+2022,5f993e742aa4ba0deeabd236,San Francisco (11-2),48,2019,14
+2023,5f993e742aa4ba0deeabd237,New Orleans (10-3),46,2019,14
+2024,5f993e742aa4ba0deeabd238,Miami (3-10),21,2019,14
+2025,5f993e742aa4ba0deeabd239,NY Jets (5-8),22,2019,14
+2026,5f993e742aa4ba0deeabd23a,Indianapolis (6-7),35,2019,14
+2027,5f993e742aa4ba0deeabd23b,Tampa Bay (6-7),38,2019,14
+2028,5f993e742aa4ba0deeabd23c,LA Chargers (5-8),45,2019,14
+2029,5f993e742aa4ba0deeabd23d,Jacksonville (4-9),10,2019,14
+2030,5f993e742aa4ba0deeabd23e,Pittsburgh (8-5),23,2019,14
+2031,5f993e742aa4ba0deeabd23f,Arizona (3-9-1),17,2019,14
+2032,5f993e742aa4ba0deeabd240,Kansas City (9-4),23,2019,14
+2033,5f993e742aa4ba0deeabd241,New England (10-3),16,2019,14
+2034,5f993e742aa4ba0deeabd242,Tennessee (8-5),42,2019,14
+2035,5f993e742aa4ba0deeabd243,Oakland (6-7),21,2019,14
+2036,5f993e742aa4ba0deeabd244,Seattle (10-3),12,2019,14
+2037,5f993e742aa4ba0deeabd245,LA Rams (8-5),28,2019,14
+2038,5f993e742aa4ba0deeabd246,NY Giants (2-11),17,2019,14
+2039,5f993e742aa4ba0deeabd247,Philadelphia (6-7),23,2019,14
+2040,5f993e752aa4ba0deeabd249,NY Jets (5-9),21,2019,15
+2041,5f993e752aa4ba0deeabd24a,Baltimore (12-2),42,2019,15
+2042,5f993e752aa4ba0deeabd24b,Seattle (11-3),30,2019,15
+2043,5f993e752aa4ba0deeabd24c,Carolina (5-9),24,2019,15
+2044,5f993e752aa4ba0deeabd24d,New England (11-3),34,2019,15
+2045,5f993e752aa4ba0deeabd24e,Cincinnati (1-13),13,2019,15
+2046,5f993e752aa4ba0deeabd24f,Tampa Bay (7-7),38,2019,15
+2047,5f993e752aa4ba0deeabd250,Detroit (3-10-1),17,2019,15
+2048,5f993e752aa4ba0deeabd251,Chicago (7-7),13,2019,15
+2049,5f993e752aa4ba0deeabd252,Green Bay (11-3),21,2019,15
+2050,5f993e752aa4ba0deeabd253,Denver (5-9),3,2019,15
+2051,5f993e752aa4ba0deeabd254,Kansas City (10-4),23,2019,15
+2052,5f993e752aa4ba0deeabd255,Miami (3-11),20,2019,15
+2053,5f993e752aa4ba0deeabd256,NY Giants (3-11),36,2019,15
+2054,5f993e752aa4ba0deeabd257,Houston (9-5),24,2019,15
+2055,5f993e752aa4ba0deeabd258,Tennessee (8-6),21,2019,15
+2056,5f993e752aa4ba0deeabd259,Philadelphia (7-7),37,2019,15
+2057,5f993e752aa4ba0deeabd25a,Washington (3-11),27,2019,15
+2058,5f993e752aa4ba0deeabd25b,Cleveland (6-8),24,2019,15
+2059,5f993e752aa4ba0deeabd25c,Arizona (4-9-1),38,2019,15
+2060,5f993e752aa4ba0deeabd25d,Jacksonville (5-9),20,2019,15
+2061,5f993e752aa4ba0deeabd25e,Oakland (6-8),16,2019,15
+2062,5f993e752aa4ba0deeabd25f,Minnesota (10-4),39,2019,15
+2063,5f993e752aa4ba0deeabd260,LA Chargers (5-9),10,2019,15
+2064,5f993e752aa4ba0deeabd261,LA Rams (8-6),21,2019,15
+2065,5f993e752aa4ba0deeabd262,Dallas (7-7),44,2019,15
+2066,5f993e752aa4ba0deeabd263,Atlanta (5-9),29,2019,15
+2067,5f993e752aa4ba0deeabd264,San Francisco (11-3),22,2019,15
+2068,5f993e752aa4ba0deeabd265,Buffalo (10-4),17,2019,15
+2069,5f993e752aa4ba0deeabd266,Pittsburgh (8-6),10,2019,15
+2070,5f993e752aa4ba0deeabd267,Indianapolis (6-8),7,2019,15
+2071,5f993e752aa4ba0deeabd268,New Orleans (11-3),34,2019,15
+2072,5f993e762aa4ba0deeabd26a,Houston (10-5),23,2019,16
+2073,5f993e762aa4ba0deeabd26b,Tampa Bay (7-8),20,2019,16
+2074,5f993e762aa4ba0deeabd26c,Buffalo (10-5),17,2019,16
+2075,5f993e762aa4ba0deeabd26d,New England (12-3),24,2019,16
+2076,5f993e762aa4ba0deeabd26e,LA Rams (8-7),31,2019,16
+2077,5f993e762aa4ba0deeabd26f,San Francisco (12-3),34,2019,16
+2078,5f993e762aa4ba0deeabd270,Jacksonville (5-10),12,2019,16
+2079,5f993e762aa4ba0deeabd271,Atlanta (6-9),24,2019,16
+2080,5f993e762aa4ba0deeabd272,Baltimore (13-2),31,2019,16
+2081,5f993e762aa4ba0deeabd273,Cleveland (6-9),15,2019,16
+2082,5f993e762aa4ba0deeabd274,Carolina (5-10),6,2019,16
+2083,5f993e762aa4ba0deeabd275,Indianapolis (7-8),38,2019,16
+2084,5f993e762aa4ba0deeabd276,Cincinnati (1-14),35,2019,16
+2085,5f993e762aa4ba0deeabd277,Miami (4-11),38,2019,16
+2086,5f993e762aa4ba0deeabd278,Pittsburgh (8-7),10,2019,16
+2087,5f993e762aa4ba0deeabd279,NY Jets (6-9),16,2019,16
+2088,5f993e762aa4ba0deeabd27a,New Orleans (12-3),38,2019,16
+2089,5f993e762aa4ba0deeabd27b,Tennessee (8-7),28,2019,16
+2090,5f993e762aa4ba0deeabd27c,NY Giants (4-11),41,2019,16
+2091,5f993e762aa4ba0deeabd27d,Washington (3-12),35,2019,16
+2092,5f993e762aa4ba0deeabd27e,Detroit (3-11-1),17,2019,16
+2093,5f993e762aa4ba0deeabd27f,Denver (6-9),27,2019,16
+2094,5f993e762aa4ba0deeabd280,Oakland (7-8),24,2019,16
+2095,5f993e762aa4ba0deeabd281,LA Chargers (5-10),17,2019,16
+2096,5f993e762aa4ba0deeabd282,Dallas (7-8),9,2019,16
+2097,5f993e762aa4ba0deeabd283,Philadelphia (8-7),17,2019,16
+2098,5f993e762aa4ba0deeabd284,Arizona (5-9-1),27,2019,16
+2099,5f993e762aa4ba0deeabd285,Seattle (11-4),13,2019,16
+2100,5f993e762aa4ba0deeabd286,Kansas City (11-4),26,2019,16
+2101,5f993e762aa4ba0deeabd287,Chicago (7-8),3,2019,16
+2102,5f993e762aa4ba0deeabd288,Green Bay (12-3),23,2019,16
+2103,5f993e762aa4ba0deeabd289,Minnesota (10-5),10,2019,16
+2104,5f993e762aa4ba0deeabd28b,NY Jets (7-9),13,2019,17
+2105,5f993e762aa4ba0deeabd28c,Buffalo (10-6),6,2019,17
+2106,5f993e762aa4ba0deeabd28d,New Orleans (13-3),42,2019,17
+2107,5f993e762aa4ba0deeabd28e,Carolina (5-11),10,2019,17
+2108,5f993e762aa4ba0deeabd28f,Cleveland (6-10),23,2019,17
+2109,5f993e762aa4ba0deeabd290,Cincinnati (2-14),33,2019,17
+2110,5f993e762aa4ba0deeabd291,Green Bay (13-3),23,2019,17
+2111,5f993e762aa4ba0deeabd292,Detroit (3-12-1),20,2019,17
+2112,5f993e762aa4ba0deeabd293,LA Chargers (5-11),21,2019,17
+2113,5f993e762aa4ba0deeabd294,Kansas City (12-4),31,2019,17
+2114,5f993e762aa4ba0deeabd295,Chicago (8-8),21,2019,17
+2115,5f993e762aa4ba0deeabd296,Minnesota (10-6),19,2019,17
+2116,5f993e762aa4ba0deeabd297,Miami (5-11),27,2019,17
+2117,5f993e762aa4ba0deeabd298,New England (12-4),24,2019,17
+2118,5f993e762aa4ba0deeabd299,Atlanta (7-9),28,2019,17
+2119,5f993e762aa4ba0deeabd29a,Tampa Bay (7-9),22,2019,17
+2120,5f993e762aa4ba0deeabd29b,Pittsburgh (8-8),10,2019,17
+2121,5f993e762aa4ba0deeabd29c,Baltimore (14-2),28,2019,17
+2122,5f993e762aa4ba0deeabd29d,Washington (3-13),16,2019,17
+2123,5f993e762aa4ba0deeabd29e,Dallas (8-8),47,2019,17
+2124,5f993e762aa4ba0deeabd29f,Tennessee (9-7),35,2019,17
+2125,5f993e762aa4ba0deeabd2a0,Houston (10-6),14,2019,17
+2126,5f993e762aa4ba0deeabd2a1,Indianapolis (7-9),20,2019,17
+2127,5f993e762aa4ba0deeabd2a2,Jacksonville (6-10),38,2019,17
+2128,5f993e762aa4ba0deeabd2a3,Philadelphia (9-7),34,2019,17
+2129,5f993e762aa4ba0deeabd2a4,NY Giants (4-12),17,2019,17
+2130,5f993e762aa4ba0deeabd2a5,Oakland (7-9),15,2019,17
+2131,5f993e762aa4ba0deeabd2a6,Denver (7-9),16,2019,17
+2132,5f993e762aa4ba0deeabd2a7,Arizona (5-10-1),24,2019,17
+2133,5f993e762aa4ba0deeabd2a8,LA Rams (9-7),31,2019,17
+2134,5f993e762aa4ba0deeabd2a9,San Francisco (13-3),26,2019,17
+2135,5f993e762aa4ba0deeabd2aa,Seattle (11-5),21,2019,17
+2136,5f993f6a0a7014855df1e959,Houston (0-1),20,2020,1
+2137,5f993f6a0a7014855df1e95a,Kansas City (1-0),34,2020,1
+2138,5f993f6a0a7014855df1e95b,Seattle (1-0),38,2020,1
+2139,5f993f6a0a7014855df1e95c,Atlanta (0-1),25,2020,1
+2140,5f993f6a0a7014855df1e95d,Cleveland (0-1),6,2020,1
+2141,5f993f6a0a7014855df1e95e,Baltimore (1-0),38,2020,1
+2142,5f993f6a0a7014855df1e95f,NY Jets (0-1),17,2020,1
+2143,5f993f6a0a7014855df1e960,Buffalo (1-0),27,2020,1
+2144,5f993f6a0a7014855df1e961,Las Vegas (1-0),34,2020,1
+2145,5f993f6a0a7014855df1e962,Carolina (0-1),30,2020,1
+2146,5f993f6a0a7014855df1e963,Chicago (1-0),27,2020,1
+2147,5f993f6a0a7014855df1e964,Detroit (0-1),23,2020,1
+2148,5f993f6a0a7014855df1e965,Indianapolis (0-1),20,2020,1
+2149,5f993f6a0a7014855df1e966,Jacksonville (1-0),27,2020,1
+2150,5f993f6a0a7014855df1e967,Green Bay (1-0),43,2020,1
+2151,5f993f6a0a7014855df1e968,Minnesota (0-1),34,2020,1
+2152,5f993f6a0a7014855df1e969,Miami (0-1),11,2020,1
+2153,5f993f6a0a7014855df1e96a,New England (1-0),21,2020,1
+2154,5f993f6a0a7014855df1e96b,Philadelphia (0-1),17,2020,1
+2155,5f993f6a0a7014855df1e96c,Washington (1-0),27,2020,1
+2156,5f993f6a0a7014855df1e96d,LA Chargers (1-0),16,2020,1
+2157,5f993f6a0a7014855df1e96e,Cincinnati (0-1),13,2020,1
+2158,5f993f6a0a7014855df1e96f,Tampa Bay (0-1),23,2020,1
+2159,5f993f6a0a7014855df1e970,New Orleans (1-0),34,2020,1
+2160,5f993f6a0a7014855df1e971,Arizona (1-0),24,2020,1
+2161,5f993f6a0a7014855df1e972,San Francisco (0-1),20,2020,1
+2162,5f993f6a0a7014855df1e973,Dallas (0-1),17,2020,1
+2163,5f993f6a0a7014855df1e974,LA Rams (1-0),20,2020,1
+2164,5f993f6a0a7014855df1e975,Pittsburgh (1-0),26,2020,1
+2165,5f993f6a0a7014855df1e976,NY Giants (0-1),16,2020,1
+2166,5f993f6a0a7014855df1e977,Tennessee (1-0),16,2020,1
+2167,5f993f6a0a7014855df1e978,Denver (0-1),14,2020,1
+2168,5f993f6b0a7014855df1e97a,Cincinnati (0-2),30,2020,2
+2169,5f993f6b0a7014855df1e97b,Cleveland (1-1),35,2020,2
+2170,5f993f6b0a7014855df1e97c,NY Giants (0-2),13,2020,2
+2171,5f993f6b0a7014855df1e97d,Chicago (2-0),17,2020,2
+2172,5f993f6b0a7014855df1e97e,Atlanta (0-2),39,2020,2
+2173,5f993f6b0a7014855df1e97f,Dallas (1-1),40,2020,2
+2174,5f993f6b0a7014855df1e980,Detroit (0-2),21,2020,2
+2175,5f993f6b0a7014855df1e981,Green Bay (2-0),42,2020,2
+2176,5f993f6b0a7014855df1e982,Minnesota (0-2),11,2020,2
+2177,5f993f6b0a7014855df1e983,Indianapolis (1-1),28,2020,2
+2178,5f993f6b0a7014855df1e984,Buffalo (2-0),31,2020,2
+2179,5f993f6b0a7014855df1e985,Miami (0-2),28,2020,2
+2180,5f993f6b0a7014855df1e986,San Francisco (1-1),31,2020,2
+2181,5f993f6b0a7014855df1e987,NY Jets (0-2),13,2020,2
+2182,5f993f6b0a7014855df1e988,LA Rams (2-0),37,2020,2
+2183,5f993f6b0a7014855df1e989,Philadelphia (0-2),19,2020,2
+2184,5f993f6b0a7014855df1e98a,Denver (0-2),21,2020,2
+2185,5f993f6b0a7014855df1e98b,Pittsburgh (2-0),26,2020,2
+2186,5f993f6b0a7014855df1e98c,Carolina (0-2),17,2020,2
+2187,5f993f6b0a7014855df1e98d,Tampa Bay (1-1),31,2020,2
+2188,5f993f6b0a7014855df1e98e,Jacksonville (1-1),30,2020,2
+2189,5f993f6b0a7014855df1e98f,Tennessee (2-0),33,2020,2
+2190,5f993f6b0a7014855df1e990,Washington (1-1),15,2020,2
+2191,5f993f6b0a7014855df1e991,Arizona (2-0),30,2020,2
+2192,5f993f6b0a7014855df1e992,Baltimore (2-0),33,2020,2
+2193,5f993f6b0a7014855df1e993,Houston (0-2),16,2020,2
+2194,5f993f6b0a7014855df1e994,Kansas City (2-0),23,2020,2
+2195,5f993f6b0a7014855df1e995,LA Chargers (1-1),20,2020,2
+2196,5f993f6b0a7014855df1e996,New England (1-1),30,2020,2
+2197,5f993f6b0a7014855df1e997,Seattle (2-0),35,2020,2
+2198,5f993f6b0a7014855df1e998,New Orleans (1-1),24,2020,2
+2199,5f993f6b0a7014855df1e999,Las Vegas (2-0),34,2020,2
+2200,5f993f6b0a7014855df1e99b,Miami (1-2),31,2020,3
+2201,5f993f6b0a7014855df1e99c,Jacksonville (1-2),13,2020,3
+2202,5f993f6b0a7014855df1e99d,Chicago (3-0),30,2020,3
+2203,5f993f6b0a7014855df1e99e,Atlanta (0-3),26,2020,3
+2204,5f993f6b0a7014855df1e99f,LA Rams (2-1),32,2020,3
+2205,5f993f6b0a7014855df1e9a0,Buffalo (3-0),35,2020,3
+2206,5f993f6b0a7014855df1e9a1,Washington (1-2),20,2020,3
+2207,5f993f6b0a7014855df1e9a2,Cleveland (2-1),34,2020,3
+2208,5f993f6b0a7014855df1e9a3,Tennessee (3-0),31,2020,3
+2209,5f993f6b0a7014855df1e9a4,Minnesota (0-3),30,2020,3
+2210,5f993f6b0a7014855df1e9a5,Las Vegas (2-1),20,2020,3
+2211,5f993f6b0a7014855df1e9a6,New England (2-1),36,2020,3
+2212,5f993f6b0a7014855df1e9a7,San Francisco (2-1),36,2020,3
+2213,5f993f6b0a7014855df1e9a8,NY Giants (0-3),9,2020,3
+2214,5f993f6b0a7014855df1e9a9,Cincinnati (0-2-1),23,2020,3
+2215,5f993f6b0a7014855df1e9aa,Philadelphia (0-2-1),23,2020,3
+2216,5f993f6b0a7014855df1e9ab,Houston (0-3),21,2020,3
+2217,5f993f6b0a7014855df1e9ac,Pittsburgh (3-0),28,2020,3
+2218,5f993f6b0a7014855df1e9ad,NY Jets (0-3),7,2020,3
+2219,5f993f6b0a7014855df1e9ae,Indianapolis (2-1),36,2020,3
+2220,5f993f6b0a7014855df1e9af,Carolina (1-2),21,2020,3
+2221,5f993f6b0a7014855df1e9b0,LA Chargers (1-2),16,2020,3
+2222,5f993f6b0a7014855df1e9b1,Detroit (1-2),26,2020,3
+2223,5f993f6b0a7014855df1e9b2,Arizona (2-1),23,2020,3
+2224,5f993f6b0a7014855df1e9b3,Tampa Bay (2-1),28,2020,3
+2225,5f993f6b0a7014855df1e9b4,Denver (0-3),10,2020,3
+2226,5f993f6b0a7014855df1e9b5,Dallas (1-2),31,2020,3
+2227,5f993f6b0a7014855df1e9b6,Seattle (3-0),38,2020,3
+2228,5f993f6b0a7014855df1e9b7,Green Bay (3-0),37,2020,3
+2229,5f993f6b0a7014855df1e9b8,New Orleans (1-2),30,2020,3
+2230,5f993f6b0a7014855df1e9b9,Kansas City (3-0),34,2020,3
+2231,5f993f6b0a7014855df1e9ba,Baltimore (2-1),20,2020,3
+2232,5f993f6c0a7014855df1e9bc,Denver (1-3),37,2020,4
+2233,5f993f6c0a7014855df1e9bd,NY Jets (0-4),28,2020,4
+2234,5f993f6c0a7014855df1e9be,Arizona (2-2),21,2020,4
+2235,5f993f6c0a7014855df1e9bf,Carolina (2-2),31,2020,4
+2236,5f993f6c0a7014855df1e9c0,Jacksonville (1-3),25,2020,4
+2237,5f993f6c0a7014855df1e9c1,Cincinnati (1-2-1),33,2020,4
+2238,5f993f6c0a7014855df1e9c2,Cleveland (3-1),49,2020,4
+2239,5f993f6c0a7014855df1e9c3,Dallas (1-3),38,2020,4
+2240,5f993f6c0a7014855df1e9c4,New Orleans (2-2),35,2020,4
+2241,5f993f6c0a7014855df1e9c5,Detroit (1-3),29,2020,4
+2242,5f993f6c0a7014855df1e9c6,Minnesota (1-3),31,2020,4
+2243,5f993f6c0a7014855df1e9c7,Houston (0-4),23,2020,4
+2244,5f993f6c0a7014855df1e9c8,Seattle (4-0),31,2020,4
+2245,5f993f6c0a7014855df1e9c9,Miami (1-3),23,2020,4
+2246,5f993f6c0a7014855df1e9ca,LA Chargers (1-3),31,2020,4
+2247,5f993f6c0a7014855df1e9cb,Tampa Bay (3-1),38,2020,4
+2248,5f993f6c0a7014855df1e9cc,Baltimore (3-1),31,2020,4
+2249,5f993f6c0a7014855df1e9cd,Washington (1-3),17,2020,4
+2250,5f993f6c0a7014855df1e9ce,NY Giants (0-4),9,2020,4
+2251,5f993f6c0a7014855df1e9cf,LA Rams (3-1),17,2020,4
+2252,5f993f6c0a7014855df1e9d0,Indianapolis (3-1),19,2020,4
+2253,5f993f6c0a7014855df1e9d1,Chicago (3-1),11,2020,4
+2254,5f993f6c0a7014855df1e9d2,Buffalo (4-0),30,2020,4
+2255,5f993f6c0a7014855df1e9d3,Las Vegas (2-2),23,2020,4
+2256,5f993f6c0a7014855df1e9d4,Philadelphia (1-2-1),25,2020,4
+2257,5f993f6c0a7014855df1e9d5,San Francisco (2-2),20,2020,4
+2258,5f993f6c0a7014855df1e9d6,New England (2-2),10,2020,4
+2259,5f993f6c0a7014855df1e9d7,Kansas City (4-0),26,2020,4
+2260,5f993f6c0a7014855df1e9d8,Atlanta (0-4),16,2020,4
+2261,5f993f6c0a7014855df1e9d9,Green Bay (4-0),30,2020,4
+2262,5f993f6d0a7014855df1e9db,Tampa Bay (3-2),19,2020,5
+2263,5f993f6d0a7014855df1e9dc,Chicago (4-1),20,2020,5
+2264,5f993f6d0a7014855df1e9dd,Carolina (3-2),23,2020,5
+2265,5f993f6d0a7014855df1e9de,Atlanta (0-5),16,2020,5
+2266,5f993f6d0a7014855df1e9df,Cincinnati (1-3-1),3,2020,5
+2267,5f993f6d0a7014855df1e9e0,Baltimore (4-1),27,2020,5
+2268,5f993f6d0a7014855df1e9e1,Jacksonville (1-4),14,2020,5
+2269,5f993f6d0a7014855df1e9e2,Houston (1-4),30,2020,5
+2270,5f993f6d0a7014855df1e9e3,Las Vegas (3-2),40,2020,5
+2271,5f993f6d0a7014855df1e9e4,Kansas City (4-1),32,2020,5
+2272,5f993f6d0a7014855df1e9e5,Arizona (3-2),30,2020,5
+2273,5f993f6d0a7014855df1e9e6,NY Jets (0-5),10,2020,5
+2274,5f993f6d0a7014855df1e9e7,Philadelphia (1-3-1),29,2020,5
+2275,5f993f6d0a7014855df1e9e8,Pittsburgh (4-0),38,2020,5
+2276,5f993f6d0a7014855df1e9e9,LA Rams (4-1),30,2020,5
+2277,5f993f6d0a7014855df1e9ea,Washington (1-4),10,2020,5
+2278,5f993f6d0a7014855df1e9eb,Miami (2-3),43,2020,5
+2279,5f993f6d0a7014855df1e9ec,San Francisco (2-3),17,2020,5
+2280,5f993f6d0a7014855df1e9ed,Indianapolis (3-2),23,2020,5
+2281,5f993f6d0a7014855df1e9ee,Cleveland (4-1),32,2020,5
+2282,5f993f6d0a7014855df1e9ef,NY Giants (0-5),34,2020,5
+2283,5f993f6d0a7014855df1e9f0,Dallas (2-3),37,2020,5
+2284,5f993f6d0a7014855df1e9f1,Minnesota (1-4),26,2020,5
+2285,5f993f6d0a7014855df1e9f2,Seattle (5-0),27,2020,5
+2286,5f993f6d0a7014855df1e9f3,LA Chargers (1-4),27,2020,5
+2287,5f993f6d0a7014855df1e9f4,New Orleans (3-2),30,2020,5
+2288,5f993f6d0a7014855df1e9f5,Buffalo (4-1),16,2020,5
+2289,5f993f6d0a7014855df1e9f6,Tennessee (4-0),42,2020,5
+2290,5f993f6e0a7014855df1e9f8,Denver (2-3),18,2020,6
+2291,5f993f6e0a7014855df1e9f9,New England (2-3),12,2020,6
+2292,5f993f6e0a7014855df1e9fa,Chicago (5-1),23,2020,6
+2293,5f993f6e0a7014855df1e9fb,Carolina (3-3),16,2020,6
+2294,5f993f6e0a7014855df1e9fc,Cincinnati (1-4-1),27,2020,6
+2295,5f993f6e0a7014855df1e9fd,Indianapolis (4-2),31,2020,6
+2296,5f993f6e0a7014855df1e9fe,Detroit (2-3),34,2020,6
+2297,5f993f6e0a7014855df1e9ff,Jacksonville (1-5),16,2020,6
+2298,5f993f6e0a7014855df1ea00,Atlanta (1-5),40,2020,6
+2299,5f993f6e0a7014855df1ea01,Minnesota (1-5),23,2020,6
+2300,5f993f6e0a7014855df1ea02,Washington (1-5),19,2020,6
+2301,5f993f6e0a7014855df1ea03,NY Giants (1-5),20,2020,6
+2302,5f993f6e0a7014855df1ea04,Baltimore (5-1),30,2020,6
+2303,5f993f6e0a7014855df1ea05,Philadelphia (1-4-1),28,2020,6
+2304,5f993f6e0a7014855df1ea06,Cleveland (4-2),7,2020,6
+2305,5f993f6e0a7014855df1ea07,Pittsburgh (5-0),38,2020,6
+2306,5f993f6e0a7014855df1ea08,Houston (1-5),36,2020,6
+2307,5f993f6e0a7014855df1ea09,Tennessee (5-0),42,2020,6
+2308,5f993f6e0a7014855df1ea0a,NY Jets (0-6),0,2020,6
+2309,5f993f6e0a7014855df1ea0b,Miami (3-3),24,2020,6
+2310,5f993f6e0a7014855df1ea0c,Green Bay (4-1),10,2020,6
+2311,5f993f6e0a7014855df1ea0d,Tampa Bay (4-2),38,2020,6
+2312,5f993f6e0a7014855df1ea0e,LA Rams (4-2),16,2020,6
+2313,5f993f6e0a7014855df1ea0f,San Francisco (3-3),24,2020,6
+2314,5f993f6e0a7014855df1ea10,Kansas City (5-1),26,2020,6
+2315,5f993f6e0a7014855df1ea11,Buffalo (4-2),17,2020,6
+2316,5f993f6e0a7014855df1ea12,Arizona (4-2),38,2020,6
+2317,5f993f6e0a7014855df1ea13,Dallas (2-4),10,2020,6
+2318,5f993f6e0a7014855df1ea15,NY Giants (1-6),21,2020,7
+2319,5f993f6e0a7014855df1ea16,Philadelphia (2-4-1),22,2020,7
+2320,5f993f6e0a7014855df1ea17,Pittsburgh (6-0),27,2020,7
+2321,5f993f6e0a7014855df1ea18,Tennessee (5-1),24,2020,7
+2322,5f993f6e0a7014855df1ea19,Detroit (3-3),23,2020,7
+2323,5f993f6e0a7014855df1ea1a,Atlanta (1-6),22,2020,7
+2324,5f993f6e0a7014855df1ea1b,Cleveland (5-2),37,2020,7
+2325,5f993f6e0a7014855df1ea1c,Cincinnati (1-5-1),34,2020,7
+2326,5f993f6e0a7014855df1ea1d,Green Bay (5-1),35,2020,7
+2327,5f993f6e0a7014855df1ea1e,Houston (1-6),20,2020,7
+2328,5f993f6e0a7014855df1ea1f,Carolina (3-4),24,2020,7
+2329,5f993f6e0a7014855df1ea20,New Orleans (4-2),27,2020,7
+2330,5f993f6e0a7014855df1ea21,Buffalo (5-2),18,2020,7
+2331,5f993f6e0a7014855df1ea22,NY Jets (0-7),10,2020,7
+2332,5f993f6e0a7014855df1ea23,Dallas (2-5),3,2020,7
+2333,5f993f6e0a7014855df1ea24,Washington (2-5),25,2020,7
+2334,5f993f6e0a7014855df1ea25,Tampa Bay (5-2),45,2020,7
+2335,5f993f6e0a7014855df1ea26,Las Vegas (3-3),20,2020,7
+2336,5f993f6e0a7014855df1ea27,Kansas City (6-1),43,2020,7
+2337,5f993f6e0a7014855df1ea28,Denver (2-4),16,2020,7
+2338,5f993f6e0a7014855df1ea29,San Francisco (4-3),33,2020,7
+2339,5f993f6e0a7014855df1ea2a,New England (2-4),6,2020,7
+2340,5f993f6e0a7014855df1ea2b,Jacksonville (1-6),29,2020,7
+2341,5f993f6e0a7014855df1ea2c,LA Chargers (2-4),39,2020,7
+2342,5f993f6e0a7014855df1ea2d,Seattle (5-1),34,2020,7
+2343,5f993f6e0a7014855df1ea2e,Arizona (5-2),37,2020,7
+2344,5f993f6e0a7014855df1ea2f,Chicago (5-2),10,2020,7
+2345,5f993f6e0a7014855df1ea30,LA Rams (5-2),24,2020,7
