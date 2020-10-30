@@ -12,7 +12,7 @@ import pandas as pd
 client = MongoClient('localhost', 27017)
 db = client.sports_betting_capstone
 pages = db.pages
-nfl_results = db.nfl_results
+nfl_results = db.nfl_resultsv2
 
 url_nfl_1 = 'https://www.footballdb.com/scores/index.html?lg=NFL&yr='
 url_nfl_2 = '&type=reg&wk='

@@ -12,7 +12,7 @@ import pandas as pd
 client = MongoClient('localhost', 27017)
 db = client.sports_betting_capstone
 pages = db.pages
-nfl_results = db.nfl_results
+nfl_results = db.nfl_resultsv2
 
 url_nfl_1 = 'https://www.footballdb.com/scores/index.html?lg=NFL&yr='
 url_nfl_2 = '&type=post&wk='
@@ -36,9 +36,14 @@ for year in range(2016,2020):
 
         all_rows = []
 
-        empty_row = {
-            "Team": None, "Final": None, "Season": year, "Week": week + 17
-        }
+        if week == 4:
+            empty_row = {
+                        "Team": None, "Final": None, "Season": year, "Week": week + 18
+                        }
+        else:
+            empty_row = {
+                        "Team": None, "Final": None, "Season": year, "Week": week + 17
+                        }
 
         for table in tables:
             rows = table.find_all("tr")
